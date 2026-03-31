@@ -27,6 +27,20 @@ MODEL = "claude-sonnet-4-6"
 API_URL = "https://api.anthropic.com/v1/messages"
 
 
+def parse_json_response(text: str) -> dict:
+    """Parse JSON from a Claude response, handling markdown code blocks."""
+    json_str = text.strip()
+    if json_str.startswith("```"):
+        json_str = re.sub(r"^```\w*\n?", "", json_str)
+        json_str = re.sub(r"\n?```$", "", json_str)
+    # Also try extracting JSON from surrounding text
+    if not json_str.startswith("{"):
+        match = re.search(r"\{.*\}", json_str, re.DOTALL)
+        if match:
+            json_str = match.group(0)
+    return json.loads(json_str)
+
+
 def call_claude(prompt: str, system: str = "") -> str:
     """Call the Anthropic API and return the text response."""
     headers = {
@@ -102,13 +116,7 @@ Return ONLY the JSON object, no other text."""
     print("Calling Claude to generate clues...")
     response = call_claude(prompt, system)
 
-    # Parse JSON from response (handle possible markdown code blocks)
-    json_str = response.strip()
-    if json_str.startswith("```"):
-        json_str = re.sub(r"^```\w*\n?", "", json_str)
-        json_str = re.sub(r"\n?```$", "", json_str)
-
-    clue_data = json.loads(json_str)
+    clue_data = parse_json_response(response)
     return clue_data["clues"]
 
 
@@ -234,11 +242,7 @@ Format: {{"conflicts": ["4D", "7A"]}} or {{"conflicts": []}}
 Return ONLY the JSON object."""
 
     dedup_response = call_claude(dedup_prompt, "You are a careful editor checking crossword clues for duplicate news references.")
-    dedup_json = dedup_response.strip()
-    if dedup_json.startswith("```"):
-        dedup_json = re.sub(r"^```\w*\n?", "", dedup_json)
-        dedup_json = re.sub(r"\n?```$", "", dedup_json)
-    dedup_result = json.loads(dedup_json)
+    dedup_result = parse_json_response(dedup_response)
 
     if dedup_result.get("conflicts"):
         conflict_keys = dedup_result["conflicts"]
@@ -285,11 +289,7 @@ Headlines for reference:
 Return ONLY a JSON object: {{"clues": {{"4D": "new clue here", ...}}}}"""
 
         fix_response = call_claude(fix_prompt, "You are an expert crossword clue writer. Write clues that do NOT overlap with the existing clue topics.")
-        fix_json = fix_response.strip()
-        if fix_json.startswith("```"):
-            fix_json = re.sub(r"^```\w*\n?", "", fix_json)
-            fix_json = re.sub(r"\n?```$", "", fix_json)
-        fix_clues = json.loads(fix_json)["clues"]
+        fix_clues = parse_json_response(fix_response)["clues"]
         puzzle_json = apply_clues(puzzle_json, fix_clues)
         print("  Replacement clues applied.")
     else:
