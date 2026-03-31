@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-27",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "L",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "W",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hormuz Strait's feared status, if Iran acts on threats",
+        "answer": "PASS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Tailor, as a bill facing House headwinds",
+        "answer": "ALTER",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "One working without freedom or pay",
+        "answer": "SLAVE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Mere gesture, as critics call some peace proposals",
+        "answer": "TOKEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Headed off, as aid boats that safely reached Cuba",
+        "answer": "WENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "History, as in bygone headlines",
+        "answer": "PAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Permit entry, as TSA agents at airport checkpoints",
+        "answer": "ALLOW",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "What investors have in oil prices as Iran war drags on",
+        "answer": "STAKE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Number of Sweet 16 games on Friday's March Madness slate",
+        "answer": "SEVEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Monthly payment that's straining higher-income Americans amid financial anxiety",
+        "answer": "RENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>Crosswording The Situation — Daily News Crossword</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>Crosswording The Situation</h1>
+      <p class="date" id="puzzle-date"></p>
+    </header>
+
+    <div id="timer">0:00</div>
+
+    <div id="grid-container">
+      <div id="grid"></div>
+    </div>
+
+    <div id="toolbar">
+      <button id="btn-hint" title="Reveal letter">Hint</button>
+      <button id="btn-reveal-word" title="Reveal current word">Reveal Word</button>
+      <button id="btn-reveal-puzzle" title="Reveal entire puzzle">Reveal Puzzle</button>
+    </div>
+
+    <div id="clue-bar">
+      <button id="clue-prev" aria-label="Previous clue">&lsaquo;</button>
+      <span id="clue-text"></span>
+      <button id="clue-next" aria-label="Next clue">&rsaquo;</button>
+    </div>
+
+    <div id="clue-lists">
+      <div class="clue-section">
+        <h3>Across</h3>
+        <ol id="clues-across"></ol>
+      </div>
+      <div class="clue-section">
+        <h3>Down</h3>
+        <ol id="clues-down"></ol>
+      </div>
+    </div>
+
+    <div id="complete-overlay" class="hidden">
+      <div id="complete-modal">
+        <button id="close-modal" aria-label="Close">&times;</button>
+
+        <div id="complete-star">&#11088;</div>
+        <h2 id="complete-message">Brilliant Work!</h2>
+        <p class="complete-subtitle">You solved the puzzle.</p>
+
+        <div id="stats-card">
+          <div class="stats-header">
+            <div class="stats-date" id="stats-date"></div>
+          </div>
+          <div class="stats-row">
+            <span class="stats-label">Solved In</span>
+            <span class="stats-value" id="stats-time"></span>
+          </div>
+          <div class="stats-row" id="stats-trend-row">
+            <span class="stats-label">Trend</span>
+            <span class="stats-value" id="stats-trend"></span>
+          </div>
+          <div class="stats-row stats-row-last">
+            <span class="stats-label">Current Streak</span>
+            <span class="stats-value" id="stats-streak"></span>
+          </div>
+        </div>
+
+        <div id="share-grid"></div>
+
+        <div id="complete-buttons">
+          <button id="share-btn">Share</button>
+          <button id="done-btn">Done</button>
+        </div>
+        <p id="copied-msg" class="hidden">Copied to clipboard!</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="crossword.js"></script>
+</body>
+</html>
