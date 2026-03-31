@@ -6,33 +6,33 @@
       "P",
       "A",
       "S",
-      "T",
+      "S",
       "#"
     ],
     [
       "A",
       "L",
-      "L",
-      "O",
-      "W"
+      "T",
+      "E",
+      "R"
     ],
     [
       "S",
-      "T",
+      "L",
       "A",
-      "K",
+      "V",
       "E"
     ],
     [
-      "S",
-      "E",
-      "V",
+      "T",
+      "O",
+      "K",
       "E",
       "N"
     ],
     [
       "#",
-      "R",
+      "W",
       "E",
       "N",
       "T"
@@ -42,40 +42,40 @@
     "across": [
       {
         "number": 1,
-        "clue": "History, as in a candidate's record",
-        "answer": "PAST",
+        "clue": "Spain did this to U.S. aircraft involved in the Iran war",
+        "answer": "PASS",
         "row": 0,
         "col": 0,
         "length": 4
       },
       {
         "number": 5,
-        "clue": "What Spain won't do for U.S. military aircraft in its airspace",
-        "answer": "ALLOW",
+        "clue": "What editing a presidential library rendering might do to history",
+        "answer": "ALTER",
         "row": 1,
         "col": 0,
         "length": 5
       },
       {
         "number": 7,
-        "clue": "What's at ___ in Iran war oil price surges",
-        "answer": "STAKE",
+        "clue": "One who toils without freedom, in a historical sense",
+        "answer": "SLAVE",
         "row": 2,
         "col": 0,
         "length": 5
       },
       {
         "number": 8,
-        "clue": "Joseph Duggar reportedly told his wife he had only $60 \u2014 missing this many digits",
-        "answer": "SEVEN",
+        "clue": "Subway fare chip \u2014 or a small crypto unit",
+        "answer": "TOKEN",
         "row": 3,
         "col": 0,
         "length": 5
       },
       {
         "number": 9,
-        "clue": "Monthly payment soaring alongside war-driven housing costs",
-        "answer": "RENT",
+        "clue": "Left, as in Artemis II's window finally ___ live",
+        "answer": "WENT",
         "row": 4,
         "col": 1,
         "length": 4
@@ -84,40 +84,40 @@
     "down": [
       {
         "number": 1,
-        "clue": "TSA agents seeing partial ones amid government pay issues",
-        "answer": "PASS",
+        "clue": "Previous, as in a ___ administration's policies",
+        "answer": "PAST",
         "row": 0,
         "col": 0,
         "length": 4
       },
       {
         "number": 2,
-        "clue": "What conservative scholars say the Supreme Court may need to do with birthright citizenship rules",
-        "answer": "ALTER",
+        "clue": "What the TSA didn't fully ___ in paychecks this period",
+        "answer": "ALLOW",
         "row": 0,
         "col": 1,
         "length": 5
       },
       {
         "number": 3,
-        "clue": "Forced labor conviction word: founder of 'orgasmic meditation' firm found guilty of ___ conspiracy",
-        "answer": "SLAVE",
+        "clue": "What's at ___ when Iran's Kharg Island is targeted",
+        "answer": "STAKE",
         "row": 0,
         "col": 2,
         "length": 5
       },
       {
         "number": 4,
-        "clue": "Subway farecard or small gesture of appreciation",
-        "answer": "TOKEN",
+        "clue": "Number of UN peacekeepers killed in Lebanon this week: ___ total, counting recent casualties",
+        "answer": "SEVEN",
         "row": 0,
         "col": 3,
         "length": 5
       },
       {
         "number": 6,
-        "clue": "Departed, as Air Canada's outgoing CEO",
-        "answer": "WENT",
+        "clue": "Ongoing cost that soars during a housing crisis",
+        "answer": "RENT",
         "row": 1,
         "col": 4,
         "length": 4
