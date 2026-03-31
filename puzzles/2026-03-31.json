@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-31",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "History, as in a candidate's record",
+        "answer": "PAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "What Spain won't do for U.S. military aircraft in its airspace",
+        "answer": "ALLOW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What's at ___ in Iran war oil price surges",
+        "answer": "STAKE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Joseph Duggar reportedly told his wife he had only $60 \u2014 missing this many digits",
+        "answer": "SEVEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Monthly payment soaring alongside war-driven housing costs",
+        "answer": "RENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "TSA agents seeing partial ones amid government pay issues",
+        "answer": "PASS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "What conservative scholars say the Supreme Court may need to do with birthright citizenship rules",
+        "answer": "ALTER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Forced labor conviction word: founder of 'orgasmic meditation' firm found guilty of ___ conspiracy",
+        "answer": "SLAVE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Subway farecard or small gesture of appreciation",
+        "answer": "TOKEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Departed, as Air Canada's outgoing CEO",
+        "answer": "WENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
