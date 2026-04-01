@@ -7,7 +7,7 @@ A daily 5x5 mini crossword where clues are tied to recent news headlines. Reward
 - **Front-end:** Vanilla HTML/CSS/JS, no framework. Static files served from any host.
 - **Puzzle data:** One JSON file per day in `puzzles/YYYY-MM-DD.json`
 - **Generation pipeline:** Python scripts in `tools/` that scrape headlines, generate a valid grid, and use Claude (Sonnet 4.6) to write news-themed clues
-- **Hosting:** GitHub Pages at https://daylayown.github.io/crossword-puzzle/ (private repo: daylayown/crossword-puzzle)
+- **Hosting:** GitHub Pages at https://crosswordingthesituation.com (private repo: daylayown/crossword-puzzle)
 - **Daily automation:** GitHub Actions cron job generates a new puzzle at 2am MST daily
 
 ## Project Structure
@@ -68,13 +68,8 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - **Multi-source headlines:** Google News RSS (today) + Bluesky feeds from 6 news orgs (14-day lookback) + daily headline cache
 - **Cross-day story dedup:** Pipeline reads last 7 days of puzzles and steers Sonnet away from recently used stories and answer words
 - **Deployed to GitHub Pages** with automated daily puzzle generation via GitHub Actions (2am MST)
-
-## Domain
-
-Top contenders (all available, need to confirm `cts` specifically):
-- **cts.news** — Best thematic fit, ~$7–8/yr
-- **cts.today** — Fits the daily format, ~$2–3/yr
-- **cts.fun** — Cheap and playful, ~$1–2/yr
+- **Custom domain:** crosswordingthesituation.com (registered via Cloudflare, DNS-only mode)
+- **Analytics:** Google Analytics 4 (G-F5ZLZD433P) for visitor tracking
 
 ## Next Steps
 
