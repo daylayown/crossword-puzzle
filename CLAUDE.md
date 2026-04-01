@@ -68,6 +68,7 @@ Top contenders (all available, need to confirm `cts` specifically):
 
 ## Next Steps
 
+- Cross-day story dedup: The pipeline currently has no memory across days, so Sonnet tends to repeat the biggest stories on consecutive days. Fix: read the last 5-7 days of puzzle JSONs from `puzzles/`, extract clue texts, and add them to the clue generation prompt as "stories already used — avoid these." No new files or infrastructure needed — just ~15 lines of Python in `generate_puzzle.py` and a prompt addition. Start with 7 days; increase if needed.
 - Clue bucket: let the author manually seed word+clue pairs that the pipeline prefers (see below)
 - Firebase Auth (Google sign-in) + Firestore for cross-device personal score sync
 - Puzzle archive page
