@@ -7,7 +7,7 @@ A daily 5x5 mini crossword where clues are tied to recent news headlines. Reward
 - **Front-end:** Vanilla HTML/CSS/JS, no framework. Static files served from any host.
 - **Puzzle data:** One JSON file per day in `puzzles/YYYY-MM-DD.json`
 - **Generation pipeline:** Python scripts in `tools/` that scrape headlines, generate a valid grid, and use Claude (Sonnet 4.6) to write news-themed clues
-- **Hosting:** GitHub Pages at https://crosswordingthesituation.com (private repo: daylayown/crossword-puzzle)
+- **Hosting:** GitHub Pages at https://crosswordingthesituation.com (repo: daylayown/crossword-puzzle)
 - **Daily automation:** GitHub Actions cron job generates a new puzzle at 2am MST daily
 
 ## Project Structure
