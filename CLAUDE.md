@@ -17,10 +17,12 @@ index.html          — Main puzzle player page
 style.css           — Mobile-first responsive styles
 crossword.js        — Game engine (grid, input, clues, timer, hints, share, stats)
 puzzles/            — Daily puzzle JSON files
+puzzles/headlines/  — Cached headline JSON files (gitignored, built up over daily runs)
 tools/
   generate_puzzle.py   — Full pipeline: grid → headlines → Claude clues → dedup check → validate → JSON
   generate_grid.py     — 5x5 crossword grid generator with black squares
   scrape_headlines.py  — Google News RSS feed scraper across categories
+  scrape_bluesky.py    — Bluesky AT Protocol scraper for news org feeds (NYT, Reuters, AP, WSJ, BBC, WashPost)
 .github/workflows/
   deploy.yml           — GitHub Pages deployment (triggers on push to main)
   generate-puzzle.yml  — Daily puzzle generation cron (2am MST) + manual trigger
@@ -29,9 +31,14 @@ tools/
 ## Puzzle Generation Pipeline
 
 1. `generate_grid.py` creates a valid 5x5 grid with rotationally symmetric black squares. All across/down words are real English words, no duplicates.
-2. `scrape_headlines.py` pulls ~400 headlines from Google News RSS (top stories, world, business, tech, entertainment, sports, science, health).
-3. `generate_puzzle.py` orchestrates everything: generates grid, scrapes headlines, sends grid + headlines to Claude Sonnet 4.6 via the Anthropic API (using `requests`, no SDK), validates output, writes puzzle JSON.
-4. **Dedup check (Step 5):** A second Claude call reviews all clues and flags any that reference the same news story. Conflicting clues are automatically rewritten to reference different stories.
+2. **Multi-source headline scraping:**
+   - `scrape_headlines.py` pulls ~400 headlines from Google News RSS (top stories, world, business, tech, entertainment, sports, science, health). These represent today's trending stories.
+   - `scrape_bluesky.py` pulls up to 14 days of posts from 6 major news orgs on Bluesky (NYT, Reuters, AP, WSJ, BBC, WashPost) via the public AT Protocol API (no auth needed). This provides depth and variety beyond what's trending today.
+   - **Headline cache:** Each run saves its scraped headlines to `puzzles/headlines/YYYY-MM-DD.json`. Previous days' cached headlines are loaded and merged, giving the pipeline a growing archive. On GitHub Actions (fresh checkout), the Bluesky 14-day lookback fills this role.
+   - All sources are merged, deduplicated by title, sorted freshest-first. Top 200 headlines are sent to Claude (up from 100), tagged with age (e.g., "today", "3d ago").
+3. **Cross-day story dedup:** Before generating clues, the pipeline reads the last 7 days of puzzle JSONs from `puzzles/`, extracts used clue texts and answer words, and injects them into the prompt as "stories already used — avoid these." This is a soft steer, not a hard ban.
+4. `generate_puzzle.py` orchestrates everything: generates grid, scrapes headlines from all sources, sends grid + headlines + dedup context to Claude Sonnet 4.6 via the Anthropic API (using `requests`, no SDK), validates output, writes puzzle JSON.
+5. **Within-puzzle dedup check (Step 5):** A second Claude call reviews all clues and flags any that reference the same news story. Conflicting clues are automatically rewritten to reference different stories.
 
 Run manually: `python3 tools/generate_puzzle.py [YYYY-MM-DD]`
 
@@ -43,7 +50,8 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 
 - Grid is generated first from a broad word list, then Claude writes news-themed clues for the words. This guarantees a valid grid every time (vs. trying to force arbitrary news words into a grid).
 - Not every clue needs to be news-themed — a mix of news and standard crossword clues is ideal, like the NYT Mini.
-- Each news-themed clue must reference a DIFFERENT story/topic. No repeating the same headline across multiple clues.
+- Each news-themed clue must reference a DIFFERENT story/topic. No repeating the same headline across multiple clues — enforced both within a single puzzle (two-pass dedup) and across consecutive days (7-day lookback).
+- Headlines are sourced from Google News RSS (today's trending) and Bluesky news org feeds (14-day depth). More data = more variety = fewer repeated stories.
 - Black squares at (0,4) and (4,0) with rotational symmetry. Gives a mix of 4-letter and 5-letter words.
 
 ## What's Working
@@ -57,6 +65,8 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - **Trend analysis** — shows how current solve time compares to personal average (hidden on first solve)
 - Progress saves to localStorage
 - Full generation pipeline with two-pass dedup producing real news-themed puzzles
+- **Multi-source headlines:** Google News RSS (today) + Bluesky feeds from 6 news orgs (14-day lookback) + daily headline cache
+- **Cross-day story dedup:** Pipeline reads last 7 days of puzzles and steers Sonnet away from recently used stories and answer words
 - **Deployed to GitHub Pages** with automated daily puzzle generation via GitHub Actions (2am MST)
 
 ## Domain
@@ -68,7 +78,6 @@ Top contenders (all available, need to confirm `cts` specifically):
 
 ## Next Steps
 
-- Cross-day story dedup: The pipeline currently has no memory across days, so Sonnet tends to repeat the biggest stories on consecutive days. Fix: read the last 5-7 days of puzzle JSONs from `puzzles/`, extract clue texts, and add them to the clue generation prompt as "stories already used — avoid these." No new files or infrastructure needed — just ~15 lines of Python in `generate_puzzle.py` and a prompt addition. Start with 7 days; increase if needed.
 - Clue bucket: let the author manually seed word+clue pairs that the pipeline prefers (see below)
 - Firebase Auth (Google sign-in) + Firestore for cross-device personal score sync
 - Puzzle archive page
