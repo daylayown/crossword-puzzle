@@ -12,7 +12,7 @@ import os
 import random
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests
@@ -21,10 +21,14 @@ import requests
 sys.path.insert(0, str(Path(__file__).parent))
 from generate_grid import solve_grid, grid_to_json
 from scrape_headlines import scrape_all_headlines, format_headlines_for_prompt
+from scrape_bluesky import scrape_bluesky_headlines, format_bluesky_headlines_for_prompt
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 MODEL = "claude-sonnet-4-6"
 API_URL = "https://api.anthropic.com/v1/messages"
+
+PUZZLES_DIR = Path(__file__).parent.parent / "puzzles"
+HEADLINES_DIR = PUZZLES_DIR / "headlines"
 
 
 def parse_json_response(text: str) -> dict:
@@ -63,7 +67,72 @@ def call_claude(prompt: str, system: str = "") -> str:
     return data["content"][0]["text"]
 
 
-def generate_clues(puzzle_json: dict, headlines_text: str) -> dict:
+def cache_headlines(date: str, headlines: list[dict]) -> None:
+    """Save scraped headlines to puzzles/headlines/YYYY-MM-DD.json for reuse."""
+    HEADLINES_DIR.mkdir(parents=True, exist_ok=True)
+    cache_path = HEADLINES_DIR / f"{date}.json"
+    with open(cache_path, "w") as f:
+        json.dump(headlines, f, indent=2)
+    print(f"  Cached {len(headlines)} headlines to {cache_path}")
+
+
+def load_cached_headlines(days_back: int = 14) -> list[dict]:
+    """Load headlines from the cache for the past N days."""
+    if not HEADLINES_DIR.exists():
+        return []
+    all_headlines = []
+    today = datetime.now()
+    for i in range(1, days_back + 1):  # Skip today (day 0) since we scrape fresh
+        date_str = (today - timedelta(days=i)).strftime("%Y-%m-%d")
+        cache_path = HEADLINES_DIR / f"{date_str}.json"
+        if cache_path.exists():
+            with open(cache_path) as f:
+                cached = json.load(f)
+                for h in cached:
+                    h["age_days"] = i
+                all_headlines.extend(cached)
+    # Deduplicate by title
+    seen = set()
+    unique = []
+    for h in all_headlines:
+        if h["title"] not in seen:
+            seen.add(h["title"])
+            unique.append(h)
+    print(f"  Loaded {len(unique)} cached headlines from past {days_back} days")
+    return unique
+
+
+def get_recent_clues_and_words(days_back: int = 7) -> tuple[list[str], list[str]]:
+    """Read recent puzzle JSONs and extract used clue texts and answer words."""
+    clues = []
+    words = []
+    today = datetime.now()
+    for i in range(1, days_back + 1):
+        date_str = (today - timedelta(days=i)).strftime("%Y-%m-%d")
+        puzzle_path = PUZZLES_DIR / f"{date_str}.json"
+        if puzzle_path.exists():
+            with open(puzzle_path) as f:
+                puzzle = json.load(f)
+            for direction in ("across", "down"):
+                for entry in puzzle.get("clues", {}).get(direction, []):
+                    clues.append(entry.get("clue", ""))
+                    words.append(entry.get("answer", ""))
+    return clues, words
+
+
+def format_headlines_with_age(headlines: list[dict]) -> str:
+    """Format headlines with age tags for the prompt."""
+    lines = []
+    for h in headlines:
+        age = h.get("age_days", 0)
+        age_label = "today" if age == 0 else f"{age}d ago"
+        cat = h.get("category", "news").upper()
+        src = f" ({h['source']})" if h.get("source") else ""
+        lines.append(f"[{cat} · {age_label}]{src} {h['title']}")
+    return "\n".join(lines)
+
+
+def generate_clues(puzzle_json: dict, headlines_text: str, dedup_context: str = "") -> dict:
     """Use Claude to write news-themed clues for a crossword grid."""
 
     # Collect all answers
@@ -85,7 +154,19 @@ Guidelines:
 - Clues can be definitional, punny, or use wordplay — variety is good.
 - CRITICAL: Every news-themed clue must reference a DIFFERENT news story or topic. Never use the same headline, event, person, or subject in more than one clue. Maximize the breadth of news coverage across the puzzle — each clue is a chance to surface a different story."""
 
-    prompt = f"""Here are today's top news headlines:
+    dedup_section = ""
+    if dedup_context:
+        dedup_section = f"""
+
+---
+
+STORIES AND WORDS ALREADY USED IN RECENT PUZZLES (avoid these):
+{dedup_context}
+
+Strongly prefer referencing DIFFERENT news stories and topics than the ones listed above. If a word in the grid genuinely only connects to one of these already-used stories, write a standard (non-news) crossword clue for it instead.
+"""
+
+    prompt = f"""Here are recent news headlines (tagged with age — prefer fresher stories but older ones are fair game):
 
 {headlines_text}
 
@@ -96,7 +177,7 @@ Here is today's crossword grid with the answer words that need clues:
 {word_list}
 
 For each word, write a crossword clue.
-
+{dedup_section}
 IMPORTANT — NO DUPLICATE NEWS STORIES: Each news-themed clue MUST reference a completely different news story, event, person, or topic. Before finalizing, review all your clues and verify that no two clues reference the same story or even closely related aspects of the same story. If you find a collision, rewrite one of the clues to reference a different story, or make it a standard (non-news) crossword clue instead.
 
 Return your answer as a JSON object with this exact format:
@@ -202,18 +283,61 @@ def main():
 
     puzzle_json = grid_to_json(grid, date)
 
-    # Step 2: Scrape headlines
-    print("\nStep 2: Scraping news headlines...")
-    headlines = scrape_all_headlines()
-    if not headlines:
-        print("Warning: No headlines scraped. Clues will be standard crossword clues.")
+    # Step 2: Scrape headlines from multiple sources
+    print("\nStep 2a: Scraping Google News headlines...")
+    google_headlines = scrape_all_headlines()
+    for h in google_headlines:
+        h["age_days"] = 0  # Google News = today's news
+
+    print("\nStep 2b: Scraping Bluesky news feeds (past 14 days)...")
+    try:
+        bluesky_headlines = scrape_bluesky_headlines(days_back=14)
+    except Exception as e:
+        print(f"  Bluesky scrape failed (non-fatal): {e}")
+        bluesky_headlines = []
+
+    print("\nStep 2c: Loading cached headlines from previous days...")
+    cached_headlines = load_cached_headlines(days_back=14)
+
+    # Merge all headlines, dedup by title
+    all_headlines = google_headlines + bluesky_headlines + cached_headlines
+    seen_titles = set()
+    unique_headlines = []
+    for h in all_headlines:
+        if h["title"] not in seen_titles:
+            seen_titles.add(h["title"])
+            unique_headlines.append(h)
+
+    # Sort: freshest first
+    unique_headlines.sort(key=lambda h: h.get("age_days", 0))
+    print(f"\n  Total unique headlines across all sources: {len(unique_headlines)}")
+
+    # Cache today's headlines (Google News + Bluesky) for future runs
+    todays_headlines = [h for h in google_headlines + bluesky_headlines
+                        if h.get("age_days", 0) == 0]
+    cache_headlines(date, todays_headlines)
+
+    # Format for the prompt — take top 200 (more variety than before)
+    if not unique_headlines:
         headlines_text = "(No current headlines available)"
     else:
-        headlines_text = format_headlines_for_prompt(headlines[:100])  # Top 100 headlines
+        headlines_text = format_headlines_with_age(unique_headlines[:200])
+
+    # Step 2d: Build cross-day dedup context
+    print("\nStep 2d: Building cross-day dedup context...")
+    recent_clues, recent_words = get_recent_clues_and_words(days_back=7)
+    dedup_context = ""
+    if recent_clues:
+        clue_lines = [f"  - {c}" for c in recent_clues if c]
+        word_lines = [f"  - {w}" for w in set(recent_words) if w]
+        dedup_context = f"Recently used clues:\n{chr(10).join(clue_lines)}\n\nRecently used answer words:\n{chr(10).join(word_lines)}"
+        print(f"  Found {len(recent_clues)} clues and {len(set(recent_words))} unique words from recent puzzles")
+    else:
+        print("  No recent puzzles found for dedup")
 
     # Step 3: Generate clues with Claude
     print("\nStep 3: Generating clues with Claude...")
-    clues = generate_clues(puzzle_json, headlines_text)
+    clues = generate_clues(puzzle_json, headlines_text, dedup_context)
 
     # Step 4: Apply clues and validate
     print("\nStep 4: Applying clues and validating...")
