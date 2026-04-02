@@ -161,6 +161,20 @@ header h1 {
   color: #999;
 }
 
+/* Incorrect cell flash */
+@keyframes cellShake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-3px); }
+  40% { transform: translateX(3px); }
+  60% { transform: translateX(-2px); }
+  80% { transform: translateX(2px); }
+}
+
+.cell.incorrect {
+  background: #ffdddd !important;
+  animation: cellShake 0.4s ease-in-out;
+}
+
 /* Clue bar */
 #clue-bar {
   width: 100%;

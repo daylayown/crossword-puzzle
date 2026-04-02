@@ -526,22 +526,44 @@
 
   // --- Completion ---
   function checkCompletion() {
+    let allFilled = true;
+    let allCorrect = true;
+
     for (let r = 0; r < puzzle.size; r++) {
       for (let c = 0; c < puzzle.size; c++) {
         if (puzzle.grid[r][c] === "#") continue;
-        if (userGrid[r][c] !== puzzle.grid[r][c]) return;
+        if (userGrid[r][c] === "") {
+          allFilled = false;
+          allCorrect = false;
+        } else if (userGrid[r][c] !== puzzle.grid[r][c]) {
+          allCorrect = false;
+        }
       }
     }
 
-    solved = true;
-    clearInterval(timerInterval);
+    if (allCorrect) {
+      solved = true;
+      clearInterval(timerInterval);
 
-    // Save solve time to history
-    const elapsedSeconds = Math.floor((Date.now() - timerStart) / 1000);
-    saveSolveRecord(puzzle.date, elapsedSeconds, usedHints);
+      // Save solve time to history
+      const elapsedSeconds = Math.floor((Date.now() - timerStart) / 1000);
+      saveSolveRecord(puzzle.date, elapsedSeconds, usedHints);
 
-    saveProgress();
-    showCompletion();
+      saveProgress();
+      showCompletion();
+    } else if (allFilled) {
+      // Grid is full but has errors — flash incorrect cells
+      for (let r = 0; r < puzzle.size; r++) {
+        for (let c = 0; c < puzzle.size; c++) {
+          if (puzzle.grid[r][c] === "#") continue;
+          if (userGrid[r][c] !== puzzle.grid[r][c]) {
+            const cell = getCellEl(r, c);
+            cell.classList.add("incorrect");
+            setTimeout(() => cell.classList.remove("incorrect"), 1000);
+          }
+        }
+      }
+    }
   }
 
   function showCompletion() {
