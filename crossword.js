@@ -121,15 +121,6 @@
     hiddenInput.addEventListener("input", () => { hiddenInput.value = ""; });
     // Taps on the transparent input overlay → determine which grid cell was hit
     hiddenInput.addEventListener("click", handleInputOverlayClick);
-    // Prevent iOS Safari from scrolling the page when the keyboard opens.
-    // Translating the input far above the viewport tricks Safari into thinking
-    // there's nowhere to scroll. The transform is removed after focus completes.
-    hiddenInput.addEventListener("touchstart", (e) => {
-      if (solved) return;
-      hiddenInput.style.transform = "translateY(-8000px)";
-      hiddenInput.focus();
-      setTimeout(() => { hiddenInput.style.transform = "none"; }, 0);
-    });
 
     cluePrev.addEventListener("click", () => cycleClue(-1));
     clueNext.addEventListener("click", () => cycleClue(1));
@@ -335,7 +326,6 @@
     for (const li of container.children) {
       if (li.dataset.number === String(clue.number) && li.dataset.dir === clue.dir) {
         li.classList.add("active");
-        li.scrollIntoView({ block: "nearest", behavior: "smooth" });
       }
     }
   }
