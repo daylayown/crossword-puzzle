@@ -63,6 +63,7 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - **Personal solve history** stored in localStorage (`newsword-history` key) — tracks solve time and hint usage per puzzle date
 - **Streak tracking** — counts consecutive days with a completed puzzle
 - **Trend analysis** — shows how current solve time compares to personal average (hidden on first solve)
+- **Auto-completion detection:** When the last cell is filled, the game automatically checks the grid. If all correct, the completion modal appears. If there are errors, incorrect cells flash red and shake to show the player where to look — no need to hit "Reveal Puzzle" to check.
 - Progress saves to localStorage
 - Full generation pipeline with two-pass dedup producing real news-themed puzzles
 - **Multi-source headlines:** Google News RSS (today) + Bluesky feeds from 6 news orgs (14-day lookback) + daily headline cache
