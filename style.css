@@ -449,6 +449,26 @@ header h1 {
   display: none;
 }
 
+/* Footer */
+#site-footer {
+  margin-top: 32px;
+  padding: 20px 16px;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #999;
+  line-height: 1.6;
+}
+
+#site-footer a {
+  color: #999;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+#site-footer a:hover {
+  color: #666;
+}
+
 /* Focus ring for keyboard accessibility */
 .cell:focus-visible {
   outline: 2px solid var(--accent);
