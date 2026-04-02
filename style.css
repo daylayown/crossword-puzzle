@@ -68,6 +68,21 @@ header h1 {
   display: flex;
   justify-content: center;
   margin-bottom: 12px;
+  position: relative;
+}
+
+#hidden-input {
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+  top: 50%;
+  left: 50%;
+  font-size: 16px; /* prevents iOS zoom on focus */
+  caret-color: transparent;
+  border: none;
+  outline: none;
+  z-index: -1;
 }
 
 #grid {

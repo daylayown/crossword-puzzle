@@ -28,6 +28,7 @@
   const copiedMsg = document.getElementById("copied-msg");
   const cluePrev = document.getElementById("clue-prev");
   const clueNext = document.getElementById("clue-next");
+  const hiddenInput = document.getElementById("hidden-input");
   const btnHint = document.getElementById("btn-hint");
   const btnRevealWord = document.getElementById("btn-reveal-word");
   const btnRevealPuzzle = document.getElementById("btn-reveal-puzzle");
@@ -114,6 +115,11 @@
 
     // Event listeners
     document.addEventListener("keydown", handleKeydown);
+
+    // Hidden input for mobile soft keyboard support
+    hiddenInput.addEventListener("beforeinput", handleBeforeInput);
+    // Clear the input after each keystroke so it's always ready for the next
+    hiddenInput.addEventListener("input", () => { hiddenInput.value = ""; });
     cluePrev.addEventListener("click", () => cycleClue(-1));
     clueNext.addEventListener("click", () => cycleClue(1));
     shareBtn.addEventListener("click", handleShare);
@@ -172,7 +178,6 @@
           }
 
           cell.addEventListener("click", () => onCellClick(r, c));
-          cell.tabIndex = 0;
         }
 
         gridEl.appendChild(cell);
@@ -215,6 +220,7 @@
     updateHighlighting();
     updateClueBar();
     updateClueListHighlight();
+    focusInput();
   }
 
   function getClueForCell(r, c, dir) {
@@ -334,6 +340,24 @@
       }
     }
     selectCell(r, c);
+  }
+
+  function focusInput() {
+    if (!solved) {
+      hiddenInput.focus({ preventScroll: true });
+    }
+  }
+
+  function handleBeforeInput(e) {
+    if (solved) return;
+
+    if (e.inputType === "insertText" && e.data && /^[a-zA-Z]$/.test(e.data)) {
+      e.preventDefault();
+      handleLetterInput(e.data.toUpperCase());
+    } else if (e.inputType === "deleteContentBackward") {
+      e.preventDefault();
+      handleBackspace();
+    }
   }
 
   function handleKeydown(e) {
