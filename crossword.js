@@ -364,11 +364,8 @@
   }
 
   function focusInput() {
-    if (!solved) {
-      const scrollX = window.scrollX;
-      const scrollY = window.scrollY;
+    if (!solved && document.activeElement !== hiddenInput) {
       hiddenInput.focus({ preventScroll: true });
-      window.scrollTo(scrollX, scrollY);
     }
   }
 
