@@ -119,8 +119,10 @@
     // Hidden input for mobile soft keyboard support (iOS doesn't fire keydown for virtual keyboard)
     hiddenInput.addEventListener("beforeinput", handleBeforeInput);
     hiddenInput.addEventListener("input", () => { hiddenInput.value = ""; });
-    // Taps on the transparent input overlay → determine which grid cell was hit
-    hiddenInput.addEventListener("click", handleInputOverlayClick);
+    // Tapping the input (positioned over the selected cell) toggles direction
+    hiddenInput.addEventListener("click", () => {
+      onCellClick(selectedRow, selectedCol);
+    });
 
     cluePrev.addEventListener("click", () => cycleClue(-1));
     clueNext.addEventListener("click", () => cycleClue(1));
@@ -222,6 +224,7 @@
     updateHighlighting();
     updateClueBar();
     updateClueListHighlight();
+    positionInput(r, c);
   }
 
   function getClueForCell(r, c, dir) {
@@ -342,22 +345,18 @@
     selectCell(r, c);
   }
 
-  function handleInputOverlayClick(e) {
+  function positionInput(r, c) {
+    // Position the transparent input directly over the selected cell.
+    // This avoids iOS scroll-on-focus: the input is always at a visible,
+    // sensible position — there's nowhere for iOS to scroll to.
+    const cellEl = getCellEl(r, c);
     const gridRect = gridEl.getBoundingClientRect();
-    const x = e.clientX - gridRect.left;
-    const y = e.clientY - gridRect.top;
+    const cellRect = cellEl.getBoundingClientRect();
+    hiddenInput.style.left = (cellRect.left - gridRect.left) + "px";
+    hiddenInput.style.top = (cellRect.top - gridRect.top) + "px";
 
-    if (x < 0 || y < 0 || x > gridRect.width || y > gridRect.height) return;
-
-    const cellWidth = gridRect.width / puzzle.size;
-    const cellHeight = gridRect.height / puzzle.size;
-    const col = Math.floor(x / cellWidth);
-    const row = Math.floor(y / cellHeight);
-
-    if (row >= 0 && row < puzzle.size && col >= 0 && col < puzzle.size) {
-      if (puzzle.grid[row][col] !== "#") {
-        onCellClick(row, col);
-      }
+    if (!solved && document.activeElement !== hiddenInput) {
+      hiddenInput.focus();
     }
   }
 
