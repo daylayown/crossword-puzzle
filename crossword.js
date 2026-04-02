@@ -121,13 +121,14 @@
     hiddenInput.addEventListener("input", () => { hiddenInput.value = ""; });
     // Taps on the transparent input overlay → determine which grid cell was hit
     hiddenInput.addEventListener("click", handleInputOverlayClick);
-    // When iOS focuses the input and opens the keyboard, it scrolls the page.
-    // Undo that scroll on the next frame (only fires on focus change, not every keystroke).
-    hiddenInput.addEventListener("focus", () => {
-      const scrollY = window.scrollY;
-      requestAnimationFrame(() => {
-        window.scrollTo(window.scrollX, scrollY);
-      });
+    // Prevent iOS Safari from scrolling the page when the keyboard opens.
+    // Translating the input far above the viewport tricks Safari into thinking
+    // there's nowhere to scroll. The transform is removed after focus completes.
+    hiddenInput.addEventListener("touchstart", (e) => {
+      if (solved) return;
+      hiddenInput.style.transform = "translateY(-8000px)";
+      hiddenInput.focus();
+      setTimeout(() => { hiddenInput.style.transform = "none"; }, 0);
     });
 
     cluePrev.addEventListener("click", () => cycleClue(-1));
