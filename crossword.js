@@ -121,6 +121,14 @@
     hiddenInput.addEventListener("input", () => { hiddenInput.value = ""; });
     // Taps on the transparent input overlay → determine which grid cell was hit
     hiddenInput.addEventListener("click", handleInputOverlayClick);
+
+    // Prevent iOS keyboard from shifting the page
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener("resize", () => {
+        window.scrollTo(0, 0);
+      });
+    }
+
     cluePrev.addEventListener("click", () => cycleClue(-1));
     clueNext.addEventListener("click", () => cycleClue(1));
     shareBtn.addEventListener("click", handleShare);
@@ -364,7 +372,10 @@
 
   function focusInput() {
     if (!solved) {
+      const scrollX = window.scrollX;
+      const scrollY = window.scrollY;
       hiddenInput.focus({ preventScroll: true });
+      window.scrollTo(scrollX, scrollY);
     }
   }
 

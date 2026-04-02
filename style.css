@@ -68,11 +68,10 @@ header h1 {
   display: flex;
   justify-content: center;
   margin-bottom: 12px;
-  position: relative;
 }
 
 #hidden-input {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -86,6 +85,7 @@ header h1 {
   z-index: 2;
   -webkit-appearance: none;
   appearance: none;
+  pointer-events: none;
 }
 
 #grid {
