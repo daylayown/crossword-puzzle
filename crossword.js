@@ -116,10 +116,11 @@
     // Event listeners
     document.addEventListener("keydown", handleKeydown);
 
-    // Hidden input for mobile soft keyboard support
+    // Hidden input for mobile soft keyboard support (iOS doesn't fire keydown for virtual keyboard)
     hiddenInput.addEventListener("beforeinput", handleBeforeInput);
-    // Clear the input after each keystroke so it's always ready for the next
     hiddenInput.addEventListener("input", () => { hiddenInput.value = ""; });
+    // Taps on the transparent input overlay → determine which grid cell was hit
+    hiddenInput.addEventListener("click", handleInputOverlayClick);
     cluePrev.addEventListener("click", () => cycleClue(-1));
     clueNext.addEventListener("click", () => cycleClue(1));
     shareBtn.addEventListener("click", handleShare);
@@ -340,6 +341,25 @@
       }
     }
     selectCell(r, c);
+  }
+
+  function handleInputOverlayClick(e) {
+    const gridRect = gridEl.getBoundingClientRect();
+    const x = e.clientX - gridRect.left;
+    const y = e.clientY - gridRect.top;
+
+    if (x < 0 || y < 0 || x > gridRect.width || y > gridRect.height) return;
+
+    const cellWidth = gridRect.width / puzzle.size;
+    const cellHeight = gridRect.height / puzzle.size;
+    const col = Math.floor(x / cellWidth);
+    const row = Math.floor(y / cellHeight);
+
+    if (row >= 0 && row < puzzle.size && col >= 0 && col < puzzle.size) {
+      if (puzzle.grid[row][col] !== "#") {
+        onCellClick(row, col);
+      }
+    }
   }
 
   function focusInput() {
