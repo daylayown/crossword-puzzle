@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-02",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "L",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "W",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Mountain gap, or what Congress did to end the DHS shutdown",
+        "answer": "PASS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Change, as Gmail users can now do with their usernames",
+        "answer": "ALTER",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "One in chains, as in the context of Israel's new 'death penalty for terrorists' law debate",
+        "answer": "SLAVE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Small symbol, or what critics call some peace proposals (not a news clue)",
+        "answer": "TOKEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Headed off, like Megan Thee Stallion from two Broadway shows",
+        "answer": "WENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "What's behind us, like Ted Bundy's newly solved cold case",
+        "answer": "PAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Permit, as the Supreme Court may not ___ Trump's birthright citizenship order to stand",
+        "answer": "ALLOW",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "What's at ___ for SpaceX in its massive public market debut filing",
+        "answer": "STAKE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "The Cicada COVID variant is said to be one of ___ new strains under watch",
+        "answer": "SEVEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Monthly cost that's soaring as Iran war squeezes housing budgets",
+        "answer": "RENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
