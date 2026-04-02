@@ -121,6 +121,14 @@
     hiddenInput.addEventListener("input", () => { hiddenInput.value = ""; });
     // Taps on the transparent input overlay → determine which grid cell was hit
     hiddenInput.addEventListener("click", handleInputOverlayClick);
+    // When iOS focuses the input and opens the keyboard, it scrolls the page.
+    // Undo that scroll on the next frame (only fires on focus change, not every keystroke).
+    hiddenInput.addEventListener("focus", () => {
+      const scrollY = window.scrollY;
+      requestAnimationFrame(() => {
+        window.scrollTo(window.scrollX, scrollY);
+      });
+    });
 
     cluePrev.addEventListener("click", () => cycleClue(-1));
     clueNext.addEventListener("click", () => cycleClue(1));
