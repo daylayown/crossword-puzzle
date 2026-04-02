@@ -222,7 +222,6 @@
     updateHighlighting();
     updateClueBar();
     updateClueListHighlight();
-    focusInput();
   }
 
   function getClueForCell(r, c, dir) {
@@ -360,12 +359,6 @@
       if (puzzle.grid[row][col] !== "#") {
         onCellClick(row, col);
       }
-    }
-  }
-
-  function focusInput() {
-    if (!solved && document.activeElement !== hiddenInput) {
-      hiddenInput.focus({ preventScroll: true });
     }
   }
 
