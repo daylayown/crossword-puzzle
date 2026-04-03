@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-03",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "L",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "W",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Mountain gap, or what McConnell and Tillis did to break from Trump on NATO",
+        "answer": "PASS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Change, as Trump's new tariffs on drugmakers may ___ prescription costs",
+        "answer": "ALTER",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "One toiling without freedom \u2014 a term in human trafficking discussions",
+        "answer": "SLAVE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Subway chip or small crypto unit",
+        "answer": "TOKEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Left, as Pam Bondi ___ the attorney general's office",
+        "answer": "WENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "History, as in a ___ administration's nuclear deal with Tehran",
+        "answer": "PAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Permit, as Hegseth says he'll ___ troops to bring personal firearms on bases",
+        "answer": "ALLOW",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "What's at ___ as SpaceX eyes a $2 trillion IPO valuation",
+        "answer": "STAKE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Number of days Artemis II astronauts spent near Earth before heading moonward",
+        "answer": "SEVEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Monthly cost soaring as Iran war weighs on housing market",
+        "answer": "RENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
