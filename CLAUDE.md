@@ -71,6 +71,8 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - **Deployed to GitHub Pages** with automated daily puzzle generation via GitHub Actions (2am MST)
 - **Custom domain:** crosswordingthesituation.com (registered via Cloudflare, DNS-only mode)
 - **Analytics:** Google Analytics 4 (G-F5ZLZD433P) for visitor tracking
+- **iOS mobile keyboard support:** iOS Safari doesn't fire `keydown` events for virtual keyboard letters on `<div>` elements. A transparent `<input>` (not hidden — `opacity:0` breaks iOS) is positioned directly over the active cell (`position: absolute`, cell-sized, `z-index: 2`). It moves via `positionInput()` on each cell selection. iOS sees a normally-positioned visible input at the tap location, so it doesn't scroll. Letters are captured via `beforeinput` events. Based on the [Guardian crossword's approach](https://github.com/zetter/react-crossword).
+- **Site footer** with author info and contact links
 
 ## Next Steps
 
