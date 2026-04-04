@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-04",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "What Tiger Woods' DUI may make of his legacy",
+        "answer": "PAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "What paper ballot advocates say Georgia should ___ more time for",
+        "answer": "ALLOW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What Hershey shareholders have in the peanut butter recipe controversy",
+        "answer": "STAKE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "UConn's 54-game win streak ended after ___ years of NCAA dominance",
+        "answer": "SEVEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Payment Blake Lively's legal fight could still demand from Baldoni",
+        "answer": "RENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Mountain gap, or what Congress must do on NASA funding cuts",
+        "answer": "PASS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "What new cardiologist guidelines may do to cholesterol treatment norms",
+        "answer": "ALTER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "One in bondage, as in ICE detention violations under scrutiny in Texas",
+        "answer": "SLAVE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Bed Bath & Beyond's comeback coupon is a small ___ of its former self",
+        "answer": "TOKEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Where Artemis II crew ___ to capture stunning photos near the Moon",
+        "answer": "WENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
