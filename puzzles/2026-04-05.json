@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-05",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "What's behind us, like the 'good old days' of cheap gas, per The Guardian",
+        "answer": "PAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "What a judge refused to do for Trump's race-neutral college admissions rule",
+        "answer": "ALLOW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What's at ___ as Iran threatens the Stargate AI datacenter in Abu Dhabi",
+        "answer": "STAKE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "UConn beat Illinois 71-62 in the Final Four \u2014 ___ fewer points for the Huskies",
+        "answer": "SEVEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Monthly cost eyed by home shoppers as Iran war clouds mortgage rates",
+        "answer": "RENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Mountain gap, or what First Japanese and French ships did through the Strait of Hormuz",
+        "answer": "PASS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "What new cholesterol guidelines could ___ standard prevention treatment",
+        "answer": "ALTER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "One in bondage \u2014 a charge in the 'orgasmic meditation' cult sentencing case",
+        "answer": "SLAVE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Commemorative coin, or what critics call a minimal diplomatic gesture",
+        "answer": "TOKEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Left, as the Artemis II crew ___ on their journey toward the Moon",
+        "answer": "WENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
