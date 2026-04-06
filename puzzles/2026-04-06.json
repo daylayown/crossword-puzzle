@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-06",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "History, or Pope Leo's first Easter speech urged leaving conflict in the ___",
+        "answer": "PAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "What Italy's court says Netflix must ___ customers to reclaim from price hike refunds",
+        "answer": "ALLOW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What's at ___ for Paramount as Gulf state funds eye a WBD acquisition deal",
+        "answer": "STAKE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "'___ Nation Army,' reimagined by two Jacks on SNL this week",
+        "answer": "SEVEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Monthly payment soaring as jet fuel shortages crimp airline flights",
+        "answer": "RENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Mountain gap, or what Artemis II astronauts did through lunar space on their record-breaking trip",
+        "answer": "PASS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "What new cholesterol guidelines could do to your 'normal' numbers",
+        "answer": "ALTER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "One in bondage, or the forced-labor charge at 'orgasmic meditation' cult sentencing",
+        "answer": "SLAVE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Small symbol, or what critics call a minimal diplomatic gesture",
+        "answer": "TOKEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Left, as Pam Bondi ___ the attorney general's office",
+        "answer": "WENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
