@@ -21,6 +21,7 @@ puzzles/headlines/  — Cached headline JSON files (gitignored, built up over da
 tools/
   generate_puzzle.py   — Full pipeline: grid → headlines → Claude clues → dedup check → validate → JSON
   generate_grid.py     — 5x5 crossword grid generator with black squares
+  wordlist.json        — 12,720 words from Spread The Wordlist (STWL), score 50+, 3-5 letters
   scrape_headlines.py  — Google News RSS feed scraper across categories
   scrape_bluesky.py    — Bluesky AT Protocol scraper for news org feeds (NYT, Reuters, AP, WSJ, BBC, WashPost)
 .github/workflows/
@@ -30,14 +31,14 @@ tools/
 
 ## Puzzle Generation Pipeline
 
-1. `generate_grid.py` creates a valid 5x5 grid with rotationally symmetric black squares. All across/down words are real English words, no duplicates.
+1. `generate_grid.py` creates a valid 5x5 grid with rotationally symmetric black squares. All across/down words are real English words from the STWL word list, no duplicates. The generator excludes answer words used in the past 28 days to prevent repetition.
 2. **Multi-source headline scraping:**
    - `scrape_headlines.py` pulls ~400 headlines from Google News RSS (top stories, world, business, tech, entertainment, sports, science, health). These represent today's trending stories.
-   - `scrape_bluesky.py` pulls up to 14 days of posts from 6 major news orgs on Bluesky (NYT, Reuters, AP, WSJ, BBC, WashPost) via the public AT Protocol API (no auth needed). This provides depth and variety beyond what's trending today.
-   - **Headline cache:** Each run saves its scraped headlines to `puzzles/headlines/YYYY-MM-DD.json`. Previous days' cached headlines are loaded and merged, giving the pipeline a growing archive. On GitHub Actions (fresh checkout), the Bluesky 14-day lookback fills this role.
-   - All sources are merged, deduplicated by title, sorted freshest-first. Top 200 headlines are sent to Claude (up from 100), tagged with age (e.g., "today", "3d ago").
-3. **Cross-day story dedup:** Before generating clues, the pipeline reads the last 7 days of puzzle JSONs from `puzzles/`, extracts used clue texts and answer words, and injects them into the prompt as "stories already used — avoid these." This is a soft steer, not a hard ban.
-4. `generate_puzzle.py` orchestrates everything: generates grid, scrapes headlines from all sources, sends grid + headlines + dedup context to Claude Sonnet 4.6 via the Anthropic API (using `requests`, no SDK), validates output, writes puzzle JSON.
+   - `scrape_bluesky.py` pulls up to 28 days of posts from 6 major news orgs on Bluesky (NYT, Reuters, AP, WSJ, BBC, WashPost) via the public AT Protocol API (no auth needed). This provides depth and variety beyond what's trending today.
+   - **Headline cache:** Each run saves its scraped headlines to `puzzles/headlines/YYYY-MM-DD.json`. Previous 28 days' cached headlines are loaded and merged, giving the pipeline a growing archive. On GitHub Actions (fresh checkout), the Bluesky 28-day lookback fills this role.
+   - All sources are merged, deduplicated by title, sorted freshest-first. Top 200 headlines are sent to Claude, tagged with age (e.g., "today", "3d ago").
+3. **Cross-day dedup (answers + clues):** Before generating the grid, the pipeline reads the last 28 days of puzzle JSONs from `puzzles/` and extracts used answer words. These are passed to the grid generator as exclusions so the same answers don't repeat across days. The same 28-day window of clue texts is also injected into Claude's prompt as "stories already used — avoid these" (soft steer for clue topics).
+4. `generate_puzzle.py` orchestrates everything: loads recent answers → generates grid (excluding recent words) → scrapes headlines from all sources → sends grid + headlines + dedup context to Claude Sonnet 4.6 via the Anthropic API (using `requests`, no SDK) → validates output → writes puzzle JSON.
 5. **Within-puzzle dedup check (Step 5):** A second Claude call reviews all clues and flags any that reference the same news story. Conflicting clues are automatically rewritten to reference different stories.
 
 Run manually: `python3 tools/generate_puzzle.py [YYYY-MM-DD]`
@@ -49,9 +50,11 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 ## Key Design Decisions
 
 - Grid is generated first from a broad word list, then Claude writes news-themed clues for the words. This guarantees a valid grid every time (vs. trying to force arbitrary news words into a grid).
+- **Word list: Spread The Wordlist (STWL)** — 12,720 words (1,542 three-letter, 3,631 four-letter, 7,547 five-letter) filtered to score 50+ (highest quality tier). Stored in `tools/wordlist.json`. Licensed CC BY-NC-SA 4.0 — attribution required, non-commercial, share-alike. Old hardcoded word lists (~1,700 words) kept as fallback in `generate_grid.py`.
+- **Answer dedup across days** — The grid generator accepts an exclusion set of recently used answer words (past 28 days). It generates multiple candidate grids and picks the one with the fewest overlaps. With 12,720 words in the pool, excluding ~280 recent answers still leaves plenty of candidates. Falls back to 7-day exclusions, then no exclusions, if needed.
 - Not every clue needs to be news-themed — a mix of news and standard crossword clues is ideal, like the NYT Mini.
-- Each news-themed clue must reference a DIFFERENT story/topic. No repeating the same headline across multiple clues — enforced both within a single puzzle (two-pass dedup) and across consecutive days (7-day lookback).
-- Headlines are sourced from Google News RSS (today's trending) and Bluesky news org feeds (14-day depth). More data = more variety = fewer repeated stories.
+- Each news-themed clue must reference a DIFFERENT story/topic. No repeating the same headline across multiple clues — enforced both within a single puzzle (two-pass dedup) and across consecutive days (28-day lookback).
+- Headlines are sourced from Google News RSS (today's trending) and Bluesky news org feeds (28-day depth). More data = more variety = fewer repeated stories.
 - Black squares at (0,4) and (4,0) with rotational symmetry. Gives a mix of 4-letter and 5-letter words.
 
 ## What's Working
@@ -66,8 +69,10 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - **Auto-completion detection:** When the last cell is filled, the game automatically checks the grid. If all correct, the completion modal appears. If there are errors, incorrect cells flash red and shake to show the player where to look — no need to hit "Reveal Puzzle" to check.
 - Progress saves to localStorage
 - Full generation pipeline with two-pass dedup producing real news-themed puzzles
-- **Multi-source headlines:** Google News RSS (today) + Bluesky feeds from 6 news orgs (14-day lookback) + daily headline cache
-- **Cross-day story dedup:** Pipeline reads last 7 days of puzzles and steers Sonnet away from recently used stories and answer words
+- **STWL word list** (12,720 words, score 50+) replacing old hardcoded 1,701-word list — dramatically more grid variety
+- **Answer dedup across days:** Grid generator excludes answer words from the past 28 days, preventing the same words from appearing in consecutive puzzles
+- **Multi-source headlines:** Google News RSS (today) + Bluesky feeds from 6 news orgs (28-day lookback) + daily headline cache
+- **Cross-day story dedup:** Pipeline reads last 28 days of puzzles and steers Sonnet away from recently used stories and answer words
 - **Deployed to GitHub Pages** with automated daily puzzle generation via GitHub Actions (2am MST)
 - **Custom domain:** crosswordingthesituation.com (registered via Cloudflare, DNS-only mode)
 - **Analytics:** Google Analytics 4 (G-F5ZLZD433P) for visitor tracking
@@ -76,6 +81,7 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 
 ## Next Steps
 
+- Word list quality tuning: some STWL score-50 words are obscure for a mini crossword (e.g. OLEIC, TINGA, ETDS). Consider cross-referencing with a word frequency list to filter out uncommon entries, or bumping the minimum score threshold.
 - Clue bucket: let the author manually seed word+clue pairs that the pipeline prefers (see below)
 - Firebase Auth (Google sign-in) + Firestore for cross-device personal score sync
 - Puzzle archive page

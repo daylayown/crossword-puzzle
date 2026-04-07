@@ -273,10 +273,26 @@ def main():
     print(f"Generating puzzle for {date}")
     print("=" * 40)
 
-    # Step 1: Generate a valid grid
-    print("\nStep 1: Generating crossword grid...")
+    # Step 1: Get recently used answer words and generate a fresh grid
+    print("\nStep 1a: Loading recently used answer words...")
+    _, recent_words = get_recent_clues_and_words(days_back=28)
+    excluded_answers = set(recent_words)
+    if excluded_answers:
+        print(f"  Excluding {len(excluded_answers)} answer words from recent puzzles")
+    else:
+        print("  No recent puzzles found — no exclusions")
+
+    print("\nStep 1b: Generating crossword grid...")
     random.seed(None)  # Use true randomness
-    grid = solve_grid(max_attempts=5000)
+    grid = solve_grid(max_attempts=5000, excluded_words=excluded_answers)
+    if not grid:
+        # Fall back to fewer exclusions if we can't find a grid
+        print("  Could not find grid with full exclusions, trying with 7-day window...")
+        _, recent_words_short = get_recent_clues_and_words(days_back=7)
+        grid = solve_grid(max_attempts=5000, excluded_words=set(recent_words_short))
+    if not grid:
+        print("  Falling back to no exclusions...")
+        grid = solve_grid(max_attempts=5000)
     if not grid:
         print("Failed to generate a valid grid. Try again.")
         sys.exit(1)
@@ -291,13 +307,13 @@ def main():
 
     print("\nStep 2b: Scraping Bluesky news feeds (past 14 days)...")
     try:
-        bluesky_headlines = scrape_bluesky_headlines(days_back=14)
+        bluesky_headlines = scrape_bluesky_headlines(days_back=28)
     except Exception as e:
         print(f"  Bluesky scrape failed (non-fatal): {e}")
         bluesky_headlines = []
 
     print("\nStep 2c: Loading cached headlines from previous days...")
-    cached_headlines = load_cached_headlines(days_back=14)
+    cached_headlines = load_cached_headlines(days_back=28)
 
     # Merge all headlines, dedup by title
     all_headlines = google_headlines + bluesky_headlines + cached_headlines
@@ -325,7 +341,7 @@ def main():
 
     # Step 2d: Build cross-day dedup context
     print("\nStep 2d: Building cross-day dedup context...")
-    recent_clues, recent_words = get_recent_clues_and_words(days_back=7)
+    recent_clues, recent_words = get_recent_clues_and_words(days_back=28)
     dedup_context = ""
     if recent_clues:
         clue_lines = [f"  - {c}" for c in recent_clues if c]

@@ -3,6 +3,9 @@
 
 Uses a standard NYT Mini-style layout with rotationally symmetric black squares.
 Across and down answers are naturally different because black squares break symmetry.
+
+Word list: Spread The Wordlist (STWL) — https://www.spreadthewordlist.com
+License: CC BY-NC-SA 4.0
 """
 
 import json
@@ -10,8 +13,27 @@ import random
 import sys
 from pathlib import Path
 
-# Word lists by length
-WORDS_5 = [
+# Load word list from STWL JSON (3-5 letter words, score 50+)
+_WORDLIST_PATH = Path(__file__).parent / "wordlist.json"
+
+def _load_wordlist():
+    """Load words from the STWL-derived wordlist.json, with hardcoded fallback."""
+    if _WORDLIST_PATH.exists():
+        with open(_WORDLIST_PATH) as f:
+            data = json.load(f)
+        return (
+            data["words"]["3"],
+            data["words"]["4"],
+            data["words"]["5"],
+        )
+    # Minimal fallback if wordlist.json is missing
+    print("WARNING: wordlist.json not found, using minimal built-in list")
+    return _FALLBACK_3, _FALLBACK_4, _FALLBACK_5
+
+WORDS_3, WORDS_4, WORDS_5 = _load_wordlist()
+
+# Tiny fallback lists (subset of old hardcoded words) — only used if wordlist.json is missing
+_FALLBACK_5 = [
     "ABOUT", "ABOVE", "ABUSE", "ACTED", "ADAPT", "ADDED", "ADMIT", "ADOPT",
     "AGENT", "AGREE", "AHEAD", "AIMED", "ALARM", "ALBUM", "ALERT", "ALIEN",
     "ALIGN", "ALIKE", "ALIVE", "ALLOW", "ALONE", "ALONG", "ALTER", "AMAZE",
@@ -93,7 +115,7 @@ WORDS_5 = [
     "WROTE", "YIELD", "YOUNG", "YOUTH",
 ]
 
-WORDS_4 = [
+_FALLBACK_4 = [
     "ABLE", "ACID", "AGED", "AIDE", "ALLY", "AMID", "ARCH", "AREA", "ARMY",
     "ARTS", "ASKS", "ATOM", "AUTO", "BACK", "BAIL", "BAIT", "BAND", "BANK",
     "BARE", "BARN", "BASE", "BATH", "BEAM", "BEAN", "BEAR", "BEAT", "BEEN",
@@ -177,7 +199,7 @@ WORDS_4 = [
     "YARD", "YEAR", "YOUR", "ZERO", "ZONE", "ZOOM",
 ]
 
-WORDS_3 = [
+_FALLBACK_3 = [
     "ACE", "ACT", "ADD", "AGE", "AGO", "AID", "AIM", "AIR", "ALE", "ALL",
     "AND", "ANT", "ANY", "APE", "ARC", "ARE", "ARK", "ARM", "ART", "ASH",
     "ATE", "AWE", "AXE", "BAD", "BAG", "BAN", "BAR", "BAT", "BAY", "BED",
@@ -275,18 +297,33 @@ DOWN_SLOTS = [
 ]
 
 
-def solve_grid(max_attempts=5000):
-    """Fill the grid using backtracking on word slots."""
-    # We'll fill across slots first, checking down constraints as we go.
-    # Grid is 5x5, initialize with None (unfilled) and '#' for black squares.
+def solve_grid(max_attempts=5000, excluded_words=None):
+    """Fill the grid using backtracking on word slots.
+
+    When excluded_words is provided, generates multiple candidate grids and
+    picks the one with the fewest overlaps with recently used words.
+
+    Args:
+        max_attempts: Maximum number of grid generation attempts.
+        excluded_words: Set of words to penalize (e.g. recently used answers).
+    """
+    if excluded_words is None:
+        excluded_words = set()
+    else:
+        excluded_words = {w.upper() for w in excluded_words}
+
     grid = [[None]*5 for _ in range(5)]
     grid[0][4] = '#'
     grid[4][0] = '#'
 
-    # Order of filling: 1A, then rows 1-3 (5-letter), then 8A
-    # After each across word, verify all down columns remain viable.
+    across_order = ACROSS_SLOTS
 
-    across_order = ACROSS_SLOTS  # Fill in order
+    best_grid = None
+    best_score = -1  # higher = fewer overlaps = better
+    grids_found = 0
+    # When we have exclusions, collect multiple grids and pick the best
+    target_grids = 10 if excluded_words else 1
+    seen_grids = set()  # avoid returning the same grid
 
     for attempt in range(max_attempts):
         # Reset grid
@@ -312,15 +349,43 @@ def solve_grid(max_attempts=5000):
                     word = ''.join(grid[row][c_start + i] for i in range(length))
                     across_words.append(word)
 
-                # Check no duplicate answers
                 all_words = across_words + down_words
-                if len(set(all_words)) == len(all_words):
-                    print(f"Found valid grid after {attempt + 1} attempts:")
-                    for r in range(5):
-                        print(' '.join(grid[r][c] if grid[r][c] != '#' else '.' for c in range(5)))
-                    print(f"Across: {across_words}")
-                    print(f"Down:   {down_words}")
-                    return grid
+                # No duplicate answers within the grid
+                if len(set(all_words)) != len(all_words):
+                    continue
+
+                grid_key = tuple(all_words)
+                if grid_key in seen_grids:
+                    continue
+                seen_grids.add(grid_key)
+
+                # Score: count how many words are NOT in the excluded set
+                overlap = sum(1 for w in all_words if w in excluded_words)
+                score = len(all_words) - overlap  # higher = better
+
+                grids_found += 1
+                if score > best_score:
+                    best_score = score
+                    best_grid = [row[:] for row in grid]
+                    best_words = (across_words, down_words, overlap)
+
+                # Perfect score (no overlaps) — stop early
+                if overlap == 0:
+                    break
+                # Found enough candidates
+                if grids_found >= target_grids:
+                    break
+
+    if best_grid:
+        across_words, down_words, overlap = best_words
+        print(f"Found valid grid after {attempt + 1} attempts ({grids_found} candidates evaluated):")
+        for r in range(5):
+            print(' '.join(best_grid[r][c] if best_grid[r][c] != '#' else '.' for c in range(5)))
+        print(f"Across: {across_words}")
+        print(f"Down:   {down_words}")
+        if excluded_words:
+            print(f"  ({overlap} overlaps with {len(excluded_words)} recently used words)")
+        return best_grid
 
     print("No grid found within attempt limit.")
     return None
@@ -337,7 +402,7 @@ def _fill_across(grid, slot_idx, across_order):
     candidates = list(WORD_SETS[length])
     random.shuffle(candidates)
 
-    for word in candidates[:200]:  # Limit candidates per slot
+    for word in candidates:  # Try all candidates (word lists are small enough)
         # Place word
         for i, ch in enumerate(word):
             grid[row][c_start + i] = ch
