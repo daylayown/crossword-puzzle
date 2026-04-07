@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-07",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Previous, like Georgia's congressional seat before Marjorie Taylor Greene held it",
+        "answer": "PAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "What the UK may not do for Kanye West, per calls for a festival ban",
+        "answer": "ALLOW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What's at ___ for Iran's petrochemical plants as Israeli strikes intensify",
+        "answer": "STAKE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Michigan beat UConn by ___ points to win the NCAA basketball title",
+        "answer": "SEVEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Monthly fee \u2014 soaring for some as Iran war spooks housing market",
+        "answer": "RENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Mountain gap, or what Artemis II astronauts did near the lunar surface",
+        "answer": "PASS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Change, like what Jamie Dimon says AI could do to the five-day workweek",
+        "answer": "ALTER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "One in bondage \u2014 a term in the Australian war crimes murder charge case",
+        "answer": "SLAVE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Small crypto unit \u2014 now in the spotlight as SEC's safe harbor heads to White House",
+        "answer": "TOKEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Left, as Taiwan's opposition leader ___ to China on a 'journey for peace'",
+        "answer": "WENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
