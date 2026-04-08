@@ -305,15 +305,15 @@ def main():
     for h in google_headlines:
         h["age_days"] = 0  # Google News = today's news
 
-    print("\nStep 2b: Scraping Bluesky news feeds (past 14 days)...")
+    print("\nStep 2b: Scraping Bluesky news feeds (past 42 days)...")
     try:
-        bluesky_headlines = scrape_bluesky_headlines(days_back=28)
+        bluesky_headlines = scrape_bluesky_headlines(days_back=42)
     except Exception as e:
         print(f"  Bluesky scrape failed (non-fatal): {e}")
         bluesky_headlines = []
 
     print("\nStep 2c: Loading cached headlines from previous days...")
-    cached_headlines = load_cached_headlines(days_back=28)
+    cached_headlines = load_cached_headlines(days_back=42)
 
     # Merge all headlines, dedup by title
     all_headlines = google_headlines + bluesky_headlines + cached_headlines

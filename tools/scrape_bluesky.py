@@ -8,12 +8,12 @@ import re
 
 # Major news org Bluesky handles
 NEWS_ACCOUNTS = [
-    "nytimes.bsky.social",
+    "nytimes.com",
     "reuters.com",
     "apnews.bsky.social",
     "wsj.bsky.social",
     "bbc.bsky.social",
-    "washingtonpost.bsky.social",
+    "washingtonpost.com",
 ]
 
 BSKY_API = "https://public.api.bsky.app/xrpc"
