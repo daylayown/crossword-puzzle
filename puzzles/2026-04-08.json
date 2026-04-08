@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-08",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "O",
+      "H",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "H",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "O",
+      "R"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Qatar capital where Iran nuclear talks have been hosted",
+        "answer": "DOHA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Play ___ party (entertain guests)",
+        "answer": "AHOST",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Downton Abbey setting, or an English country estate",
+        "answer": "MANOR",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Lying face-down, or vulnerable to risk",
+        "answer": "PRONE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "You ___ (Spanish for 'you are'), as taught in language apps",
+        "answer": "ERES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Wet, like conditions after spring rains",
+        "answer": "DAMP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Chicago airport where Delta just raised checked bag fees",
+        "answer": "OHARE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Reverence \u2014 what Pope Leo XIV demanded Trump show in his strong rebuke",
+        "answer": "HONOR",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "United, like Wisconsin liberals after Chris Taylor's Supreme Court win",
+        "answer": "ASONE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Three, in Spanish \u2014 or the number of Migos members before the group split",
+        "answer": "TRES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
