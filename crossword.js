@@ -13,6 +13,7 @@
   let timerStart = null;
   let timerInterval = null;
   let solved = false;
+  let programmaticFocus = false; // Prevent iOS synthetic click on focus from toggling direction
   let usedHints = false;
 
   // --- DOM refs ---
@@ -119,8 +120,15 @@
     // Hidden input for mobile soft keyboard support (iOS doesn't fire keydown for virtual keyboard)
     hiddenInput.addEventListener("beforeinput", handleBeforeInput);
     hiddenInput.addEventListener("input", () => { hiddenInput.value = ""; });
-    // Tapping the input (positioned over the selected cell) toggles direction
+    // Tapping the input (positioned over the selected cell) toggles direction.
+    // Skip if the click was triggered by programmatic focus (iOS fires synthetic
+    // click events when an input is focused via JS, which would incorrectly
+    // toggle the direction immediately after selecting a clue from the list).
     hiddenInput.addEventListener("click", () => {
+      if (programmaticFocus) {
+        programmaticFocus = false;
+        return;
+      }
       onCellClick(selectedRow, selectedCol);
     });
 
@@ -356,6 +364,7 @@
     hiddenInput.style.top = (cellRect.top - gridRect.top) + "px";
 
     if (!solved && document.activeElement !== hiddenInput) {
+      programmaticFocus = true;
       hiddenInput.focus();
     }
   }
