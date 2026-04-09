@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-09",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "O",
+      "Y",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "P",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "U",
+      "D",
+      "S"
+    ],
+    [
+      "H",
+      "I",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "R",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Spanish painter Francisco ___, whose works hang in the Prado",
+        "answer": "GOYA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "___ Anton Ohno, Olympic speedskater turned Dancing with the Stars contestant",
+        "answer": "APOLO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Poker chips or nails \u2014 things you might find on a construction site or at a card table",
+        "answer": "STUDS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Recruits, as Disney is reportedly doing to fill roles after announcing major layoffs",
+        "answer": "HIRES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Fiddled while Rome burned, in legend",
+        "answer": "NERO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Deep wound \u2014 like the one the Gilgo Beach killer left on Long Island for three decades",
+        "answer": "GASH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Choose to participate, as users may for YouTube Shorts' new AI avatar feature",
+        "answer": "OPTIN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "___ welcome! (host's greeting)",
+        "answer": "YOURE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Tree of the birch family common in Pacific Northwest forests",
+        "answer": "ALDER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "___ buco, Italian braised veal dish",
+        "answer": "OSSO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
