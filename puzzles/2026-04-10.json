@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-10",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "A",
+      "R",
+      "K",
+      "#"
+    ],
+    [
+      "A",
+      "V",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "H",
+      "I",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "M",
+      "O"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "E",
+      "W"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Dog's warning \u2014 or what a Kindle device might do if Amazon drops its support",
+        "answer": "BARK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Tex-___ (studio behind classic Looney Tunes cartoons)",
+        "answer": "AVERY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "New recruit on the payroll",
+        "answer": "HIREE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Texas mission where 'remember the ___' became a battle cry",
+        "answer": "ALAMO",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Once more \u2014 like a Malcolm in the Middle reboot bringing Frankie Muniz back",
+        "answer": "ANEW",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "___ Men (group famous for 'Baby I Got Your Money')",
+        "answer": "BAHA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Spanish city known for its medieval walls and mystic Saint Teresa",
+        "answer": "AVILA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Aired again, as a classic TV episode",
+        "answer": "RERAN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Krispy ___ (doughnut chain beloved for its glazed rings)",
+        "answer": "KREME",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Cry of sudden pain \u2014 like a Masters golfer hitting Augusta's treacherous conditions",
+        "answer": "YEOW",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
