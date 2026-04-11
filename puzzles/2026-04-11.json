@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-11",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "U",
+      "K",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "T",
+      "O",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "J",
+      "E",
+      "C",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Prince Harry's title \u2014 he's now being sued for libel by his former charity",
+        "answer": "DUKE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Bitter Italian liqueur often sipped after dinner",
+        "answer": "AMARO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Sign on a British property available for rent",
+        "answer": "TOLET",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Boot from the premises \u2014 what ICE reportedly did to Natasha Lyonne at the airport",
+        "answer": "EJECT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Contralto's shorter cousin, vocally speaking",
+        "answer": "ALTO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Rory McIlroy made history at Augusta \u2014 this is the day it happened",
+        "answer": "DATE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Kwanzaa's first principle, meaning 'unity' in Swahili",
+        "answer": "UMOJA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Superman's Kryptonian birth name",
+        "answer": "KALEL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Build upright \u2014 as Trump's team unveiled new renderings of the so-called 'Arc de Trump'",
+        "answer": "ERECT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Palindrome name, or a classic VW model",
+        "answer": "OTTO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
