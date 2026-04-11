@@ -32,14 +32,15 @@ tools/
 ## Puzzle Generation Pipeline
 
 1. `generate_grid.py` creates a valid 5x5 grid with rotationally symmetric black squares. All across/down words are real English words from the STWL word list, no duplicates. The generator excludes answer words used in the past 28 days to prevent repetition.
-2. **Multi-source headline scraping:**
+2. **Multi-source headline scraping (60-day window):**
    - `scrape_headlines.py` pulls ~400 headlines from Google News RSS (top stories, world, business, tech, entertainment, sports, science, health). These represent today's trending stories.
-   - `scrape_bluesky.py` pulls up to 28 days of posts from 6 major news orgs on Bluesky (NYT, Reuters, AP, WSJ, BBC, WashPost) via the public AT Protocol API (no auth needed). This provides depth and variety beyond what's trending today.
-   - **Headline cache:** Each run saves its scraped headlines to `puzzles/headlines/YYYY-MM-DD.json`. Previous 28 days' cached headlines are loaded and merged, giving the pipeline a growing archive. On GitHub Actions (fresh checkout), the Bluesky 28-day lookback fills this role.
-   - All sources are merged, deduplicated by title, sorted freshest-first. Top 200 headlines are sent to Claude, tagged with age (e.g., "today", "3d ago").
+   - `scrape_bluesky.py` pulls up to **60 days** of posts from 6 major news orgs on Bluesky (NYT, Reuters, AP, WSJ, BBC, WashPost) via the public AT Protocol API (no auth needed). This provides depth and variety beyond what's trending today.
+   - **Headline cache:** Each run saves its scraped headlines to `puzzles/headlines/YYYY-MM-DD.json`. Previous 60 days' cached headlines are loaded and merged, giving the pipeline a growing archive. On GitHub Actions (fresh checkout), the Bluesky 60-day lookback fills this role.
+   - All sources are merged, deduplicated by title, sorted freshest-first. Top 200 headlines are sent to Claude, tagged with age (e.g., "today", "3d ago"). The 60-day window is the *only* news universe Claude is allowed to draw from.
 3. **Cross-day dedup (answers + clues):** Before generating the grid, the pipeline reads the last 28 days of puzzle JSONs from `puzzles/` and extracts used answer words. These are passed to the grid generator as exclusions so the same answers don't repeat across days. The same 28-day window of clue texts is also injected into Claude's prompt as "stories already used — avoid these" (soft steer for clue topics).
-4. `generate_puzzle.py` orchestrates everything: loads recent answers → generates grid (excluding recent words) → scrapes headlines from all sources → sends grid + headlines + dedup context to Claude Sonnet 4.6 via the Anthropic API (using `requests`, no SDK) → validates output → writes puzzle JSON.
-5. **Within-puzzle dedup check (Step 5):** A second Claude call reviews all clues and flags any that reference the same news story. Conflicting clues are automatically rewritten to reference different stories.
+4. `generate_puzzle.py` orchestrates everything: loads recent answers → scrapes headlines from all sources → enters a **grid+clues retry loop** (up to 4 attempts): generates grid → asks Claude for news-only clues → scans for `NO_NEWS_HOOK` markers → if any word couldn't be hooked to news, that word is added to the exclusion set and a fresh grid is generated → repeat. Once every clue is news-based, validate and run the dedup check.
+5. **Within-puzzle dedup check (Step 5):** A second Claude call reviews all clues and flags any that reference the same news story. Conflicting clues are automatically rewritten to reference different stories (also news-only — `NO_NEWS_HOOK` is the escape hatch).
+6. **News-only enforcement with 10% salvage:** The Claude system prompt mandates that *every* clue tie to a real story from the past 60 days. If Claude cannot find a hook for a word, it returns the literal string `NO_NEWS_HOOK`, which the pipeline detects and uses to retry with that word excluded. **If all 4 grid attempts still leave some words unhooked**, the pipeline picks the best partial attempt (fewest failures) and runs a salvage pass: standard crossword clues are written for the failing words, but only if at most **10% of the puzzle's clues** would be generic (`ceil(total_clues * 0.10)`, which for a typical 5x5 mini means at most 1 generic clue). If even the best attempt exceeds the 10% generic budget, the script exits non-zero and no puzzle is published for that day.
 
 Run manually: `python3 tools/generate_puzzle.py [YYYY-MM-DD]`
 
@@ -52,7 +53,7 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - Grid is generated first from a broad word list, then Claude writes news-themed clues for the words. This guarantees a valid grid every time (vs. trying to force arbitrary news words into a grid).
 - **Word list: Spread The Wordlist (STWL)** — 12,720 words (1,542 three-letter, 3,631 four-letter, 7,547 five-letter) filtered to score 50+ (highest quality tier). Stored in `tools/wordlist.json`. Licensed CC BY-NC-SA 4.0 — attribution required, non-commercial, share-alike. Old hardcoded word lists (~1,700 words) kept as fallback in `generate_grid.py`.
 - **Answer dedup across days** — The grid generator accepts an exclusion set of recently used answer words (past 28 days). It generates multiple candidate grids and picks the one with the fewest overlaps. With 12,720 words in the pool, excluding ~280 recent answers still leaves plenty of candidates. Falls back to 7-day exclusions, then no exclusions, if needed.
-- Not every clue needs to be news-themed — a mix of news and standard crossword clues is ideal, like the NYT Mini.
+- **Every clue must be news-themed.** This is a *news* crossword — generic trivia/vocabulary clues defeat the entire point. If a word genuinely has no recent-news angle, that's a signal to regenerate the grid, not to fall back on a dictionary clue.
 - Each news-themed clue must reference a DIFFERENT story/topic. No repeating the same headline across multiple clues — enforced both within a single puzzle (two-pass dedup) and across consecutive days (28-day lookback).
 - Headlines are sourced from Google News RSS (today's trending) and Bluesky news org feeds (28-day depth). More data = more variety = fewer repeated stories.
 - Black squares at (0,4) and (4,0) with rotational symmetry. Gives a mix of 4-letter and 5-letter words.
@@ -88,6 +89,12 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - Custom domain (cts.news, cts.today, or cts.fun)
 - Substack integration for distribution
 - Monetization (Substack paid tier for archive access / bonus puzzles)
+
+### UX improvements (from Guardian crossword research)
+
+- **Resize/orientation handler** — Recalculate hidden input position on viewport resize. Currently if someone rotates their phone mid-puzzle, the input misaligns. One-liner `resize` event listener calling `positionInput()`.
+- **ARIA accessibility** — Add `role="grid"` on the grid container, `aria-label` on cells, `aria-live="polite"` on the clue bar for screen reader support. Important if audience grows.
+- **URL fragment deep-linking** — e.g. `#2D` jumps to clue 2-Down. Nice for sharing "I'm stuck on this clue" links.
 
 ### Deferred to v2
 
