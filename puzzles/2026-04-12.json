@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-12",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "A",
+      "G",
+      "S",
+      "#"
+    ],
+    [
+      "E",
+      "P",
+      "O",
+      "C",
+      "H"
+    ],
+    [
+      "A",
+      "T",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "N",
+      "E",
+      "P",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "P",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Southwest Airlines new limits target these portable items on flights",
+        "answer": "BAGS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "A new ___ of AI dominance: Anthropic named Silicon Valley's top favorite",
+        "answer": "EPOCH",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Classic game brand \u2014 like the vintage console servers Dragon Age: Inquisition finally shut down after",
+        "answer": "ATARI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Himalayan nation near where emperor penguins face extinction threats",
+        "answer": "NEPAL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Seize, as supertankers U-turned in Hormuz to avoid being seized",
+        "answer": "REPO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Mr. ___, the Jelly Belly mascot, or the surname of a Congressman under Manhattan DA investigation",
+        "answer": "BEAN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "More fitting \u2014 like higher gas prices making EVs ___ for American drivers again",
+        "answer": "APTER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Flip out completely \u2014 like markets did when Iran war drove inflation soaring in March",
+        "answer": "GOAPE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Fight over, like ironworkers killed in Philadelphia parking garage collapse were doing demolition for",
+        "answer": "SCRAP",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Hawaiian city near where Artemis II astronauts splashed down to cheering crowds",
+        "answer": "HILO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
