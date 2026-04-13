@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-13",
+  "size": 5,
+  "grid": [
+    [
+      "V",
+      "A",
+      "N",
+      "S",
+      "#"
+    ],
+    [
+      "C",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "U",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "H",
+      "E",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Amazon ended support for these older devices this week",
+        "answer": "VANS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "What Pope Leo did to Trump in their feud \u2014 refusing to let go of his stance on Iran",
+        "answer": "CLING",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Relating to the kidneys \u2014 like functions studied in Ozempic research on why the drug doesn't work for everyone",
+        "answer": "RENAL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "SUTRA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Pronoun at center of identity debates \u2014 as 'Euphoria' season 3 premiere addressed characters' evolving stories",
+        "answer": "THEM",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Pre-streaming home video players \u2014 referenced as Dragon Age: Inquisition servers finally shut down over a decade later",
+        "answer": "VCRS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Indigenous Alaskan people \u2014 whose lands are near the Western Pacific islands facing the strongest storm on the planet",
+        "answer": "ALEUT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Rory McIlroy's back-to-back Masters win made him just the ___ player in history to hold certain major records",
+        "answer": "NINTH",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Trap \u2014 like the one Hungary's Magyar sprung on Orb\u00e1n, ending his 16-year grip on power",
+        "answer": "SNARE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Glitzy \u2014 like Coachella outfits that fueled a sexism debate over Justin Bieber's low-key performance",
+        "answer": "GLAM",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
