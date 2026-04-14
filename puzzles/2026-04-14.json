@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-14",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "D",
+      "F",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "U",
+      "L",
+      "L",
+      "Y"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Digital documents the DOJ fired prosecutors may have filed in FACE Act cases",
+        "answer": "PDFS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "What Pope Leo is doing loudly in his feud with Trump over immigration and Iran",
+        "answer": "SPEAK",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Casual name for a compatriot \u2014 like Sam Altman's neighbors after shooting suspects were arrested",
+        "answer": "ALLIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Damage a reputation \u2014 what China Evergrande founder's guilty plea did to his",
+        "answer": "SULLY",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Backtalk \u2014 like Hungary's Magyar hinting he'll defy Orb\u00e1n's EU loan block",
+        "answer": "SASS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Public service announcements \u2014 like warnings from the UN food agency about a Hormuz-triggered agrifood crisis",
+        "answer": "PSAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Barely passing grade \u2014 what Rockstar Games' security may earn after millions of business records were stolen",
+        "answer": "DPLUS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Informal term for a guy \u2014 like the Michigan man released after his wife's disappearance in the Bahamas",
+        "answer": "FELLA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Passes through, as tankers did on day one of Trump's Hormuz blockade, per tracking data",
+        "answer": "SAILS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Florida ___: state whose teenager was charged with assaulting and killing his stepsister on a cruise ship",
+        "answer": "KEYS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
