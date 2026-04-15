@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-15",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "E",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "C",
+      "C",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "E",
+      "S",
+      "T",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pope Leo XIV's title prefix, as he visits Algeria in footsteps of St. Augustine",
+        "answer": "BENE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Quietly including others on email \u2014 like DOJ officials quietly looping in allies during the Fed probe",
+        "answer": "CCING",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Type of unit N.Y.C. may tax if it's a $5M+ second home, per Hochul's proposal",
+        "answer": "CONDO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Alfred P. ___ Foundation, referenced as Hampshire College announced its closure after fall semester",
+        "answer": "SLOAN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "House of ___ \u2014 Italy's ruling family name, as Italy suspends its defense agreement with Israel",
+        "answer": "ESTE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Hidden email recipients, like the covert additions found when hackers planted backdoors in dozens of WordPress plug-ins affecting thousands of sites",
+        "answer": "BCCS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "French school \u2014 like the one whose students may lose access as France's interior minister eyes blocking Kanye West's concert",
+        "answer": "ECOLE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Little ones at risk \u2014 like the child slashed in the Omaha Walmart kidnapping incident",
+        "answer": "NINOS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Conclude, as Rubio hopes direct Israel-Lebanon negotiations will ___ at a ceasefire",
+        "answer": "ENDAT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Departed Congress, as Swalwell and Gonzales formally submitted their resignations",
+        "answer": "GONE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
