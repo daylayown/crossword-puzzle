@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-16",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "I",
+      "L",
+      "L",
+      "#"
+    ],
+    [
+      "N",
+      "O",
+      "H",
+      "I",
+      "T"
+    ],
+    [
+      "A",
+      "W",
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "W",
+      "A",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "S",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Vance's unit of measurement \u2014 Stephen Colbert wants him to lay off the Pope",
+        "answer": "GILL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Perfect game \u2014 like what a Ticketmaster jury delivered to Live Nation's monopoly defense",
+        "answer": "NOHIT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Flooded \u2014 like Milwaukee highways after storms stranded drivers on major roads",
+        "answer": "AWASH",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "What Spirit Airlines risks as fuel costs bite into its operations",
+        "answer": "WASTE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Agency behind Artemis II crew's return home after lunar mission",
+        "answer": "NASA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Bite at \u2014 what Russia keeps doing with overnight drone and missile strikes on Ukraine",
+        "answer": "GNAW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "State native \u2014 like a Farm Bureau member whose finances worsened as fertilizer costs rose",
+        "answer": "IOWAN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Tibetan capital \u2014 near where Vietnam's new leader traveled on his first overseas trip to meet Xi",
+        "answer": "LHASA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Stock market rankings \u2014 like S&P 500 and Nasdaq indexes hitting record highs",
+        "answer": "LISTS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "___ Strand, Oscar Isaac's character in the new season of 'Beef' returning after a long wait",
+        "answer": "THEA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
