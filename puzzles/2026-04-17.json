@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-17",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "U",
+      "S",
+      "K",
+      "#"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "N",
+      "K"
+    ],
+    [
+      "A",
+      "T",
+      "B",
+      "A",
+      "Y"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "N",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Elon ___, whose DOGE role drew scrutiny as Trump's Iran war budget ballooned",
+        "answer": "MUSK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Walk the ___ \u2014 what Pete Hegseth's critics say after his 'Pulp Fiction' prayer debacle",
+        "answer": "PLANK",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Kept ___ \u2014 how Israel wants to hold Hezbollah after the Lebanon ceasefire begins",
+        "answer": "ATBAY",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Font that shares a name with a typeface \u2014 like the sans-serif used in Netflix's new vertical video mobile update",
+        "answer": "ARIAL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Year, in Latin \u2014 as in the ___ the first American pope was elected, making global headlines",
+        "answer": "ANNO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Org. that rates films \u2014 like the ones Disney axed marketing staff to produce, per leaked layoff memo",
+        "answer": "MPAA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Intel's non-___ Core CPU refresh brought new silicon for the first time in years",
+        "answer": "ULTRA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Polio vaccine pioneer \u2014 whose legacy echoes as measles returns to San Francisco for the first time since 2019",
+        "answer": "SABIN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "K'___, Somali-Canadian rapper whose song 'Wavin' Flag' became a global anthem",
+        "answer": "KNAAN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "___ Ren, Star Wars villain \u2014 like the character name evoked by Meta's new Quest 3 price hike controversy",
+        "answer": "KYLO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
