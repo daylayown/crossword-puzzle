@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-18",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "A",
+      "N",
+      "I",
+      "#"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "H",
+      "I",
+      "T",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "A",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Finger- or pedi-, as in the spa treatments Meta employees lost perks for after 8,000 layoffs announced",
+        "answer": "MANI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "___ one (sole survivor format) \u2014 like the lone airline that shut down overnight, stranding all its passengers",
+        "answer": "ONEON",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "___ Karic, or the first name of a Balkan leader \u2014 like Stan Lee's alter ego, evoked as WWE Hall of Fame ticket prices surged last minute",
+        "answer": "STANA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "\"___ big!\" \u2014 what Ford's Mustang GTD did to the Corvette ZR1X's N\u00fcrburgring lap record",
+        "answer": "HITIT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Mining resource \u2014 what the Senate voted 50-49 to allow in Minnesota, overturning a state ban",
+        "answer": "COAL",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Crowd-surfing pit \u2014 like the chaotic energy at Coachella where Madonna and Sabrina Carpenter made history with 'Vogue' duets",
+        "answer": "MOSH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Wild stunt \u2014 like the Air Force faking a cargo flight over Europe to smuggle two stealth jets, prompting an Austrian investigation",
+        "answer": "ANTIC",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "\"How ___!\" \u2014 what astronaut Jeremy Hansen said Canada could achieve after Artemis II's successful lunar mission",
+        "answer": "NEATO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Ancient Greek region \u2014 like the historic territory evoked as Greece's coast faces Atlantic current collapse warnings",
+        "answer": "IONIA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Abbr. for national \u2014 as in ___ Guard, deployed after life-threatening tornadoes slammed the Midwest Heartland",
+        "answer": "NATL",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
