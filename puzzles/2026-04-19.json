@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-19",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "A",
+      "H",
+      "I",
+      "#"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "L",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "B",
+      "E",
+      "L"
+    ],
+    [
+      "K",
+      "A",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "E",
+      "W"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Indian yogurt \u2014 whose export costs soared as Iran war hits poor nations' food budgets",
+        "answer": "DAHI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Spoken exams \u2014 like the face-to-face talks Iran rejected, calling US demands 'maximalist'",
+        "answer": "ORALS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Defy authority \u2014 like Bulgarian voters heading to polls for the eighth time in five years",
+        "answer": "REBEL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Tim ___, Virginia senator whose name surfaced amid Congress sexual misconduct rule push",
+        "answer": "KAINE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Be left in anxious limbo, as passengers amid Trump's war-driven airline mass cancellations",
+        "answer": "STEW",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Socially awkward type \u2014 like the tech CEO accused of running a $420M AI business scam",
+        "answer": "DORK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Zones \u2014 like the Midwest regions hit by tornadoes that wrecked parts of Rochester, Minnesota",
+        "answer": "AREAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Regular practice \u2014 like Trump's of speeding reviews, now applied to psychedelics after Joe Rogan's text",
+        "answer": "HABIT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Woman's name \u2014 like a character in a Kyiv thriller after a gunman killed six there",
+        "answer": "ILENE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Killed many \u2014 as North Korea launched a ___ of short-range ballistic missiles toward the sea",
+        "answer": "SLEW",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
