@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-20",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "F",
+      "F",
+      "T",
+      "#"
+    ],
+    [
+      "L",
+      "O",
+      "H",
+      "A",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "D",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "R",
+      "F"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Dismissive sound \u2014 like reactions to Trump's claim tariff refunds of $166B will boost the economy",
+        "answer": "PFFT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Lindsay ___, actress whose name echoes as Patrick Muldoon of 'Days of Our Lives' dies at 57",
+        "answer": "LOHAN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Grilled corn on the cob \u2014 a street food whose chile pepper connection echoes NPR's story on women who grow them",
+        "answer": "ELOTE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Surname evoking a detective \u2014 like the shadowy Islamic group British police are probing amid arson at Jewish sites",
+        "answer": "ADLER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "One bound to the land \u2014 like workers in emerging markets warned of stablecoin dangers by central bankers",
+        "answer": "SERF",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Legal appeal \u2014 like Iran's 'no decision yet' response ahead of Pakistan peace talks",
+        "answer": "PLEA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Gives up cards \u2014 like Hamas officials saying the group is ready to hand over some weapons",
+        "answer": "FOLDS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Violin's sound hole \u2014 like the acoustic resonance evoked as Euphoria's existential crises play out in Episode 2",
+        "answer": "FHOLE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Spud \u2014 like the potato crops threatened as soaring jet fuel prices and energy shortages grip Europe",
+        "answer": "TATER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Foam dart toy brand \u2014 like the softened blow Arc Raiders dealt to stash-value rewards, replacing them with damage-dealt skill points",
+        "answer": "NERF",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
