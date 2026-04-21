@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-21",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "A",
+      "T",
+      "O",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "R",
+      "L",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Alliance whose AWACS system is evolving to a 'system of systems' after lessons from Ukraine and Iran",
+        "answer": "NATO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "___ fell swoop \u2014 like Tim Cook's Apple exit, leaving hardware chief Johny Srouji to take over five key areas",
+        "answer": "INONE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Fork features \u2014 like the utensils at a Boston Marathon finish-line feast after record-setting 2026 race",
+        "answer": "TINES",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Gnawed \u2014 like what Ukraine did to Russia's Krasnodar oil refinery, hitting it a second time in a week",
+        "answer": "ATEAT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "___ Guthrie (folk singer whose name evokes the new Prince single released ahead of a vault project)",
+        "answer": "ARLO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Short for Anita \u2014 like Anita Hill, whose legacy echoes as Labor Secretary Lori Chavez-DeRemer resigns over misconduct",
+        "answer": "NITA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "ANITA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Printer ink cartridge \u2014 like the supply chain costs hitting small businesses seeking tariff refunds",
+        "answer": "TONER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Shaquille ___ \u2014 basketball giant whose name fits as Knicks suffer an inexplicable Game 2 meltdown",
+        "answer": "ONEAL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Spanish for 'this' \u2014 as in 'this' historic shift by Japan, which scrapped most curbs on weapon exports",
+        "answer": "ESTO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
