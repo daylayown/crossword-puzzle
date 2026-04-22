@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-22",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "T",
+      "Y",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "X",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "H",
+      "I",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "B",
+      "A",
+      "L",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Eye infection \u2014 like the kind of health warning the CDC issued about a drug-resistant stomach bug spreading nationwide",
+        "answer": "STYE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Google's rival home AI assistant, now offering full conversations via Gemini for Home",
+        "answer": "ALEXA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "San ___ pyramids site in Mexico, where security is being beefed up after a tourist shooting",
+        "answer": "SANTO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "___ (slang for 'struck'), as a container ship near Hormuz came under gunfire per UK Navy",
+        "answer": "HITON",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Christian Bale's first name \u2014 evoked as Trump read from the Bible in the Oval Office for a Christian group",
+        "answer": "BALE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ceremonial ribbon \u2014 like the one metaphorically cut as the Nancy Grace Roman Space Telescope was finally completed",
+        "answer": "SASH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Rashida ___, Michigan congresswoman, as Florida Rep. Cherfilus-McCormick resigned rather than face expulsion",
+        "answer": "TLAIB",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Gossip \u2014 like the kind swirling around Taylor Frankie Paul as 'Secret Lives of Mormon Wives' resumes production",
+        "answer": "YENTA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Praise highly \u2014 what fans do for Tim Cook's 15-year Apple legacy as he steps down as CEO",
+        "answer": "EXTOL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "___ (top grade) \u2014 like what Fed nominee Warsh aimed for at his Senate confirmation hearing",
+        "answer": "AONE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
