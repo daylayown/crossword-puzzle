@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-23",
+  "size": 5,
+  "grid": [
+    [
+      "C",
+      "U",
+      "S",
+      "S",
+      "#"
+    ],
+    [
+      "C",
+      "P",
+      "L",
+      "U",
+      "S"
+    ],
+    [
+      "T",
+      "P",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "V",
+      "E",
+      "T",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Swear \u2014 like what some Senate Democrats did after losing the 'vote-a-rama' budget battle",
+        "answer": "CUSS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Barely passing grade \u2014 what Tesla's AI expense report earns as earnings rise but costs add up",
+        "answer": "CPLUS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Auto-Tune pioneer whose name fits the rapper charged with killing Celeste Rivas Hernandez (2 wds.)",
+        "answer": "TPAIN",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Corvette, informally \u2014 like the one Boeing's cash burn recovery can't quite outrun",
+        "answer": "VETTE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Plural surname \u2014 like Welsh actor Roger ___, whose legacy evokes the BBC honoring a woman who unlocked secrets of the stars",
+        "answer": "REES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Surveillance camera system \u2014 like those monitoring Lebanese journalist Amal Khalil's neighborhood before her killing in an Israeli strike",
+        "answer": "CCTV",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Higher \u2014 like the $892 million UK payment to France to reduce migrant Channel crossings",
+        "answer": "UPPER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Lineup of candidates \u2014 like those who debated in the tightening California governor's race",
+        "answer": "SLATE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Hotel room type \u2014 like those booked by Spirit Airlines execs as Trump bailout talks advance",
+        "answer": "SUITE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Retro Nintendo console \u2014 like the classic gaming era evoked as GameCube and Wii titles unlock for Switch",
+        "answer": "SNES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
