@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-24",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "I",
+      "N",
+      "T",
+      "#"
+    ],
+    [
+      "B",
+      "L",
+      "O",
+      "O",
+      "M"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "G",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "S",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Color shade \u2014 like the one Georgia wildfires cast over smoky skies as Gov. Kemp surveyed the damage",
+        "answer": "TINT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Flourish \u2014 like what DeepSeek's new AI model does as Huawei vows 'full support' with fresh chips",
+        "answer": "BLOOM",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Slightly burn \u2014 like what Iran's Strait of Hormuz mines could do to tankers if ceasefire fails",
+        "answer": "SINGE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Trump sparked a crisis in the world's other vital strait, the ___ Canal",
+        "answer": "PANAM",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Legal proceeding \u2014 like the one set for singer D4vd after a judge scheduled evidence presentation in a killing",
+        "answer": "CASE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Kitchen measure abbr. \u2014 like one used in the late-night snacking study finding gut health harm",
+        "answer": "TBSP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Hip bone-related \u2014 like the region near which IDF forces reportedly conducted operations in Gaza",
+        "answer": "ILIAC",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Italian grandmother \u2014 evoked as Warner Bros. Discovery votes to approve its $110 billion merger with Paramount Skydance",
+        "answer": "NONNA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Ancient Roman garments \u2014 like those worn at the Venice Biennale gala where Russia and Israel were excluded from awards",
+        "answer": "TOGAS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Trump's ___ coin is down 80% since his first event promoting it, as he holds another gala this weekend",
+        "answer": "MEME",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
