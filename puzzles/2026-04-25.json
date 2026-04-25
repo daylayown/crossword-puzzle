@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-25",
+  "size": 5,
+  "grid": [
+    [
+      "W",
+      "O",
+      "A",
+      "H",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "M",
+      "A",
+      "N"
+    ],
+    [
+      "I",
+      "H",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "D",
+      "A",
+      "D",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Exclamation of surprise \u2014 like reactions to Intel stock surging 23% in a single day",
+        "answer": "WOAH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Like the sailors who repaired ships far from home, per new archaeology findings",
+        "answer": "ROMAN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Start of a complaint \u2014 like what Meta employees are saying about '28 Days of Hell' amid 20,000 job cuts",
+        "answer": "IHATE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Core principle \u2014 like the DOJ's position that Trump's asylum border ban is illegal, per appeals court ruling",
+        "answer": "TENET",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Fathers \u2014 like those of USF doctoral students whose bodies are being searched for near Tampa",
+        "answer": "DADS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Legal order \u2014 like the one a federal court issued letting Texas's new immigration law take effect",
+        "answer": "WRIT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Gasped in awe \u2014 like stargazers reacting to Hubble's 36th-anniversary image of the Trifid Nebula",
+        "answer": "OOHED",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Appliance brand \u2014 like the heated socks brand Costco recalled after 200,000 units caused burns",
+        "answer": "AMANA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Despised \u2014 like what 82% of WBD shareholders said about David Zaslav's merger payout",
+        "answer": "HATED",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Catches \u2014 like what a U.S. destroyer did to an Iran blockade runner, shooting out its engine",
+        "answer": "NETS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
