@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-26",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "O",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "I",
+      "B",
+      "I",
+      "Z",
+      "A"
+    ],
+    [
+      "D",
+      "I",
+      "G",
+      "I",
+      "T"
+    ],
+    [
+      "E",
+      "T",
+      "H",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "E",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pick to chew \u2014 like scientists who found a 62-foot prehistoric octopus may have hunted dinosaurs",
+        "answer": "BONE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Spanish isle where Stagecoach-like music festivals draw massive crowds",
+        "answer": "IBIZA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Finger or toe \u2014 like the ones counted as scientists mapped solar magnetic fields for the first time",
+        "answer": "DIGIT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Prefix for 'musicology' \u2014 fitting as the 'Michael' biopic breaks opening-week records for musical biopics",
+        "answer": "ETHNO",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Science and tech fields \u2014 like those UC Berkeley students are championing in their fight against phone use",
+        "answer": "STEM",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lay low and wait \u2014 what Trump envoys were told to do before he canceled their Pakistan trip for Iran war talks",
+        "answer": "BIDE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Death notices \u2014 like those filed after Eugene Braunwald, who reshaped cardiology, died at 96",
+        "answer": "OBITS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "After dark \u2014 when Russian drones struck Ukraine, killing seven in a major attack",
+        "answer": "NIGHT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Online publication \u2014 like one covering Orb\u00e1n relinquishing his seat in Hungary's parliament",
+        "answer": "EZINE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Splitting one releases energy \u2014 like the nuclear power X-Energy harnessed before its IPO shares jumped",
+        "answer": "ATOM",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
