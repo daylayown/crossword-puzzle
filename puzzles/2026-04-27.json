@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-27",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "A",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "M",
+      "U"
+    ],
+    [
+      "F",
+      "I",
+      "X",
+      "E",
+      "S"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "U",
+      "S",
+      "N",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Indian conglomerate blocked by China from acquiring Meta's AI firm Manus",
+        "answer": "TATA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Finnish hockey legend \u2014 like the sports figures being tracked in 2026 NHL playoff standings alongside Trail Blazers NBA news",
+        "answer": "TEEMU",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What a Roundup Weedkiller verdict could do for cancer victims' claims, per Supreme Court case",
+        "answer": "FIXES",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Acknowledged, as when Sam Altman said he's 'deeply sorry' for failing to alert police before the WHCD shooting",
+        "answer": "NOTED",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Naval Academy abbr. \u2014 where King Charles III's security team coordinated ahead of his Washington visit",
+        "answer": "USNA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Cheerio alternative \u2014 texting shorthand evoked as UC Berkeley students fight to put phones away",
+        "answer": "TTFN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Five vowels, like the ones Australia's teens use to dodge social media age bans with masks and parents' IDs",
+        "answer": "AEIOU",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Messages investigators examined after acting AG revealed Trump officials were targets of the WHCD gunman",
+        "answer": "TEXTS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Arabic for 'so be it' \u2014 like the spirit of Iran's foreign minister returning to Pakistan to save U.S. ceasefire talks",
+        "answer": "AMEEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Dept. that oversees food safety \u2014 relevant as Iran war hits pistachio supplies and agrifood costs surge",
+        "answer": "USDA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
