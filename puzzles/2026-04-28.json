@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-28",
+  "size": 5,
+  "grid": [
+    [
+      "F",
+      "A",
+      "T",
+      "S",
+      "#"
+    ],
+    [
+      "D",
+      "E",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "I",
+      "S",
+      "I",
+      "A",
+      "H"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "G",
+      "O"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "S",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Greasy foods \u2014 like those Domino's CEO fears chains will cut as sales disappoint",
+        "answer": "FATS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "College administrators \u2014 like those at Camp Mystic whose counselors lacked proper training, Texas lawmakers heard",
+        "answer": "DEANS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Thomas, NBA legend \u2014 fitting as Cooper Flagg wins Rookie of the Year over former Duke teammate Kon Knueppel",
+        "answer": "ISIAH",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "African nation planning a paramilitary unit for its mines with U.S. and UAE funding",
+        "answer": "CONGO",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Strike a stance \u2014 like King Charles III does as he begins his U.S. state visit to meet Trump",
+        "answer": "POSE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Bank deposit insurer \u2014 relevant as Ackman's Pershing Square IPO aims to raise $5 billion",
+        "answer": "FDIC",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Ancient fabulist \u2014 whose moral tales echo as AI firms OpenAI and Google clash in court over a 'toxic' row",
+        "answer": "AESOP",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Indigenous Caribbean people \u2014 whose history is recalled as Pompeii archaeologists use AI to reconstruct a man killed in a volcano's eruption",
+        "answer": "TAINO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Complications \u2014 like those facing the ICE warehouse plan delayed over lack of environmental reviews",
+        "answer": "SNAGS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Footwear \u2014 like the kind metaphorically dropped as Trump fires the entire National Science Board",
+        "answer": "SHOE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
