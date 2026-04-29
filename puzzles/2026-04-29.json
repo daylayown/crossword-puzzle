@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-29",
+  "size": 5,
+  "grid": [
+    [
+      "F",
+      "E",
+      "A",
+      "R",
+      "#"
+    ],
+    [
+      "O",
+      "L",
+      "E",
+      "I",
+      "C"
+    ],
+    [
+      "G",
+      "O",
+      "R",
+      "G",
+      "E"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "E",
+      "E",
+      "L",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Emotion Trump stokes with AI image of himself wielding a gun, threatening Iran",
+        "answer": "FEAR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "OLEIC",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "GORGE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Sales pitch \u2014 like the one Spirit Airlines lobbyists are making to Hill Republicans for a Trump bailout",
+        "answer": "SPIEL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Slippery fish \u2014 like the ones metaphorically navigating the Fed as Powell bows out",
+        "answer": "EELS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Obscures visibility \u2014 like uncertainty does for the Fed sailing into uncharted waters",
+        "answer": "FOGS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Run off to wed \u2014 what Zo\u00eb Kravitz and Harry Styles might do, given her new engagement ring news",
+        "answer": "ELOPE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "High perch \u2014 like the one King Charles occupied as he urged checks on executive power during Trump's royal visit",
+        "answer": "AERIE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Bright star in Orion \u2014 like the one NASA's lithium-fed thruster aims toward on trips to Mars",
+        "answer": "RIGEL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Animated film frames \u2014 like those cut from Quixote Studios productions as 70 workers were laid off amid L.A.'s production slump",
+        "answer": "CELS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
