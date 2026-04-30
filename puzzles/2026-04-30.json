@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-30",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "R",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "R",
+      "O",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Angers \u2014 like what Hegseth did to lawmakers sparring over the $25B Iran war price tag",
+        "answer": "IRES",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Pistons' Cade Cunningham, e.g., who set a record to keep Detroit alive in playoffs",
+        "answer": "PACER",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Tennis score when it's 40-40 with advantage \u2014 like the tight back-and-forth in Trump's Iran negotiations",
+        "answer": "ADOUT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "French word for 'dance' \u2014 evoked as 'Devil Wears Prada 2' poised for a massive $180M global debut",
+        "answer": "DANSE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Former Israeli PM Bennett's surname \u2014 he unveiled an 'Israeli Renaissance' plan to replace Netanyahu",
+        "answer": "ROSS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Apple tablet \u2014 whose 'Ultra' version plans were reportedly abandoned",
+        "answer": "IPAD",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Detection system \u2014 like the one Hezbollah's fiber optic drones are testing against Israel's sophisticated network",
+        "answer": "RADAR",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Budget-minded, like the airline Spirit as bailout talks stall and it teeters toward collapse",
+        "answer": "ECONO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Children's book author whose name fits as the FDA released results from a major infant formula safety study",
+        "answer": "SEUSS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Highway abbrs. \u2014 like those disrupted as MTA braces for an LIRR strike threatening service cuts",
+        "answer": "RTES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
