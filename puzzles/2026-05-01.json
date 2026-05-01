@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-01",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "A",
+      "R",
+      "K",
+      "#"
+    ],
+    [
+      "I",
+      "R",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "P",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "M",
+      "E",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "D",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Gloomy \u2014 like press freedom described as hitting its lowest level in 25 years",
+        "answer": "DARK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Name that sounds like a hurricane \u2014 like the storms evoked as Washington state school suffered a stabbing attack",
+        "answer": "IRENE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Declines firmly \u2014 like Iran's supreme leader who vows to protect nuclear capabilities",
+        "answer": "NOPES",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Virtual meeting \u2014 like the Senate hearing where Hegseth testified on the Iran war",
+        "answer": "EMEET",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Alan ___, M*A*S*H star \u2014 evoked as Craig Venter, a pioneering genome decoder, dies at 79",
+        "answer": "ALDA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Eat out \u2014 like guests at the White House event a gunman tried to storm, per new video footage released today",
+        "answer": "DINE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Distinctive smell \u2014 like that of the illicit meth lab discovered inside Michigan State University's largest academic building",
+        "answer": "AROMA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Drive back \u2014 like Iran's vowed response to \"painful\" counter any renewed U.S. military strikes",
+        "answer": "REPEL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Hit with a joint \u2014 like the violence that erupted in an Australian town after a suspect was arrested in a girl's killing",
+        "answer": "KNEED",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Spanish for 'this' \u2014 as in 'this' Venice Biennale, whose jury resigned days before the top art exhibition",
+        "answer": "ESTA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
