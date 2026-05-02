@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-02",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "P",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "K",
+      "E",
+      "S",
+      "H",
+      "A"
+    ],
+    [
+      "I",
+      "D",
+      "S",
+      "A",
+      "Y"
+    ],
+    [
+      "N",
+      "A",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Mimics \u2014 like the AI models that 'consider user's feeling' and mirror emotions, per new study on errors",
+        "answer": "APES",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Pop star whose name echoes the rapper whose Tiger Stadium concert with Jelly Roll was canceled",
+        "answer": "KESHA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "\"___ so myself\" \u2014 like Trump after declaring Iran conflict 'terminated' ahead of congressional deadline",
+        "answer": "IDSAY",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Gullible \u2014 like investors warned about stablecoin dangers, per central bankers' crypto alert",
+        "answer": "NAIVE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Dregs \u2014 like the remnants of Spirit Airlines after it ceases operations amid financial struggles",
+        "answer": "LEES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Related \u2014 like Exxon and Chevron, whose quarterly earnings both fell despite soaring oil prices",
+        "answer": "AKIN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Bike part \u2014 like those on the roads closed for May Day demonstrations near DC's Beltway",
+        "answer": "PEDAL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Nail polish brand \u2014 fitting as Jodie Sweetin got a one-cent residual check for 'Full House' in the streaming era",
+        "answer": "ESSIE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Remove stubble \u2014 what Berkshire's new CEO Greg Abel may want to do before hosting his first annual meeting",
+        "answer": "SHAVE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Votes in favor \u2014 like those cast as Nebraska became the first U.S. state to enact Medicaid work requirements",
+        "answer": "AYES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
