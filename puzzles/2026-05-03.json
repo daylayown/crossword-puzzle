@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-03",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "C",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "L",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "C",
+      "R",
+      "E",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Frozen out \u2014 like Spirit Airlines flyers after the carrier's sudden shutdown",
+        "answer": "ICED",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Iran war '___ bring oil above $125,' Kalshi traders predict",
+        "answer": "COULD",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "GLP-1 drugs like Ozempic ___ cause muscle loss, researchers warn",
+        "answer": "ELLIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Italian city \u2014 like the one whose art auction drew scrutiny as Berkshire's new CEO Greg Abel addressed shareholders",
+        "answer": "SIENA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Street credibility \u2014 what Benavidez gained becoming three-division champ after stopping Ramirez",
+        "answer": "CRED",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Chills \u2014 as Trump's repeated threats ___ Iran's willingness to negotiate a new nuclear deal",
+        "answer": "ICES",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Infant discomfort \u2014 evoked as Austria police arrested a suspect over poisoned HiPP baby food",
+        "answer": "COLIC",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Famous mathematician whose name fits as AI companies strike deals with Pentagon on classified systems",
+        "answer": "EULER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Defensive football unit, informally \u2014 a position of focus as teams assessed needs at the NFL Draft last month",
+        "answer": "DLINE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "No longer operational \u2014 like Ask.com after its shutdown this week",
+        "answer": "DEAD",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
