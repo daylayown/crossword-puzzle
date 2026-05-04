@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-04",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "I",
+      "C",
+      "E",
+      "#"
+    ],
+    [
+      "O",
+      "S",
+      "H",
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "B",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "S",
+      "S",
+      "R",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Roll these to decide \u2014 like Warren Buffett's warning that Americans are in a 'gambling mood'",
+        "answer": "DICE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Surname of Rudy Giuliani's attorney \u2014 as the former mayor fights for his life in a hospital",
+        "answer": "OSHEA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Baseball warm-up game \u2014 like the one Yankees' Volpe may face after being optioned to the minors",
+        "answer": "TBALL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Concluded, as Ask.com's nearly 30-year run finally did this week",
+        "answer": "ENDED",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Antidepressant type \u2014 like the medications researchers linked to antibiotic resistance in soil",
+        "answer": "SSRI",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Adore greatly \u2014 as Berkshire shareholders seemed to ___ Greg Abel after his debut annual meeting without Warren Buffett",
+        "answer": "DOTE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Book catalog numbers \u2014 relevant as GameStop's unsolicited $56B eBay bid targets a major used-book marketplace where titles are tracked by these codes",
+        "answer": "ISBNS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Hanging ballot bits \u2014 recalled as election-denying candidates run to control voting in many states",
+        "answer": "CHADS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "EELER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Discount grocer chain \u2014 like Austrian supermarkets placed on alert after rat poison was found in baby food jars on store shelves",
+        "answer": "ALDI",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
