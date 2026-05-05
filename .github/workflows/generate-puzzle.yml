@@ -41,6 +41,13 @@ jobs:
           git commit -m "Add daily puzzle for ${DATE}"
           git push
 
+      - name: Send newsletter email
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python3 tools/send_email.py
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
