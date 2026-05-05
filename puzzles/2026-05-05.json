@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-05",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "M",
+      "W",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "P",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "B",
+      "E",
+      "N",
+      "N",
+      "Y"
+    ],
+    [
+      "A",
+      "G",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "A",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "German automaker \u2014 whose CEO says shortages in oil supply will begin appearing as Iran war roils markets",
+        "answer": "BMWS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Bee-related \u2014 like the hantavirus cluster linked to cruise ship travel that's buzzing through multiple countries",
+        "answer": "APIAN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Jack ___, comedian's first name \u2014 like the humor attempted as GameStop CEO skirted questions over eBay acquisition details",
+        "answer": "BENNY",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Striped gemstone \u2014 like the colorful stones evoked as NASA releases thousands of unseen Artemis II photos",
+        "answer": "AGATE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Immediately, in medicine \u2014 like the urgent response needed after an explosion at a fireworks plant in China killed at least 26",
+        "answer": "STAT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ali ___, the tech figure \u2014 like the one evoked as Trump's crypto firm sues investor Justin Sun",
+        "answer": "BABA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Compressed video files \u2014 like the footage showing an ICE agent tasing a man multiple times ahead of a Bushwick hospital standoff",
+        "answer": "MPEGS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Succeed at \u2014 what Modi's BJP did in India's West Bengal, claiming control for the first time",
+        "answer": "WINAT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Patron ___ (protective figure) \u2014 like the one invoked as anti-Israel students surrounded the car of Cornell's president",
+        "answer": "SANTA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Russian refusal \u2014 like Putin's reaction to Zelensky's drone threats ahead of the Victory Day parade in Moscow",
+        "answer": "NYET",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
