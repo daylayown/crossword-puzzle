@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-06",
+  "size": 5,
+  "grid": [
+    [
+      "V",
+      "I",
+      "S",
+      "E",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "C",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "#",
+      "C",
+      "E",
+      "L",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tight grip \u2014 like the one Trump is reinforcing on Indiana Republicans after primary payback",
+        "answer": "VISE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Motion-capture, for short \u2014 like the performance tech behind the new 'Michael' biopic's dance sequences",
+        "answer": "MOCAP",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Having smelled something \u2014 fitting as a hantavirus outbreak aboard a cruise ship raised alarming odor and sanitation concerns",
+        "answer": "ANOSE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Yes, ___! \u2014 like the emphatic response after Democrats kept control of Michigan's state Senate in a special election win",
+        "answer": "SIREE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Prison unit \u2014 like the ones discussed as Pennsylvania sues Character.AI for a chatbot that posed as a doctor",
+        "answer": "CELL",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "MTV awards show abbr. \u2014 like the music industry ceremony whose vibe echoes the 2026 Tony Awards nominations snubs of Lea Michele and Ayo Edebiri",
+        "answer": "VMAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Column style \u2014 like the architectural grandeur of the new Met Gala looks inspired by works of art",
+        "answer": "IONIC",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Settle, as in ___ a legal settlement \u2014 like Blake Lively's deal with Justin Baldoni that reportedly left her with no money",
+        "answer": "SCORE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Artist's stand \u2014 like those set up as Russia was shunned at the Venice Biennale amid the Ukraine war",
+        "answer": "EASEL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Strip away \u2014 like Apple's plan to pay $250M to iPhone buyers over missing AI features",
+        "answer": "PEEL",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
