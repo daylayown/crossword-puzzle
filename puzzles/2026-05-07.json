@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-07",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "U",
+      "B",
+      "Y",
+      "#"
+    ],
+    [
+      "O",
+      "B",
+      "I",
+      "E",
+      "S"
+    ],
+    [
+      "M",
+      "O",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "O",
+      "L",
+      "M",
+      "E",
+      "C"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Precious stone \u2014 like the color of Ted Turner's CNN logo, whose founder died at 87",
+        "answer": "RUBY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Off-Broadway honors \u2014 relevant as Rutgers canceled a graduation speaker for pro-Palestinian posts",
+        "answer": "OBIES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Large-antlered animal \u2014 like the wildlife near Alaska's fjord after a near-record landslide tsunami",
+        "answer": "MOOSE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Ancient Mesoamerican civilization \u2014 evoked as Mississippi holds a redistricting session at its Jim Crow-era capitol",
+        "answer": "OLMEC",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Sid Meier's Civilization VII '___ of Time' update launches May 19",
+        "answer": "TEST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tony ___, former NFL QB whose name echoes as the California governor debate turned fiery on CNN",
+        "answer": "ROMO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Fastener shaped like a letter \u2014 like hardware on vessels the U.S. disabled in the Gulf of Oman for violating the blockade",
+        "answer": "UBOLT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Ecological community \u2014 like those threatened as odds of a 'super El Ni\u00f1o' increase, raising extreme weather fears",
+        "answer": "BIOME",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Affirmative votes \u2014 like those cast by Schumer's chorus opposing $1B for Trump's 'free' ballroom",
+        "answer": "YESES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Religious splinter group \u2014 like the Australian women with alleged IS ties facing charges on return from Syria",
+        "answer": "SECT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
