@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-08",
+  "size": 5,
+  "grid": [
+    [
+      "V",
+      "A",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "K",
+      "E",
+      "S"
+    ],
+    [
+      "O",
+      "H",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "G",
+      "E",
+      "T",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "D",
+      "E",
+      "M",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Shell's nearly $7 billion profit after oil prices surged was described as ___",
+        "answer": "VAST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Great ___, the region whose water rights battle erupted as thousands of Utahns protested a Box Elder data center",
+        "answer": "LAKES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Hawaiian word for 'family' \u2014 evoked as LAPD was found not liable in the shooting of teen Valentina Orellana-Peralta",
+        "answer": "OHANA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Try to reach \u2014 like what ASEAN leaders are doing as they discuss a crisis plan to mitigate Middle East war backlash",
+        "answer": "GETAT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Mamdani's allies pressing him for stricter NYPD-ICE rules are part of which party, informally",
+        "answer": "DEMS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Video diary format \u2014 like what David Attenborough, celebrating his 100th birthday, might use to share his 'secret superpower'",
+        "answer": "VLOG",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Gasped in wonder \u2014 like audiences reacting to the Venice Biennale's unprecedented 24-hour strike",
+        "answer": "AAHED",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Glide past \u2014 like Spirit Airlines pilots hired to fly their own jets to the boneyard",
+        "answer": "SKATE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "___ (10 AM) \u2014 around the hour Mississippi tornado survivors were crawling under furniture to survive",
+        "answer": "TENAM",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Standardized college exams \u2014 like those whose Canvas platform was shut down for hours after a cyberattack",
+        "answer": "SATS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
