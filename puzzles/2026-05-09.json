@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-09",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "E",
+      "A",
+      "N",
+      "#"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "A",
+      "D"
+    ],
+    [
+      "N",
+      "I",
+      "T",
+      "R",
+      "O"
+    ],
+    [
+      "Y",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "James ___, the FDA leader Trump may replace amid agency turmoil (last name hint: Makary's boss title)",
+        "answer": "DEAN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Work dough \u2014 like bakers might do as Arby's and Dunkin' owner files for IPO",
+        "answer": "KNEAD",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Explosive compound \u2014 like the fireworks plant in China where a blast killed 37",
+        "answer": "NITRO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Reform UK's Nigel Farage, e.g. \u2014 informally, a political ___ (sounds like a name)",
+        "answer": "YANCE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Mama ___, the singing group \u2014 like the musicians evoked as the Met Opera warned patrons of measles exposure after La Boh\u00e8me",
+        "answer": "CASS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fashion brand whose initials match a designer label \u2014 like new AirPods proving Apple is still king of ___",
+        "answer": "DKNY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Early computer \u2014 fitting as engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology echoing computing history",
+        "answer": "ENIAC",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Health insurer \u2014 relevant as trade court strikes down a second round of Trump tariffs affecting healthcare costs",
+        "answer": "AETNA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Drug enforcement agents \u2014 like those whose work echoes as the White House Drug Czar clarifies marijuana is 'still illegal'",
+        "answer": "NARCS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Female deer \u2014 like the wildlife near Glacier National Park where a missing hiker's body was found after an apparent bear attack",
+        "answer": "DOES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
