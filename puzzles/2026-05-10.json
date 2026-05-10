@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-10",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "U",
+      "L",
+      "L",
+      "#"
+    ],
+    [
+      "E",
+      "R",
+      "I",
+      "E",
+      "S"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "T",
+      "E"
+    ],
+    [
+      "P",
+      "L",
+      "U",
+      "M",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "P",
+      "E",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Ship's body \u2014 like those of the 91 planes abandoned after Spirit Airlines' collapse",
+        "answer": "HULL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Great Lakes region \u2014 like the one whose water was drained by a data center until residents noticed low pressure",
+        "answer": "ERIES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Dull finish \u2014 like the subdued tone of Russia's downsized Victory Day parade",
+        "answer": "MATTE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Smoke trail \u2014 like those from wildfires the new U.S. Wildland Fire Service is bracing for this extreme season",
+        "answer": "PLUME",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Flew along \u2014 like the Frontier jet that aborted takeoff after the pilot reported an engine fire",
+        "answer": "SPED",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Plant fiber \u2014 like those in agriculture threatened as Iran war crushes Asia's farmers and global food supply",
+        "answer": "HEMP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Russian mountain range \u2014 relevant as Putin suggests the Ukraine war is 'coming to an end'",
+        "answer": "URALS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Illuminated \u2014 like the Miami sandbar boat explosion that triggered a mass casualty response",
+        "answer": "LITUP",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Start of a request \u2014 like those from hantavirus patients described by an ICU doctor treating the critically ill",
+        "answer": "LETME",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Starting point \u2014 like what scientists found linking Angola's 'ghost elephants' genetically to distant populations",
+        "answer": "SEED",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
