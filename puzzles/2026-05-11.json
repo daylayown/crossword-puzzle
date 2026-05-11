@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-11",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "O",
+      "L",
+      "E",
+      "#"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "R",
+      "N"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "I",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "E",
+      "P"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Underground agent \u2014 like the spy network Iran reportedly used to track U.S. carrier movements near Hormuz",
+        "answer": "MOLE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Indigenous Canadian people \u2014 relevant as Trump's 'illegal DEI' label blocked promised septic tanks for minority communities",
+        "answer": "CREES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Nut that grows into an oak \u2014 like the tiny spacecraft that captured never-before-seen details of Mars",
+        "answer": "ACORN",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Woman's name \u2014 like Abe Foxman's ADL successor, as the longtime Jewish advocate dies at 86",
+        "answer": "TANIA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Slowly leak through \u2014 like hantavirus fears seeping into public consciousness as more cruise passengers test positive",
+        "answer": "SEEP",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Pre-med exam, briefly \u2014 relevant as America's job market optimism gap hits its worst level in the world",
+        "answer": "MCAT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Killer whales \u2014 like the predators evoked as Hezbollah drones struck an Iron Dome battery in northern Israel",
+        "answer": "ORCAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Sierra ___ \u2014 West African nation whose name fits as Zelensky takes off the gloves with the Trump administration",
+        "answer": "LEONE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Creepy \u2014 like the specter of an all-GOP California governor's race spurring a push to remake the open primary",
+        "answer": "EERIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Break sharply \u2014 like Britain's Starmer whose political standing cracked after local election losses",
+        "answer": "SNAP",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
