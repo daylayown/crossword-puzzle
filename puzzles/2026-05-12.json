@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-12",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "S",
+      "S",
+      "O",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "M",
+      "P",
+      "E"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "H",
+      "M",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "R",
+      "T",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "International Space ___, where China's Tianzhou 10 freighter delivered 7 tons of cargo (abbr.)",
+        "answer": "ISSO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Arizona city near where heat stroke killed 6 found in a shipping container at a rail yard near the Texas border",
+        "answer": "TEMPE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What the Lincoln Memorial Reflecting Pool's current look would no longer be if Trump's plan to paint it blue goes forward",
+        "answer": "CLEAN",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Korean-American grocery chain \u2014 relevant as China sought access to Anthropic's newest A.I. and was told no",
+        "answer": "HMART",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Cannes Film Festival focuses on these \u2014 as the fest boss pleads for Hollywood studio films to return",
+        "answer": "ARTS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Urge \u2014 like the one Netflix's addictive features allegedly create, per the Texas AG's lawsuit",
+        "answer": "ITCH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "City in Alabama \u2014 whose redistricting fight got a major boost from the Supreme Court",
+        "answer": "SELMA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Attack a reputation \u2014 like what the EU did to Israeli settlers with new sanctions after Hungary dropped Orban's veto",
+        "answer": "SMEAR",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Vasarely-style visual style \u2014 like the abstract patterns evoking Sony's new wearable air conditioner's sleek design aesthetic",
+        "answer": "OPART",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Tolkien's tree creatures \u2014 like the long, deliberate process of Kevin Warsh's expected Senate confirmation as next Federal Reserve chair",
+        "answer": "ENTS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
