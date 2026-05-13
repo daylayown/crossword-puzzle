@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-13",
+  "size": 5,
+  "grid": [
+    [
+      "Y",
+      "A",
+      "N",
+      "G",
+      "#"
+    ],
+    [
+      "E",
+      "B",
+      "O",
+      "N",
+      "D"
+    ],
+    [
+      "A",
+      "O",
+      "D",
+      "A",
+      "I"
+    ],
+    [
+      "S",
+      "U",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "T",
+      "O",
+      "L",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Andrew ___, NYC mayoral candidate Mamdani defeated in Democratic primary",
+        "answer": "YANG",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Savings instrument \u2014 like those UK 30-year yields hit 1998 levels may soon impact",
+        "answer": "EBOND",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Traditional Vietnamese dress \u2014 evoked as Trump heads to China for Xi summit amid diplomatic pageantry",
+        "answer": "AODAI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Sacred text \u2014 like those Israeli lawmakers cited when setting up tribunal for October 2023 attackers",
+        "answer": "SUTRA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Price of Iran's Hormuz chokehold \u2014 as crude tops $100 and supply costs mount",
+        "answer": "TOLL",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Votes in support \u2014 like those cast confirming Kevin Warsh as Fed governor",
+        "answer": "YEAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Approximately \u2014 as Pentagon's estimate for Iran war grows to ___ $29 billion",
+        "answer": "ABOUT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Tip of the hat \u2014 like King Charles's acknowledgment of Parliament's role in his King's Speech agenda",
+        "answer": "NODTO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Twisted knot \u2014 like the tangled redistricting mess South Carolina Republicans blocked to save Clyburn's seat",
+        "answer": "GNARL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Call up \u2014 like what Kash Patel did to lawmakers as he lashed out over 'excessive drinking' questions",
+        "answer": "DIAL",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
