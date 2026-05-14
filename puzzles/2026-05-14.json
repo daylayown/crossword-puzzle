@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-14",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "P",
+      "U",
+      "P"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "C",
+      "Y",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Madonna or Shakira, at the FIFA World Cup final halftime show",
+        "answer": "STAR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Finish cleaning \u2014 like what CDC officials are doing after hantavirus outbreak hits cruise ships",
+        "answer": "MOPUP",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Share a view \u2014 like what Trump did when he said the Strait of Hormuz 'must remain open'",
+        "answer": "OPINE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Metric fluid unit \u2014 like those used measuring the oil Cuba says has run dry under U.S. sanctions",
+        "answer": "LITER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Fluid-filled sac \u2014 like the kind of growth doctors found linked to new Alzheimer's drug trial findings",
+        "answer": "CYST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tiny, in internet slang \u2014 like the budget Apple M4 MacBook Air deal at just $829",
+        "answer": "SMOL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Subject of discussion \u2014 like redistricting, which Dems are plotting revenge over ahead of 2026",
+        "answer": "TOPIC",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Regrettable situation \u2014 like Honda's first-ever annual loss after its pullback from EVs",
+        "answer": "APITY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Mysterious symbols \u2014 like the new Chinese spelling of 'Rubio' that sidesteps China's travel ban",
+        "answer": "RUNES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Lively and bold \u2014 like Kentucky voters sizing up the Trump vs. Massie loyalty test",
+        "answer": "PERT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
