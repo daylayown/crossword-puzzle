@@ -7,8 +7,9 @@ A daily 5x5 mini crossword where clues are tied to recent news headlines. Reward
 - **Front-end:** Vanilla HTML/CSS/JS, no framework. Static files served from any host.
 - **Puzzle data:** One JSON file per day in `puzzles/YYYY-MM-DD.json`
 - **Generation pipeline:** Python scripts in `tools/` that scrape headlines, generate a valid grid, and use Claude (Sonnet 4.6) to write news-themed clues
+- **Newsletter pipeline:** After each puzzle commit, a separate Python step uses Claude (Haiku 4.5) to draft a warm, spoiler-free email body and schedules a 7am MST send via Buttondown
 - **Hosting:** GitHub Pages at https://crosswordingthesituation.com (repo: daylayown/crossword-puzzle)
-- **Daily automation:** GitHub Actions cron job generates a new puzzle at 2am MST daily
+- **Daily automation:** GitHub Actions cron job generates a new puzzle at 2am MST daily, then schedules the day's newsletter email
 
 ## Project Structure
 
@@ -24,6 +25,7 @@ tools/
   wordlist.json        — 12,720 words from Spread The Wordlist (STWL), score 50+, 3-5 letters
   scrape_headlines.py  — Google News RSS feed scraper across categories
   scrape_bluesky.py    — Bluesky AT Protocol scraper for news org feeds (NYT, Reuters, AP, WSJ, BBC, WashPost)
+  send_email.py        — Newsletter pipeline: draft via Haiku 4.5 + schedule via Buttondown
 .github/workflows/
   deploy.yml           — GitHub Pages deployment (triggers on push to main)
   generate-puzzle.yml  — Daily puzzle generation cron (2am MST) + manual trigger
@@ -48,6 +50,20 @@ Automated: GitHub Actions runs this daily at 2am MST, commits the puzzle JSON, a
 
 Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the cron job). Costs ~$0.01–0.02 per puzzle (two Claude calls when dedup rewrites are needed).
 
+## Newsletter Pipeline
+
+After the puzzle is committed and pushed, a follow-on step runs `tools/send_email.py`:
+
+1. Loads today's puzzle JSON.
+2. Sends *only the clue text* (never the answers) to Claude Haiku 4.5 with strict spoiler guardrails: no quoting clues verbatim, no naming answer words, no identifying which specific story a specific clue references — only broad category descriptors. Claude returns structured JSON: `{topics: [...], email_body: "..."}`.
+3. Wraps the LLM-generated 2–3 sentences in a fixed template: `"Good morning —"` greeting, body, `"Play today's puzzle: <link>"`, `"Nicholas, Crosswording The Situation"` signoff. Subject is templated: `"Today's mini — <Month Day>"`.
+4. Posts to Buttondown's `/v1/emails` endpoint with `publish_date` set to **14:00 UTC = 7am MST** on the puzzle's date (Arizona is MST year-round, no DST math needed). If the send time has already passed, falls back to "now + 5 minutes."
+5. The workflow step is `continue-on-error: true` and the script exits 0 on any failure — a Buttondown or Claude hiccup never blocks the puzzle pipeline. Errors surface in the step log.
+
+Run manually: `BUTTONDOWN_API_KEY=... python3 tools/send_email.py [YYYY-MM-DD]`. Without `BUTTONDOWN_API_KEY` set, the script prints the composed email locally instead of sending — useful for dry runs.
+
+Requires `BUTTONDOWN_API_KEY` env var (stored as a GitHub Actions secret). Costs ~$0.0016 per email (one Haiku 4.5 call with structured output). Buttondown account: `yesdeleon` → subscribe page at `buttondown.com/yesdeleon`.
+
 ## Key Design Decisions
 
 - Grid is generated first from a broad word list, then Claude writes news-themed clues for the words. This guarantees a valid grid every time (vs. trying to force arbitrary news words into a grid).
@@ -57,6 +73,10 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - Each news-themed clue must reference a DIFFERENT story/topic. No repeating the same headline across multiple clues — enforced both within a single puzzle (two-pass dedup) and across consecutive days (28-day lookback).
 - Headlines are sourced from Google News RSS (today's trending) and Bluesky news org feeds (28-day depth). More data = more variety = fewer repeated stories.
 - Black squares at (0,4) and (4,0) with rotational symmetry. Gives a mix of 4-letter and 5-letter words.
+
+## Gotchas / Lessons Learned
+
+- **Parsing Claude's JSON responses must tolerate trailing prose.** `parse_json_response` in `tools/generate_puzzle.py` uses `json.JSONDecoder().raw_decode()` rather than `json.loads()` because Claude sometimes returns a valid JSON object followed by an explanatory note (e.g. `{"conflicts": []}\n\nAll clues reference different stories.`). The old parser only stripped surrounding text when the response *didn't* start with `{`, so a response that started with valid JSON but had trailing prose blew up with `JSONDecodeError: Extra data ...`. `raw_decode` parses the first JSON value and ignores anything after it, which handles both shapes (and code-fenced and leading-prose variants too). The 2026-05-14 cron run failed this way at the Step 5 dedup call — keep using `raw_decode` for any new Claude JSON parsing.
 
 ## What's Working
 
@@ -79,6 +99,8 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - **Analytics:** Google Analytics 4 (G-F5ZLZD433P) for visitor tracking
 - **iOS mobile keyboard support:** iOS Safari doesn't fire `keydown` events for virtual keyboard letters on `<div>` elements. A transparent `<input>` (not hidden — `opacity:0` breaks iOS) is positioned directly over the active cell (`position: absolute`, cell-sized, `z-index: 2`). It moves via `positionInput()` on each cell selection. iOS sees a normally-positioned visible input at the tap location, so it doesn't scroll. Letters are captured via `beforeinput` events. Based on the [Guardian crossword's approach](https://github.com/zetter/react-crossword).
 - **Site footer** with author info and contact links
+- **Daily newsletter via Buttondown** — Haiku 4.5 drafts a warm, spoiler-free email body from each day's clues; emails schedule for 7am MST. Delivery is decoupled from puzzle generation (non-blocking, `continue-on-error`).
+- **Signup CTA on the site** — Subscribe button in the post-solve completion modal (between primary actions and the Done button) and a quieter signup line in the footer for non-completers. Both link to `buttondown.com/yesdeleon`.
 
 ## Next Steps
 
@@ -87,8 +109,8 @@ Requires `ANTHROPIC_API_KEY` env var (stored as a GitHub Actions secret for the 
 - Firebase Auth (Google sign-in) + Firestore for cross-device personal score sync
 - Puzzle archive page
 - Custom domain (cts.news, cts.today, or cts.fun)
-- Substack integration for distribution
-- Monetization (Substack paid tier for archive access / bonus puzzles)
+- Newsletter monetization (Buttondown paid tier for archive access / bonus puzzles)
+- Embedded Buttondown signup form (currently links out to hosted subscribe page)
 
 ### UX improvements (from Guardian crossword research)
 
