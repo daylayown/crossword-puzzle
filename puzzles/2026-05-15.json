@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-15",
+  "size": 5,
+  "grid": [
+    [
+      "W",
+      "O",
+      "W",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "H",
+      "L"
+    ],
+    [
+      "N",
+      "A",
+      "N",
+      "O",
+      "S"
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "S",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Impresses greatly \u2014 like SpaceX's IPO, which is already upending the stock market",
+        "answer": "WOWS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Opera character \u2014 like the kind Pope Leo XIV might enjoy, given his decrying AI-directed warfare at a Rome university",
+        "answer": "AMAHL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Tiny tech units \u2014 like those in small modular reactors the Energy Dept. awarded $94M to develop",
+        "answer": "NANOS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Greek letter \u2014 like the variables used as NASA's Psyche probe flew within 3,000 miles of Mars",
+        "answer": "THETA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Helper, briefly \u2014 like the aide role Rubio played on his sanctioned trip to Beijing",
+        "answer": "ASST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Desire \u2014 like what Xi told Trump and Musk that China has to 'open wider' for U.S. business",
+        "answer": "WANT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Nebraska city \u2014 relevant as that state enacted Medicaid work requirements, a first in the U.S.",
+        "answer": "OMAHA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Fades \u2014 like Orban's media empire after Hungary's election defeat",
+        "answer": "WANES",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Vaccine doses \u2014 like the kind researchers are pushing as measles cases resurge nationwide",
+        "answer": "SHOTS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Law school admission test \u2014 relevant as DOJ says Yale medical school discriminated against Asian and White applicants",
+        "answer": "LSAT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
