@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-16",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "A",
+      "N",
+      "G",
+      "#"
+    ],
+    [
+      "I",
+      "R",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "V",
+      "O",
+      "G",
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      "L",
+      "G",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "E",
+      "A",
+      "T",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "ISIS second-in-command Abu-Bilal al-Minuki was part of this criminal network, per Trump",
+        "answer": "GANG",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"___ my case\" \u2014 like Alito fuming that blue states outsmarted his Dobbs decision",
+        "answer": "IREST",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Taylor Swift and Travis Kelce's NYC date night was very much in ___",
+        "answer": "VOGUE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Marbles controversy city \u2014 like the one evoked as the Push to Indict Ra\u00fal Castro heats up internationally",
+        "answer": "ELGIN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "What bond markets do to rising oil prices news, per global selloff reports",
+        "answer": "EATS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ it up!\" \u2014 what Berkshire did with its Alphabet stake in Q1, per new filings",
+        "answer": "GIVE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Grants clemency, as Colorado's Democratic governor did for Tina Peters",
+        "answer": "AROLE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Ethiopian-Irish actress \u2014 whose name echoes as 36 countries approved a special Ukraine tribunal",
+        "answer": "NEGGA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Pressurized flight wear \u2014 like what Pentagon pilots don as troop deployments to Poland and Germany are halted",
+        "answer": "GSUIT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Dollar bills \u2014 like those scrutinized as Trump's $1.7 billion slush fund plan faces criticism",
+        "answer": "TENS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
