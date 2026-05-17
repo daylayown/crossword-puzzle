@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-17",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "O",
+      "A",
+      "R",
+      "#"
+    ],
+    [
+      "I",
+      "V",
+      "B",
+      "A",
+      "G"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "S",
+      "I"
+    ],
+    [
+      "S",
+      "L",
+      "I",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "L",
+      "A",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Wild pig \u2014 like the animals whose territory was disrupted as wildfire near Two Harbors, MN damaged 34 buildings",
+        "answer": "BOAR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Hospital drip pouch \u2014 like those strained during the hantavirus outbreak hitting cruise ship passengers",
+        "answer": "IVBAG",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Ankle bones \u2014 like those of the 90-foot dinosaur unearthed in Thailand that could 'crush four elephants'",
+        "answer": "TARSI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Narrow cuts \u2014 like those made in Louisiana's primary, where Cassidy lost as Trump vanquished another GOP foe",
+        "answer": "SLITS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Blind strip \u2014 like the kind on windows, fitting as PG&E warned Northern California counties of likely power shutoffs",
+        "answer": "SLAT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Binary units \u2014 like those powering Google's new Gemini Intelligence, available only on a handful of Android flagships",
+        "answer": "BITS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Egg shapes \u2014 like those of the Swatch 'Royal Pop' pocket watches that sent shoppers into a frenzy, forcing store closures",
+        "answer": "OVALS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Spanish April \u2014 the month evoked as Venezuela deported Maduro ally Alex Saab to the U.S.",
+        "answer": "ABRIL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Reggae-linked style \u2014 like the cultural vibe at the Alabama rally where thousands marched for Black voting rights",
+        "answer": "RASTA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Main point \u2014 like the takeaway from Trump's return from China: stability and a stalemate, per Reuters",
+        "answer": "GIST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
