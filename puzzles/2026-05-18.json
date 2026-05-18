@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-18",
+  "size": 5,
+  "grid": [
+    [
+      "J",
+      "E",
+      "L",
+      "L",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "I",
+      "T"
+    ],
+    [
+      "G",
+      "O",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "K",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "#",
+      "I",
+      "N",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Set, like Congress rushing to legislate before election season arrives",
+        "answer": "JELL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Indigenous Arctic people \u2014 relevant as Trump's border wall desecrates sacred Indigenous sites",
+        "answer": "INUIT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "\"___ have it\" \u2014 like the dealmaking mode Republicans and Democrats are in as legislative time runs out",
+        "answer": "GOTTA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Skirt-shorts hybrid \u2014 like the fashion on the ACM Awards red carpet featuring Kacey Musgraves and Lainey Wilson",
+        "answer": "SKORT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Shakira's real first name \u2014 the pop star acquitted in a Spanish tax fraud case",
+        "answer": "INES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lively dances \u2014 like the energy at Trump's prayer festival on the National Mall drawing thousands",
+        "answer": "JIGS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Slender mushroom variety \u2014 like the health benefits scientists are newly uncovering, as with watermelon's surprising findings",
+        "answer": "ENOKI",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "English airport town \u2014 evoked as robotaxis hit London roads while black cab drivers refuse to yield",
+        "answer": "LUTON",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Metric liquid measure \u2014 like those used calculating the $40 billion fuel bill the Iran war is hitting Americans with",
+        "answer": "LITRE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Tattoos, slangily \u2014 like the body art visible on fighters as Jon Jones details plans to get out of his UFC contract",
+        "answer": "TATS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
