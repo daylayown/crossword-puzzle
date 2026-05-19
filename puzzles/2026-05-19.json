@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-19",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "F",
+      "A",
+      "S",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "U",
+      "T",
+      "S"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "I",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "N",
+      "K"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Imaging scans, briefly \u2014 like those mentioned as Supreme Court justices show strains under scrutiny (abbr.)",
+        "answer": "MFAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Defeats decisively \u2014 like Wembanyama's Spurs who silenced the Thunder in the West finals",
+        "answer": "ROUTS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Country where Intel 'Wildcat Lake' laptops are now on sale starting at $449",
+        "answer": "INDIA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Bad smell \u2014 like the odor of insider trading surrounding Trump associates' Polymarket activity, per reports",
+        "answer": "STINK",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Looks at \u2014 like what the Supreme Court does as Ketanji Brown Jackson warns it risks appearing political",
+        "answer": "SEES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Diagnostic scans used to assess tumor response \u2014 relevant as Merck's TroFuse-005 cancer trial reported survival endpoints",
+        "answer": "MRIS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Typography styles \u2014 like those updated in Google's redesigned Workspace app icons rollout",
+        "answer": "FONTS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Murphy, WWII Medal of Honor hero \u2014 whose name echoes as the Musk v. Altman AI trial left the entire industry wounded",
+        "answer": "AUDIE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "R.L. ___, horror author \u2014 fitting as PlayStation Plus raises its monthly subscription fee, shocking fans",
+        "answer": "STINE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Fifth Avenue luxury retailer \u2014 like the high-end shopping evoked as Everlane is sold to Shein",
+        "answer": "SAKS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
