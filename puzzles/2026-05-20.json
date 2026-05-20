@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-20",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "O",
+      "M",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "G",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "N",
+      "G",
+      "O"
+    ],
+    [
+      "A",
+      "F",
+      "O",
+      "O",
+      "T"
+    ],
+    [
+      "#",
+      "S",
+      "S",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Big book \u2014 like the Taiwan Travelogue that won the International Booker Prize",
+        "answer": "TOME",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Get in sync \u2014 like the EU scrambling to finalize a U.S. trade pact before Trump tariff hikes hit",
+        "answer": "ALIGN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Animated outlaw lizard \u2014 whose chameleon-like disguise fits as Ra\u00fal Castro faces a long-awaited indictment",
+        "answer": "RANGO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "In progress \u2014 like SpaceX's mega-IPO, with Goldman Sachs leading the bank lineup",
+        "answer": "AFOOT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Social Security numbers, briefly \u2014 at stake as Trump and family are granted immunity from pending tax audits",
+        "answer": "SSNS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Georgia's ___ column \u2014 like the old guard of the state's GOP that has fallen in primary night results",
+        "answer": "TARA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Frozen characters \u2014 like the chilly reception Trump's special envoy got from Greenland locals",
+        "answer": "OLAFS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Greek king of Crete \u2014 whose name echoes as the ICC seeks arrest of far-right Israeli minister Smotrich",
+        "answer": "MINOS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Egg ___ \u2014 like the artificial eggs scientists used to hatch chicks in a scientific first",
+        "answer": "EGGON",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Negatives \u2014 like Senate Republicans' objections to Trump's Paxton endorsement",
+        "answer": "NOTS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
