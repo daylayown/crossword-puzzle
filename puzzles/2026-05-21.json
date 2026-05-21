@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-21",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "I",
+      "D",
+      "S",
+      "#"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "H",
+      "E",
+      "D",
+      "D",
+      "A"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Surgeon general's warning targets their screen time risks",
+        "answer": "KIDS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "NATO allies hoping Trump trade truce will ___ the bloc",
+        "answer": "UNITE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Bezos sounded off about taxes \u2014 or you might say he had a ___ to shoot",
+        "answer": "SPOUT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Gabler, Ibsen character \u2014 like the drama at Cannes where 'The Man I Love' got a 10-minute standing ovation",
+        "answer": "HEDDA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Untouchables' Eliot ___ \u2014 like the law-enforcement zeal behind the new Ra\u00fal Castro indictment",
+        "answer": "NESS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Jared ___, whose 'bloodline' features in the Trump IRS settlement blocking family audits",
+        "answer": "KUSH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Like the Capitol officers suing to stop rioter payout fund \u2014 they're still fighting while the guilty walk free",
+        "answer": "INPEN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Electronic component \u2014 like those in the $2 billion quantum-computing investment the U.S. is awarding to firms",
+        "answer": "DIODE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Construction fasteners \u2014 like those in the Penn Station renovation as Duffy and Amtrak announce their master developer team",
+        "answer": "STUDS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Flight arrival times, briefly \u2014 relevant as Memorial Day weekend travel brings the busiest flying days of the year",
+        "answer": "ETAS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
