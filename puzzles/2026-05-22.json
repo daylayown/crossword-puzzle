@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-22",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "U",
+      "D",
+      "S",
+      "#"
+    ],
+    [
+      "T",
+      "V",
+      "A",
+      "P",
+      "P"
+    ],
+    [
+      "A",
+      "U",
+      "L",
+      "I",
+      "I"
+    ],
+    [
+      "G",
+      "L",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "S",
+      "E",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Soap lather \u2014 like the froth over Trump reversing Biden-era refrigerant rules",
+        "answer": "SUDS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Apple TV will air live pro sports shot on iPhone 17 Pro via one of these",
+        "answer": "TVAPP",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Crater-covered moon of Saturn \u2014 like the unique views captured in the Mars flyby",
+        "answer": "AULII",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Sparkle \u2014 like the record Everest climb by a Briton that lit up mountaineering news",
+        "answer": "GLINT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Lost at sea \u2014 like the divers killed in Maldives caves who took the wrong tunnel",
+        "answer": "ASEA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Bachelor party, informally \u2014 like Trump's son's upcoming wedding the president says he'll 'try and make'",
+        "answer": "STAG",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Throat flap \u2014 like the one silenced as Tennessee halted an execution after a failed lethal injection",
+        "answer": "UVULA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Surrealist painters' surname \u2014 like the artistic flair at Cannes where 'The Black Ball' earned a 16-minute ovation",
+        "answer": "DALIS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Backbone \u2014 like NATO's, which Germany says it's ready to reinforce with a leadership role",
+        "answer": "SPINE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Flatbread \u2014 like the food staples threatened as oil prices jump on the Strait of Hormuz impasse",
+        "answer": "PITA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
