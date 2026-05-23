@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-23",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "A",
+      "W",
+      "N",
+      "#"
+    ],
+    [
+      "U",
+      "S",
+      "O",
+      "F",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "F",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "R",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Total War: Warhammer 40,000 announcement \u2014 like the ___ of War: Warhammer 40K game revealed at Skulls 2026",
+        "answer": "DAWN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Acronym on Chevron's new Sacramento signs blaming state policies for high gas prices",
+        "answer": "USOFA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Brand alongside Marvell in next week's stock market spotlight, per Investor's Business Daily",
+        "answer": "DELLS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Secure storage units \u2014 like those needed after the chemical tank leak forcing 40,000 under evacuation in Southern California",
+        "answer": "SAFES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Seabird \u2014 like those whose migration routes cross the Strait of Hormuz, now closed by Iran to shipping",
+        "answer": "TERN",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Failures \u2014 like Trump's anti-weaponization fund, called 'stupid on stilts' by Republicans in rare defiance",
+        "answer": "DUDS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Reserve ___ \u2014 like what Mahmoud Khalil seeks as he appeals to the Supreme Court to halt his deportation",
+        "answer": "ASEAT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Michael ___, author whose lawsuit against Melania Trump was dismissed by a judge",
+        "answer": "WOLFE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "NFL player \u2014 like those whose teams could gain from new Chrysler, Dodge, and Ram models targeting sports fans by 2030",
+        "answer": "NFLER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Group abbr. \u2014 like the trade envoys' organization gathering in China to discuss supply chain resilience at APEC",
+        "answer": "ASSN",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
