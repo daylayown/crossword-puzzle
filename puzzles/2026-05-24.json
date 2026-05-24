@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-24",
+  "size": 5,
+  "grid": [
+    [
+      "J",
+      "P",
+      "E",
+      "G",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "B",
+      "E",
+      "E"
+    ],
+    [
+      "D",
+      "U",
+      "S",
+      "T",
+      "S"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "O",
+      "N",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Image format \u2014 like the Apple 'Gen AI' website previews being prepared ahead of WWDC",
+        "answer": "JPEG",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Edward ___, playwright \u2014 like the drama at Cannes where Romanian director Mungiu's 'Fjord' won top prize",
+        "answer": "ALBEE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Cleans lightly \u2014 like rescuers carefully searching rubble after the Philippines building collapse trapped over 20 people",
+        "answer": "DUSTS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Consumed \u2014 like the galaxy the Milky Way swallowed, whose scraps scientists say they've now found",
+        "answer": "ATEIT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Aware of \u2014 like Hegseth telling West Point graduates they're 'ready' to take war ___",
+        "answer": "ONTO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Pinkett Smith, actress \u2014 whose name fits as Trump's AI images attack Stephen Colbert and Greenland",
+        "answer": "JADA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Dwarf planet \u2014 like the distant object evoked as SpaceX's Starship V3 completed its mostly successful first flight",
+        "answer": "PLUTO",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "EBSEN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Understand \u2014 like what bond traders do as they bet a Fed under Warsh will hike rates this year",
+        "answer": "GETIT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Spanish for 'this' \u2014 as in 'this' deal, as Trump says Iran peace agreement is 'largely negotiated'",
+        "answer": "ESTO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
