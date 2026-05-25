@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-25",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "A",
+      "R",
+      "K",
+      "#"
+    ],
+    [
+      "A",
+      "D",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "P",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "T",
+      "Y",
+      "N",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Listen up! \u2014 like fans told as NASCAR world mourned Kyle Busch before the Coca-Cola 600",
+        "answer": "HARK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Singer whose name echoes as Wyndham Clark pulled away at the Byron Nelson golf tournament",
+        "answer": "ADELE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Plural that sounds like galleries \u2014 like those hosting films as 'The Oscars Start at Cannes'",
+        "answer": "TATES",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Boom on a sailboat \u2014 like vessels now heading toward Hormuz as the U.S. and Iran work toward a ceasefire deal",
+        "answer": "SPRIT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "River in northeast England \u2014 like the waterways evoked as flooding in China's Chongqing left three dead and 17 missing",
+        "answer": "TYNE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Head coverings \u2014 like those worn by hajj pilgrims as war has not deterred Asian Muslims from the journey",
+        "answer": "HATS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Adjust to new conditions \u2014 like automakers listening as half of American teens say they want a sedan, not an SUV",
+        "answer": "ADAPT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Try again \u2014 like voters in Texas's Cornyn-Paxton GOP Senate showdown, heading back to polls in a runoff after no first-round winner",
+        "answer": "RETRY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Calvin ___, fashion name \u2014 like luxury brands evoked as China's $140,000 EVs fuel a homegrown luxury market boom",
+        "answer": "KLEIN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "House of ___ \u2014 Italian dynasty whose name fits as Ferrari debuts its first EV, the Luce, today",
+        "answer": "ESTE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
