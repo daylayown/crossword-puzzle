@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-27",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "A",
+      "B",
+      "S",
+      "#"
+    ],
+    [
+      "B",
+      "R",
+      "A",
+      "H",
+      "E"
+    ],
+    [
+      "O",
+      "G",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "Y",
+      "O",
+      "G",
+      "I",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "K",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Nickname fitting as Becky Hammon addressed Jalen Brunson's remarks from 2023",
+        "answer": "BABS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Tycho ___, astronomer whose name fits as astrophysicists struck black gold with gravitational wave detections",
+        "answer": "BRAHE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Monsters \u2014 like the threats described as North Korea tests AI-guided missiles designed for modern warfare",
+        "answer": "OGRES",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Meditation masters \u2014 like those whose practices evoke calm as Europe's exceptionally early heat wave shatters records and brings deaths",
+        "answer": "YOGIS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Japanese word for 'cat' \u2014 like the monk seal tourist accused of hurling a rock at Hawaii's protected marine mammal",
+        "answer": "NEKO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Breakdancer \u2014 like the street performer energy evoked as Chicago teen takeovers prompted CPD response at multiple lakefront beaches",
+        "answer": "BBOY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Noble gas \u2014 like those in the corrosive chemicals hampering recovery efforts at Longview's industrial site with 9 still unaccounted for",
+        "answer": "ARGON",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Flat-bottomed boat \u2014 like the vessels navigating river routes as villagers remain trapped in a flooded Laos cave",
+        "answer": "BARGE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Arab ruler \u2014 like those evoked as Qatar seeks to fund Iran's Revolutionary Guards, per reports",
+        "answer": "SHEIK",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Old gas brand \u2014 like the fuel industry giants facing sky-high beef and energy prices as Texas BBQ joints are forced to close",
+        "answer": "ESSO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
