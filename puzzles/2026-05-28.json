@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-28",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "O",
+      "N",
+      "G",
+      "#"
+    ],
+    [
+      "I",
+      "K",
+      "N",
+      "O",
+      "W"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "A",
+      "I",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hong ___, where a Chinese dissident was found at sea before being detained in South Korea",
+        "answer": "KONG",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "'___ what you mean' \u2014 like Trump when he said Iran is 'negotiating on fumes'",
+        "answer": "IKNOW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Link \u2014 like the Abraham Accords Trump wants to expand to new Mideast nations",
+        "answer": "TIETO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Conclude \u2014 like what the Iran war may ___ in a deal, as stock markets hit record highs on ceasefire hopes",
+        "answer": "ENDIN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Contraction meaning 'am not' \u2014 like the South African government saying it ___ facing a humanitarian emergency per Trump's claim",
+        "answer": "AINT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Aerial toy \u2014 like the Chinese Y-20 tanker intercepted while refueling J-16 fighters near Taiwan, flying high over contested airspace",
+        "answer": "KITE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Hawaiian island \u2014 like the endangered monk seal a tourist allegedly threw a rock at to protect sea turtles",
+        "answer": "OKINA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Author Okorafor \u2014 whose name fits as the LEGO Foundation donates $97 million to bring play-based learning to children in conflict zones",
+        "answer": "NNEDI",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Entered \u2014 like Tencent's PayPal deal that ___ the WeChat Pay network, enabling U.S. users to spend across China",
+        "answer": "GOTIN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Custom \u2014 as Trump, true to ___, refiles his $10 billion lawsuit against the Wall Street Journal over its Epstein reporting",
+        "answer": "WONT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
