@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-29",
+  "size": 5,
+  "grid": [
+    [
+      "L",
+      "A",
+      "R",
+      "S",
+      "#"
+    ],
+    [
+      "G",
+      "R",
+      "O",
+      "W",
+      "S"
+    ],
+    [
+      "B",
+      "I",
+      "S",
+      "A",
+      "N"
+    ],
+    [
+      "T",
+      "A",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Lemieux's NHL dad Claude, e.g. \u2014 first name fitting as the ex-NHLer opens up about his father's death",
+        "answer": "LARS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Anthropic's valuation ___ to $965 billion, surpassing OpenAI",
+        "answer": "GROWS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Palestinian journalist \u2014 like the Gaza documentarians whose work is referenced as Netanyahu orders seizure of 70% of the Strip",
+        "answer": "BISAN",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Indigenous Caribbean people \u2014 like the heritage invoked as France finally repeals its 17th-century slavery law",
+        "answer": "TAINO",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Dispatched \u2014 like the U.S. airstrikes launched against Iran even as a ceasefire was said to hold",
+        "answer": "SENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Community acronym \u2014 like the one invoked as protesters rally outside a New Jersey ICE facility",
+        "answer": "LGBT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Songs for one voice \u2014 like those a priest might sing as Pope Leo XIV urges clergy to respect liturgical norms",
+        "answer": "ARIAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Female first name \u2014 like the L.A. mayoral candidate Raman in a tight three-way race per new poll",
+        "answer": "ROSIE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Spelling Bee winner Shrey Parikh's last name sounds like this bird \u2014 the 14-year-old won after a nail-biting spell-off",
+        "answer": "SWANN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Mucus \u2014 like the runny-nose complaints surging as tick-related illness visits spike in Berkshire urgent cares",
+        "answer": "SNOT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
