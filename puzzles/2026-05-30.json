@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-30",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "E",
+      "P",
+      "S",
+      "#"
+    ],
+    [
+      "I",
+      "R",
+      "O",
+      "N",
+      "Y"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "E",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "K",
+      "E",
+      "W"
+    ],
+    [
+      "#",
+      "E",
+      "A",
+      "R",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "House members, briefly \u2014 like those whose districts Louisiana Republicans just gerrymandered to eliminate a majority-Black seat",
+        "answer": "REPS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Bitter twist \u2014 like Trump's name being ordered removed from the Kennedy Center by a judge",
+        "answer": "IRONY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Ancient-diet style \u2014 like the eating habits evoked as tomatoes become the latest symbol of America's affordability squeeze",
+        "answer": "PALEO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Crooked \u2014 like the $1.8 billion Trump fund a judge is probing as a possible fraudulent arrangement",
+        "answer": "ASKEW",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Nobleman \u2014 like the title evoked as a 'vast fortune' belonging to a legendary Mafia boss was seized by Italian police",
+        "answer": "EARL",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Kelly ___, daytime TV host \u2014 whose name fits as Emilia Clarke admits her Star Wars and Marvel projects 'weren't liked'",
+        "answer": "RIPA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Wipe out \u2014 what Vietnam is doing to burial grounds to make way for a Trump golf course, per recent reports",
+        "answer": "ERASE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Lively dance \u2014 like the energy at UFC Macau where fighters took the scale for official weigh-ins",
+        "answer": "POLKA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Dismissive facial expression \u2014 like the one Vietnam's leader may have given as he warned Asia about the risks of superpower conflict",
+        "answer": "SNEER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Cry of pain \u2014 like those from hantavirus-exposed cruise passengers still under 24/7 watch as they await clearance to go home",
+        "answer": "YOWL",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
