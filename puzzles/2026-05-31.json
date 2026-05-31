@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-31",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "S",
+      "A",
+      "Y",
+      "#"
+    ],
+    [
+      "N",
+      "A",
+      "D",
+      "I",
+      "R"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "K",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"___ what I'm talking about\" \u2014 like Trump insisting his Iran deal terms are non-negotiable",
+        "answer": "ISAY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Lowest point \u2014 like Japan's population, which just hit a record drop",
+        "answer": "NADIR",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Fan the flames of \u2014 like PSG fans who clashed with police on victory night in Paris, torching the streets",
+        "answer": "STOKE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Gets exhausted \u2014 like Russia's war finances, which Ukrainian 'drone overmatch' is rapidly depleting",
+        "answer": "TIRES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Cozy home \u2014 like the one Blue Origin lost when its New Glenn rocket exploded hours after winning a national security launch task order",
+        "answer": "NEST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Abbreviation for the current month \u2014 relevant as Victor Wembanyama was named Western Conference Finals MVP",
+        "answer": "INST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Smooth fabric \u2014 like the sheen on Ferrari's new EV, which sparked Italian angst over the Agnelli legacy",
+        "answer": "SATIN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Worship devoutly \u2014 as Pope Leo called Catholics worldwide to do through the rosary for peace",
+        "answer": "ADORE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Cry of alarm \u2014 like the reaction as a meteor exploded over the United States, triggering a sonic boom",
+        "answer": "YIKES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Take a break \u2014 like Trump, who plans to perform at Freedom 250 Concert himself while critics call it a distraction",
+        "answer": "REST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
