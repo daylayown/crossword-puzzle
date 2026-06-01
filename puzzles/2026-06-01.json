@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-01",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "D",
+      "F",
+      "S",
+      "#"
+    ],
+    [
+      "W",
+      "H",
+      "I",
+      "N",
+      "Y"
+    ],
+    [
+      "N",
+      "O",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "P",
+      "S"
+    ],
+    [
+      "#",
+      "I",
+      "T",
+      "E",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Document format \u2014 like the internal Trump asylum plan leaked to the press showing quick rejection procedures",
+        "answer": "PDFS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Complainy \u2014 like Republicans described as they push back on Trump's 'anti-weaponization' fund tensions with the White House",
+        "answer": "WHINY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "\"___ to you\" \u2014 like what Iran's negotiators implied walking out of peace talks after Israel's Beirut strikes",
+        "answer": "NOLIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Staircase sections \u2014 like those protesters climbed outside Delaney Hall as riot police stormed the streets",
+        "answer": "STEPS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "News story \u2014 like the mystery of Becerra leapfrogging rivals in California's governor's race",
+        "answer": "ITEM",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Dominates \u2014 like Nvidia, which is fueling AI enthusiasm as the Dow slips and the stock market rallies",
+        "answer": "PWNS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Indian garment \u2014 like those worn by protesters as CJP's Abhijeet Dipke returns to India rejecting U.S. job offers",
+        "answer": "DHOTI",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Boneless cut \u2014 like the precision needed as Pentagon seeks $54 billion in killer drones from former hobbyists",
+        "answer": "FILET",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Shoot from hiding \u2014 like U.S. forces intercepting Iranian missiles targeting American troops in Kuwait",
+        "answer": "SNIPE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "YESM",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
