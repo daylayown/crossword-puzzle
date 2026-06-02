@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-02",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "H",
+      "A",
+      "W",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      "P",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "N",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "George Bernard ___, playwright evoked as Euphoria creator Sam Levinson unpacks his HBO finale",
+        "answer": "SHAW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Noodle dish \u2014 like the comfort food McDonald's rivals as it bets on fancier chicken to lure diners",
+        "answer": "RAMEN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "In a flash \u2014 like the speed of Russia's massive air attack that killed at least 12 in Ukraine after an agonizing week of threats",
+        "answer": "TRICE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Newborn scoring system \u2014 like the health metrics used as a cancer vaccine made just for you uses mRNA to fight melanoma",
+        "answer": "APGAR",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Granular beach material \u2014 like what Israel's forces are traversing as they take an ancient Lebanese fort, shocking residents",
+        "answer": "SAND",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sp. miss, abbr. \u2014 like a title Colombia's new first female president-elect might carry in her youth, after the historic election",
+        "answer": "SRTA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Nags \u2014 like Republicans pushing back on Trump's $1.8 billion payout fund that drew political backlash",
+        "answer": "HARPS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Female friend, in Spanish \u2014 like those evoked as Ghana passes a sweeping law criminalising LGBTQ+ activity",
+        "answer": "AMIGA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Biden slogan start \u2014 like the optimism invoked as Mette Frederiksen secures her third term as Danish premier after a coalition deal",
+        "answer": "WECAN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Tech enthusiast \u2014 like those powering Nvidia's chase of the $200B CPU market with AI agent PCs",
+        "answer": "NERD",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
