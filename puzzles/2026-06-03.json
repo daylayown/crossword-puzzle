@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-03",
+  "size": 5,
+  "grid": [
+    [
+      "Y",
+      "U",
+      "R",
+      "T",
+      "#"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "C",
+      "K"
+    ],
+    [
+      "R",
+      "I",
+      "P",
+      "E",
+      "N"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "H",
+      "O",
+      "L",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Nomadic dwelling \u2014 like those in Mongolia evoked as Putin needs a way out of Ukraine and eyes Central Asian buffer states",
+        "answer": "YURT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Vacuum brand \u2014 like household goods companies facing Trump's forced labor tariffs the EU called 'unjustified'",
+        "answer": "ORECK",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Come to full maturity, as Wall Street conditions may in six months per the veteran strategist who warned investors not to turn bearish just yet",
+        "answer": "RIPEN",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Steve ___, country music legend whose name fits as CBS News fired Scott Pelley of '60 Minutes'",
+        "answer": "EARLE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Gap \u2014 like the one Iran struck in Kuwait's air defenses as drones hit the airport in an escalating exchange",
+        "answer": "HOLE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Days of ___ \u2014 like the era evoked as America's 250th birthday celebration increasingly centers on Trump",
+        "answer": "YORE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "___ Heep, Dickens villain \u2014 like the scheming evoked as George Santos was reported to prosecutors over suspicious Kalshi trades",
+        "answer": "URIAH",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Copy \u2014 like the Roman coin and inscriptions found under Notre Dame cathedral in the 'dig of the century'",
+        "answer": "REPRO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Immune system fighter \u2014 like those studied as GLP-1 drugs and cancer science gets 'a lot more interesting'",
+        "answer": "TCELL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Joint \u2014 like those of the Paralympian Democrats are watching after Tuesday's primaries highlighted inspiring candidates",
+        "answer": "KNEE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
