@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-04",
+  "size": 5,
+  "grid": [
+    [
+      "W",
+      "E",
+      "B",
+      "S",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "O",
+      "D"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "B",
+      "I"
+    ],
+    [
+      "P",
+      "E",
+      "D",
+      "I",
+      "S"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "G",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "LinkedIn's spy-enabling networks, per new U.S. warning about China's digital reach",
+        "answer": "WEBS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Lay new turf \u2014 like repairs needed on the $13B carrier just docked after a plumbing-plagued voyage",
+        "answer": "RESOD",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Defense needed \u2014 like one Trump might use after House voted bipartisanly to limit his Iran war powers",
+        "answer": "ALIBI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Tinea ___ \u2014 foot fungus that fits as flesh-eating screwworm arrives in Texas, alarming health officials",
+        "answer": "PEDIS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Rules \u2014 like those Senate Republicans are debating in an ICE funding package",
+        "answer": "REGS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Package up \u2014 like the Obama Presidential Center, previewed in photos as its opening nears",
+        "answer": "WRAP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Slippery fish catcher \u2014 like those navigating murky waters as illegal-fishing probe hits a Venice, CA seafood restaurant",
+        "answer": "EELER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Flip side of a record \u2014 like Russell Wilson's CBS Sports career, the other side of his NFL retirement announcement",
+        "answer": "BSIDE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "\"___ a deal!\" \u2014 like the ceasefire Israel and Lebanon agreed to, conditioned on Hezbollah steps",
+        "answer": "SOBIG",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Slam \u2014 like Doja Cat's public takedown of Elon Musk as a 'Barrel Chested Ewok' on X",
+        "answer": "DISS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
