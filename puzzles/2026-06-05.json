@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-05",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "I",
+      "N",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "Q",
+      "U",
+      "A",
+      "B"
+    ],
+    [
+      "S",
+      "U",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "V",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "T",
+      "O",
+      "A",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Fastens \u2014 like the Senate bill locking in ICE funding for 3 years",
+        "answer": "PINS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Young pigeon \u2014 like the wildlife evoked as a Tasmanian devil named Mary went missing from an Australian park",
+        "answer": "SQUAB",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "\"___ ___\" \u2014 what Scott Pelley essentially told his CBS News bosses in a memorable on-air exit",
+        "answer": "SUEME",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "DVR devices \u2014 like those that record programming, as Apple preps a major Siri revamp for WWDC 2026",
+        "answer": "TIVOS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "\"___ ___\" \u2014 like drinking a toast, as Trump unveiled a $700M 'beautiful, clean coal' investment plan",
+        "answer": "TOAT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Hushed attention-getter \u2014 like the whisper campaign around Platner revelations fueling Democratic fury",
+        "answer": "PSST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "\"___ ___!\" \u2014 what Bolton may as well have said before agreeing to plead guilty in classified documents case",
+        "answer": "IQUIT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "New, in Spanish \u2014 like Xi's first North Korea visit since 2019, signaling a fresh diplomatic push",
+        "answer": "NUEVO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Pacific island group \u2014 like territories evoked as Auburn student's family seeks help after he went missing in Japan",
+        "answer": "SAMOA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Most outstanding \u2014 like the Caitlin Clark and Angel Reese showdown as Fever beat Dream in WNBA action",
+        "answer": "BEST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
