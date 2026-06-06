@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-06",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "O",
+      "O",
+      "R",
+      "#"
+    ],
+    [
+      "L",
+      "Y",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "V",
+      "A",
+      "L",
+      "S"
+    ],
+    [
+      "D",
+      "E",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "Y",
+      "E",
+      "T",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Rude lout \u2014 like Putin, whom Zelenskyy accused of being when the Russian leader said 'don't call me old'",
+        "answer": "BOOR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Ancient stringed instruments \u2014 like those evoked as Pope Leo arrives in secularized Spain to revitalize the faith",
+        "answer": "LYRES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Performance reviews \u2014 like those Trump urged Pulte to conduct before firing intelligence community employees",
+        "answer": "EVALS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Discourage \u2014 like the judge who blocked Trump's sweeping freeze on immigration benefits for 39 countries",
+        "answer": "DETER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Himalayan legend \u2014 like the missing Sherpa guide found alive on Everest after funeral rites had already begun",
+        "answer": "YETI",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lost blood \u2014 like the chip sector, which 'bled' over $1 trillion in stock market value in a single day",
+        "answer": "BLED",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Expression of dismay \u2014 like that of SpaceX ISS astronauts who had to take shelter as cosmonauts scrambled to fix an air leak",
+        "answer": "OYVEY",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Speak publicly \u2014 like Lesley Stahl and colleagues who said they'll 'stay and fight' at 60 Minutes",
+        "answer": "ORATE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Lease again \u2014 like the Kennedy Center, which lost a suit against an artist who canceled after Trump's name change",
+        "answer": "RELET",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Antidepressant type, briefly \u2014 like the treatments the Trump administration is investigating alongside gender care at Mount Sinai",
+        "answer": "SSRI",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
