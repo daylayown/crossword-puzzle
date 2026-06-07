@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-07",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "I",
+      "P",
+      "I",
+      "#"
+    ],
+    [
+      "H",
+      "O",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "S",
+      "O",
+      "S",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Native shelter \u2014 like those evoked as Toledo festival shooting leaves 12 wounded and suspects at large",
+        "answer": "TIPI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Lift up \u2014 like the UFC belt Bonfim raised after dominating Belal Muhammad at Fight Night",
+        "answer": "HOIST",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Calvino's first name \u2014 like the literary vibe as Bruce Springsteen opens his new music center",
+        "answer": "ITALO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "More rational \u2014 like what diplomats hope US-Iran talks become as missiles fly over the Strait of Hormuz",
+        "answer": "SANER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Mediocre \u2014 like Kennedy's engagement with his vast health portfolio, per a new report",
+        "answer": "SOSO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ just in\" \u2014 like breaking news of Trump's defense dept. flagging growing espionage threat from Israel",
+        "answer": "THIS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Greek letter plurals \u2014 like the tiny variables in the Ebola data offering cautious hope as DR Congo cases drop",
+        "answer": "IOTAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Instrument central to Broadway pit orchestras \u2014 like those featured as the 2026 Tony Awards Playbill hit stages this week",
+        "answer": "PIANO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Island chains \u2014 like those threatened by millions being pushed into hunger by the Iran war, per UN food agency",
+        "answer": "ISLES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Bluefin relative \u2014 like the beef and seafood supply disrupted as screwworm border closure fuels a boom in Mexico",
+        "answer": "TORO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
