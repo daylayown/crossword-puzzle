@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-08",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "Q",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "A",
+      "T",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "B",
+      "I",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "S",
+      "P",
+      "Y",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "P",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Disqualified from competition \u2014 like a fighter might be after a low blow, as Christian Eriksen collapsed on the field and Denmark awaited news",
+        "answer": "DQED",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Classic game console brand \u2014 like the bubble era tech stocks that analysts fear 2026 is echoing, as one top analyst warns '2026 is looking like 1999'",
+        "answer": "ATARI",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Prairie animal \u2014 like those on ranches threatened as a flesh-eating pest puts Trump's beef price hopes at risk",
+        "answer": "BISON",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Conduct surveillance on \u2014 like what Iran allegedly did to U.S. carriers, as Trump tells Netanyahu not to strike Iran",
+        "answer": "SPYON",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Drains of strength \u2014 as a weakening ocean current does to Atlantic circulation, which scientists warn may be nearing a tipping point",
+        "answer": "SAPS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Small touches \u2014 like the creative flourishes at the Tony Awards, where John Lithgow made history as the oldest male acting winner at 80",
+        "answer": "DABS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Cotton swabs brand \u2014 like the baby wipes sold nationwide that were recalled for infectious contamination",
+        "answer": "QTIPS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Simple assignment \u2014 like the A.J. Brown trade, which insiders say was surprisingly straightforward once both sides agreed",
+        "answer": "EASYA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Hang limply \u2014 like global stocks sliding, led by a meltdown in South Korea's markets",
+        "answer": "DROOP",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Roadside lodgings \u2014 like those near the World Cup host cities, where health experts warn the event creates perfect conditions for infectious diseases to spread",
+        "answer": "INNS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
