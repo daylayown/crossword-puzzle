@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-09",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "K",
+      "I",
+      "P",
+      "#"
+    ],
+    [
+      "U",
+      "N",
+      "C",
+      "A",
+      "P"
+    ],
+    [
+      "P",
+      "A",
+      "I",
+      "R",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "N",
+      "Y",
+      "E",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pass over, as Trump did with 'Meet the Press' by walking out on the interview",
+        "answer": "SKIP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Remove a limit, as scientists say to do with alcohol \u2014 no more than one drink a day",
+        "answer": "UNCAP",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Duo matchups, like Jupiter and Venus in tonight's dazzling celestial conjunction",
+        "answer": "PAIRS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Lively dance style \u2014 like the energy at Pink's Tony Awards opening with Lea Michele and Megan Thee Stallion",
+        "answer": "SALSA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Russian 'no,' as the Kremlin tells media to spin Pashinyan's election win as a 'loss'",
+        "answer": "NYET",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Has dinner, as the Pope might after his speech demanding respect for human dignity before Spain's parliament",
+        "answer": "SUPS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Rapper ___ (K'naan) \u2014 whose initials fit as the Kennedy Center drops its 'Trump' branding",
+        "answer": "KNAAN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Frostily, like Israel and Iran signaling an end to attacks after escalating strikes",
+        "answer": "ICILY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Analyze carefully, as courts must do with Trump's DOJ move to denaturalize 17 U.S. citizens",
+        "answer": "PARSE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Pre-college exam, relevant as Sweden moves to ban mobile phones in schools",
+        "answer": "PSAT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
