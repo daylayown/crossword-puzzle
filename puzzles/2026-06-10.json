@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-10",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "T",
+      "M",
+      "L",
+      "#"
+    ],
+    [
+      "U",
+      "B",
+      "O",
+      "L",
+      "T"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "A",
+      "I"
+    ],
+    [
+      "K",
+      "R",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "#",
+      "D",
+      "Y",
+      "A",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Web code format \u2014 like the kind lawyers were caught faking with A.I.-generated citations to nonexistent cases",
+        "answer": "HTML",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "U-shaped fastener \u2014 like those securing infrastructure as Penn Station begins its $8 billion remodel",
+        "answer": "UBOLT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Egyptian peninsula \u2014 where Pope Leo visits to honor Catalonia's holy mountain amid his tour of sacred sites",
+        "answer": "SINAI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Krispy ___ \u2014 doughnut brand whose stock moves made the premarket movers list alongside Nike and Cracker Barrel",
+        "answer": "KREME",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Two-member unit \u2014 like Xi and Kim forming a diplomatic ___ after reaching 'important consensus' in North Korea",
+        "answer": "DYAD",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Outer shell \u2014 like the dried casing evoked as Russia's Energy Ministry admits drone attacks caused gasoline shortages",
+        "answer": "HUSK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Classic Ford Thunderbird, abbr. \u2014 like the vintage auto culture evoked as Rivian starts deliveries of its all-important R2 SUV",
+        "answer": "TBIRD",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Campaign funds \u2014 like the $2.3 billion Trump family reportedly made on crypto while investors lost the same amount",
+        "answer": "MONEY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "South American pack animal \u2014 like the wildlife in regions threatened as Pakistani airstrikes in Afghanistan killed at least 13 people",
+        "answer": "LLAMA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Knotted \u2014 like the NBA Finals series as the Spurs try to match the Knicks' energy and desperation",
+        "answer": "TIED",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
