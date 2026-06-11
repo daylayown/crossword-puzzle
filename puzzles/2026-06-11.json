@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-11",
+  "size": 5,
+  "grid": [
+    [
+      "V",
+      "A",
+      "T",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "I",
+      "E"
+    ],
+    [
+      "P",
+      "I",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "E",
+      "S",
+      "S",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "E",
+      "T",
+      "S",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Large containers \u2014 like those holding fuel as Sevastopol suspends distribution after Ukrainian strikes on energy assets",
+        "answer": "VATS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Flintstones' ___ Slaghoople \u2014 like the name evoked as OG Anunoby's tip completed the largest comeback in NBA Finals history",
+        "answer": "ARTIE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Michelangelo sculpture \u2014 like those in Barcelona's Sagrada Fam\u00edlia that Pope Leo blessed on his visit",
+        "answer": "PIETA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Plural letter forms \u2014 like the winding routes Ukraine drones took hitting Moscow for a third consecutive day",
+        "answer": "ESSES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Online crafts marketplace \u2014 like those facing new student loan reforms taking effect in just weeks",
+        "answer": "ETSY",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "VAPE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Come up \u2014 like the ECB rate hike, which arose after Iran war ramps up energy costs for the first time since 2023",
+        "answer": "ARISE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Statistical hypothesis check \u2014 like the analysis needed as a federal study linked light drinking to cancer but the latest guidelines left it out",
+        "answer": "TTEST",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Web pages targeted \u2014 like the 13 domains the FBI seized that China allegedly used to recruit U.S. workers",
+        "answer": "SITES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Simple \u2014 like Trump's boast about inflation that gifts Democrats ready-made midterm ads, per Axios",
+        "answer": "EASY",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
