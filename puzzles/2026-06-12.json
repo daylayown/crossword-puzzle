@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-12",
+  "size": 5,
+  "grid": [
+    [
+      "E",
+      "R",
+      "I",
+      "E",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "D",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "I",
+      "O",
+      "N",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "R",
+      "T",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Lake near Streator, sharing a name with the city where tornadoes left damage across the area",
+        "answer": "ERIE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Factions \u2014 like those in Northern Ireland that erupted into fiery riots after a stabbing",
+        "answer": "SIDES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Ancient marketplace \u2014 like the public square evoked as Albania holds its biggest protest yet against Kushner's private island plan",
+        "answer": "AGORA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Column style \u2014 like those on the Sagrada Fam\u00edlia that Pope Leo blessed on his visit to Barcelona",
+        "answer": "IONIC",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Highway abbrs. \u2014 like those mapping the World Cup 2026 host city corridors where disease experts warn of 'diseases of crowds'",
+        "answer": "RTES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Actor Morales \u2014 whose first name fits as the Karmelo Anthony family said 'nobody wins' after the murder verdict",
+        "answer": "ESAI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Strict precision \u2014 like the standard NASA chief defended in selecting the all-male Artemis 3 crew",
+        "answer": "RIGOR",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "'___ know' \u2014 like Tehran's response after Trump claimed an Iran deal had been reached",
+        "answer": "IDONT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Unsettling \u2014 like the 8647 markings on the National Mall that federal authorities are now investigating",
+        "answer": "EERIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Pouches \u2014 like the membrane-lined cavities evoked as Earth's underground fungal network spans a massive portion of the galaxy",
+        "answer": "SACS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
