@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-13",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "I",
+      "D",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "V",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "G",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "T",
+      "H",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "T",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Rapper ___ (Cardi B's birth name start), like the artist whose label faces scrutiny as Olivia Rodrigo drops her new album",
+        "answer": "RIDA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Be of use \u2014 like SpaceX's IPO, which investors hope will ___ them as the stock soared on Wall Street debut",
+        "answer": "AVAIL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Hint of color \u2014 like the slight hue of algae that resurfaced in the National Mall reflecting pool after its multimillion-dollar fixes",
+        "answer": "TINGE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Toni Morrison character \u2014 like the literary figure evoked as a judge orders national park slavery plaques restored under Trump directive",
+        "answer": "SETHE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Establishes \u2014 like the Supreme Court ruling that prohibits Alabama from using nitrogen gas for executions",
+        "answer": "SETS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Pests \u2014 like the screwworm parasite threatening Texas cattle that Abbott vowed to fight at the GOP convention",
+        "answer": "RATS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Climbing plants at elite colleges \u2014 like those whose endowments fuel debate as OpenAI faces investigation by a coalition of state attorneys general",
+        "answer": "IVIES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Italian poet's name \u2014 like the literary figure evoked as EU countries unblock accession talks with Ukraine and Moldova",
+        "answer": "DANTE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Casual 'okay' \u2014 like the informal go-ahead Tehran's government reportedly gave before denying any 'final conclusion' on the Iran peace deal",
+        "answer": "AIGHT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Dregs \u2014 like what remains of Russia's offensive momentum, per ISW's latest Ukraine assessment",
+        "answer": "LEES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
