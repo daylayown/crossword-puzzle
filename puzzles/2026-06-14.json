@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-14",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "A",
+      "R",
+      "K",
+      "#"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "I",
+      "R",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "E",
+      "P"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Gloomy forecast, like the air quality over California as a massive warehouse fire burns for a third day",
+        "answer": "DARK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Medgar ___, civil rights hero whose name fits as the Obama museum prepares for its Juneteenth opening in Chicago",
+        "answer": "EVERS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Subatomic particle that helps hold matter together, illuminated by a new supercomputer study",
+        "answer": "MESON",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Wartime aid organization \u2014 like those scrambling as WHO director-general visits the Ebola outbreak area in DRC",
+        "answer": "IRENA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Advance \u2014 like Ukraine's military reforms announcing new fixed terms and pay raises for soldiers",
+        "answer": "STEP",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Singer Lovato \u2014 whose first name fits as Tyra Banks sues Netflix over an America's Next Top Model documentary",
+        "answer": "DEMI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Declares to be true \u2014 like Trump, who insists a US-Iran deal is set to be signed on Sunday",
+        "answer": "AVERS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Start fresh \u2014 like revised Artemis lunar lander plans now taking shape after earlier setbacks",
+        "answer": "RESET",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Scandinavian currency \u2014 like those spent as Swiss voters weigh whether to cap their population at 10 million",
+        "answer": "KRONE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Quick photo \u2014 like the secretive process that removed Trump's name from the Kennedy Center without public notice",
+        "answer": "SNAP",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
