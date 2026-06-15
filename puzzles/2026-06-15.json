@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-15",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "O",
+      "T",
+      "U",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "R",
+      "S"
+    ],
+    [
+      "O",
+      "S",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "S",
+      "H"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Speech to Congress \u2014 like the one Trump may skip as he weighs suspending a constitutional right, per reports",
+        "answer": "SOTU",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Dens \u2014 like the hideouts of screwworm parasites spreading across Texas ranches",
+        "answer": "LAIRS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Native American people of Oklahoma \u2014 like the Indigenous groups whose lands echo as scientists map 68 quadrillion underground miles of fungi",
+        "answer": "OSAGE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Principle \u2014 like the core idea behind Anthropic's AI models, now frozen by the Trump administration",
+        "answer": "TENET",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Decorative band \u2014 like those worn by Norway's crown prince's family, as his eldest son was sentenced to 4 years for rape",
+        "answer": "SASH",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Opening for Fox \u2014 like the spot the company is filling by acquiring Roku",
+        "answer": "SLOT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Desert refuges \u2014 like the calm spots sought as G-7 allies plan for a world less reliant on the U.S.",
+        "answer": "OASES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Princess and the Frog heroine \u2014 like the Disney character evoked as Britain announces a social media ban for children under 16",
+        "answer": "TIANA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Pushes \u2014 like what Vance does when he says the Strait of Hormuz will reopen after the U.S.-Iran breakthrough",
+        "answer": "URGES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Gaethje's first name \u2014 the UFC lightweight who won the undisputed title at Trump's White House fight night",
+        "answer": "SETH",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
