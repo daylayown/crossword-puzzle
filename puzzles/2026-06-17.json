@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-17",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "Y",
+      "S",
+      "#"
+    ],
+    [
+      "E",
+      "N",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "L",
+      "A",
+      "L",
+      "A",
+      "W"
+    ],
+    [
+      "T",
+      "I",
+      "T",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "D",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "What the U.S. does in the Iran deal \u2014 offering $300 billion to Tehran for peace",
+        "answer": "PAYS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Pass into law \u2014 like what Oklahoma voters rejected when they turned down a minimum wage hike at the ballot",
+        "answer": "ENACT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Cardi B's real first name, fitting as Newsom's top lawyer tells DOJ to look at Trump instead",
+        "answer": "LALAW",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Championship belt \u2014 like the one on the line as the U.S. Open tees off for its 126th edition",
+        "answer": "TITLE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Singer whose name fits as Tom Holland confirmed his marriage to Zendaya after the quiet wedding",
+        "answer": "SADE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Pummel \u2014 like Ukraine's drones doing to Russian fuel trucks as Kyiv tries to cut off Crimea",
+        "answer": "PELT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Nin, the diarist \u2014 whose name fits as Bruce Springsteen and U2 prepare to perform at the Obama Presidential Center's opening",
+        "answer": "ANAIS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "WWII conference city \u2014 like the historic summits evoked as G7 leaders gather in \u00c9vian, France to back Trump's Iran plan",
+        "answer": "YALTA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Burn with hot liquid \u2014 as NASA's Webb telescope found an exoplanet doing to itself, getting \"roasted\" by its star",
+        "answer": "SCALD",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Overly cute \u2014 like the social media content teen influencers say Australia's new social media ban is punishing",
+        "answer": "TWEE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
