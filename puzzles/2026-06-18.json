@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-18",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "O",
+      "N",
+      "K",
+      "#"
+    ],
+    [
+      "O",
+      "X",
+      "B",
+      "O",
+      "W"
+    ],
+    [
+      "C",
+      "I",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "D",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "A",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hit on the head \u2014 like the Gilgo Beach killer's victims' families said he was a 'demon' who should never walk free",
+        "answer": "BONK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "U-shaped river bend \u2014 like the curved waterways near Midwest communities devastated by powerful tornadoes and destructive winds",
+        "answer": "OXBOW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Singer whose name fits as Jelly Roll and Bunnie Xo announced their divorce after a tumultuous marriage",
+        "answer": "CIARA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Thierry Henry said the Portugal squad is missing a ___ \u2014 'Team needs to score, not you' he told Ronaldo",
+        "answer": "ADEER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Latin 'it was' \u2014 as in what the Robin Hood oak tree now is, after the ancient tree said to have sheltered the legend died",
+        "answer": "ERAT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Raton, Florida city \u2014 like the coastal locales bracing as Tropical Storm Arthur pushes dangerous downpours ashore in the Deep South",
+        "answer": "BOCA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Chemical compound class \u2014 like those released in the Boyle Heights warehouse fire that triggered rare helicopter drops and shelter-in-place orders",
+        "answer": "OXIDE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Pro hoopster, informally \u2014 like those whose season echoes as the 2026 U.S. Open predictions pit nine players at Shinnecock Hills",
+        "answer": "NBAER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "South ___ \u2014 nation whose leader left the G7 with Trump's pen after talks about peace on the peninsula",
+        "answer": "KOREA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Skin blemish \u2014 like the minor imperfection found in LaGuardia Airport's runway 4/22 during inspection, forcing a temporary shutdown",
+        "answer": "WART",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
