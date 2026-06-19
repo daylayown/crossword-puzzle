@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-19",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "O",
+      "P",
+      "Y",
+      "#"
+    ],
+    [
+      "E",
+      "F",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "O",
+      "O",
+      "K",
+      "A"
+    ],
+    [
+      "O",
+      "L",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "D",
+      "E",
+      "L",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Like the green-tinged water in the newly refurbished National Mall Reflecting Pool",
+        "answer": "ROPY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Zac ___, actor whose name fits as Amazon dropped Luca Guadagnino's film 'Artificial'",
+        "answer": "EFRON",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Mythical creature \u2014 like the legends evoked as an early Stonehenge prototype was unearthed 3 miles from the prehistoric landmark",
+        "answer": "POOKA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Elizabeth ___, actress \u2014 like those whose projects echo as Sony dropped its PlayStation 'PC' branding in favor of 'AI'",
+        "answer": "OLSEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Hawaii's Kilauea volcano is in the ___ Rift Zone, relevant as scientists track fresh lava flows",
+        "answer": "DELA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Repossess \u2014 like assets seized as Brazil executes a warrant against a Lula ally in a widening financial scandal",
+        "answer": "REPO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Belonging to a former time \u2014 like the 1,200-year-old Robin Hood oak in Sherwood Forest that has died",
+        "answer": "OFOLD",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Non-verse writing \u2014 like the form used in Trump's new book detailing his push to test the limits of executive power",
+        "answer": "PROSE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Unsophisticated rustic \u2014 like those left behind as the Great American Housing Shortage forces a search for solutions in rural areas",
+        "answer": "YOKEL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Grandmother \u2014 like the older generations whose savings face risk as the Fed rate pause reshapes mortgage interest rates",
+        "answer": "NANA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
