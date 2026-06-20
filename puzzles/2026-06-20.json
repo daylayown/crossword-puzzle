@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-20",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "U",
+      "M",
+      "I",
+      "#"
+    ],
+    [
+      "I",
+      "T",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "B",
+      "I",
+      "D",
+      "D",
+      "Y"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Persian poet whose legacy echoes as Obama's presidential center opens on Juneteenth in Chicago",
+        "answer": "RUMI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"___ tight\" \u2014 like the Strait of Hormuz situation as Iran says it remains open after confusion",
+        "answer": "ITINA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Old hen \u2014 like the older Qatari 747 Boeing jet Trump converted into his new Air Force One",
+        "answer": "BIDDY",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Tally \u2014 like the goals counted as USMNT beat Australia to advance into the World Cup knockout stage",
+        "answer": "SCORE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Expression of regret \u2014 fitting as Grammy-nominated producer Tay Keith died at age 29",
+        "answer": "ALAS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Cage parts \u2014 like those rattled as flu sickens scores of troops at an Air Force base after Pentagon ends vaccine requirement",
+        "answer": "RIBS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Upstate New York city \u2014 like the rust-belt locales affected as income needed to afford a median-priced home has nearly doubled since 2020",
+        "answer": "UTICA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Pain reliever brand \u2014 like the supplements researchers warn may do more harm than good if taken in cocktail form daily",
+        "answer": "MIDOL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Hindu storm deity \u2014 like the weather forces unleashed as deadly flooding struck the South",
+        "answer": "INDRA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Affirmative votes \u2014 like those cast as Missouri judge finds state abortion laws violate the voter-approved constitutional amendment",
+        "answer": "AYES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
