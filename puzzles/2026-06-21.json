@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-21",
+  "size": 5,
+  "grid": [
+    [
+      "L",
+      "Y",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "B",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "A",
+      "O",
+      "N",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Caustic chemicals \u2014 like those from the Boyle Heights warehouse fire that triggered a State of Emergency declared by Newsom",
+        "answer": "LYES",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Colony \u2014 like the word evoked as a Diocese fights to protect its 29-foot Jesus from Trump's border wall",
+        "answer": "PENAL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Thunberg's first name \u2014 like the activist energy echoed as experts warn California about 'The Big One' earthquake",
+        "answer": "GRETA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Tank commander's name \u2014 like the military figures evoked as Ukraine drones expose gaps in Russia's Crimea defense",
+        "answer": "ABRAM",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Top-notch \u2014 like Wyndham Clark's US Open performance as he turns it into a runaway",
+        "answer": "AONE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Women's golf org. \u2014 like the sports bodies whose equity echoes as the Women Running Businesses Under Taliban Rules story broke",
+        "answer": "LPGA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "___ mate tea \u2014 like the South American drink evoked as Colombia's brutal internal conflict defines its presidential election",
+        "answer": "YERBA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "January, in Spanish \u2014 like the month evoked as Italy's Meloni finally hits back at Trump after letting his jibes slide so long",
+        "answer": "ENERO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Dark figure \u2014 like the one invoked as the Obama Presidential Center follows its 'stolen land' acknowledgment with a Native American dance show",
+        "answer": "SATAN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Weak \u2014 like the fragile agreement between the U.S. and Iran as Tehran says it is closing the Strait of Hormuz",
+        "answer": "LAME",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
