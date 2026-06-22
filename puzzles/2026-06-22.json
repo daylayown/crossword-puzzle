@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-22",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "R",
+      "A",
+      "L",
+      "#"
+    ],
+    [
+      "T",
+      "I",
+      "T",
+      "A",
+      "N"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "L",
+      "E",
+      "A",
+      "R",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "Y",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Shrinking ___ Sea, like the dwindling water supplies threatening communities as European heatwave kills three in France",
+        "answer": "ARAL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Saturn's largest moon, sharing a name with the destination NASA's Nancy Grace Roman Space Telescope is now en route to study",
+        "answer": "TITAN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Organs relevant as early-onset cancers rise and knowing family history becomes crucial, per health researchers",
+        "answer": "UTERI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "What Google's 'Backrooms' investment with A24 studio may help filmmakers ___ about bold new storytelling",
+        "answer": "LEARN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Eye infection \u2014 like the kind of minor ailment overshadowed as misinformation about sunscreen spreads on TikTok, researchers warn",
+        "answer": "STYE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Dr. ___ Gawande, whose public health work echoes as confirmed Ebola cases in Congo top 1,000 with 254 deaths",
+        "answer": "ATUL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Ceremonial traditions \u2014 like those disrupted as the Theodore Roosevelt Presidential Library opens in the North Dakota Badlands",
+        "answer": "RITES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Consumed \u2014 like the cocaine record stash found buried underground in Australia that drug cartels likely ___ into the supply chain",
+        "answer": "ATEAT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Lucid COO Marc Winterhoff's first name \u2014 the executive who departed as the EV maker laid off roughly 18% of its U.S. workforce",
+        "answer": "LARRY",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Number of fatalities when tornadoes killed ___ people across the Midwest and Plains as storm threat shifted east",
+        "answer": "NINE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
