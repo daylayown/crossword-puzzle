@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-23",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "M",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "L",
+      "E",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "H",
+      "I",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Messaged, as authorities did to arrest 2 more suspects in the planned attack on Trump's UFC show",
+        "answer": "IMED",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Yearns \u2014 like SpaceX, which eyes an edge in global cargo delivery with its new Starfall concept",
+        "answer": "PINES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Harold ___, composer \u2014 like the musical legacy evoked as Clive Davis, titan behind Whitney Houston, dies at 94",
+        "answer": "ARLEN",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Keir Starmer's office, which he just resigned \u2014 '___ of ...'",
+        "answer": "STATE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Sound of disapproval \u2014 like the reaction as Iran denies plans for nuclear site inspections after Trump said Tehran 'completely agreed'",
+        "answer": "HISS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Hoppy craft beers, abbr. \u2014 like the drinks flowing as Senate overwhelmingly passes sweeping bipartisan housing affordability bill",
+        "answer": "IPAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Joyfulness \u2014 like that of Iraq fans who were 'proud' despite their World Cup loss to France",
+        "answer": "MIRTH",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Zhou ___, China's storied first Premier \u2014 whose legacy looms as Taiwan launches 5-day military drill with tanks patrolling streets amid rising tensions",
+        "answer": "ENLAI",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Details \u2014 like those federal investigators released on the cause of the Surfside condo collapse",
+        "answer": "DEETS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Classic Nintendo console, abbr. \u2014 like the retro gaming era evoked as a fan remake of Zelda: Ocarina of Time was officially stopped after 10 years",
+        "answer": "SNES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
