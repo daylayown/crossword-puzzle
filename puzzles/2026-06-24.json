@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-24",
+  "size": 5,
+  "grid": [
+    [
+      "W",
+      "O",
+      "K",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "P",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "R",
+      "K"
+    ],
+    [
+      "I",
+      "T",
+      "W",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "O",
+      "N",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Cooking vessels \u2014 like those in the kitchens of NYC restaurants now buzzing after Mamdani's Democratic machine swept the primaries",
+        "answer": "WOKS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Likely \u2014 like the Senate, which was ___ ___ block Trump from resuming the Iran war",
+        "answer": "APTTO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Baby-delivering bird \u2014 like the wildlife imagery evoked as Congress passes a big bipartisan housing bill to help growing families",
+        "answer": "STORK",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "\"___ a good deal\" \u2014 like Trump touting the U.S.-Iran agreement as a payday for American farmers",
+        "answer": "ITWAS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Focused on \u2014 like U.N. inspectors zeroing in ___ Iran's nuclear sites under the new U.S. deal",
+        "answer": "ONTO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ just fired\" \u2014 like the admiral purged by Hegseth who then won a Democratic primary in South Carolina",
+        "answer": "WASI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Choose to \u2014 like Marjorie Taylor Greene, who ___ ___ ditch the GOP and join Tucker Carlson",
+        "answer": "OPTTO",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "KTOWN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Neck of a guitar \u2014 like the instrument evoked as Clive Davis, the star-making recording executive, dies at 94",
+        "answer": "STRAT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "\"___ ___, moving on\" \u2014 like the casual pivot after Micah Lasher wins Manhattan primary, defeating a Kennedy heir",
+        "answer": "OKSO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
