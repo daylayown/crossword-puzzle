@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-25",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "E",
+      "C",
+      "K",
+      "#"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "C",
+      "O",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "U",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "E",
+      "A",
+      "S",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Mild expletive \u2014 like the reaction as Trump berates Senate Republicans for rejecting his Iran war powers push",
+        "answer": "HECK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Tony ___ \u2014 like the UK politician Trump called 'extremely liberal' when referring to Greater Manchester Mayor Andy Burnham",
+        "answer": "BLAIR",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Warm Spanish resort region \u2014 like the European destinations sweltering as France, UK and Spain see record temperatures in a historic heatwave",
+        "answer": "COSTA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Complete, as in 'absolute chaos' \u2014 like the turmoil over the National Mall Reflecting Pool repair that has lawmakers demanding answers",
+        "answer": "UTTER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Relieve tension \u2014 like diplomats hoping to do as Putin asks for Ukraine-Russia peace talks now",
+        "answer": "EASE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Historically Black college acronym \u2014 like institutions whose students echoed in the story of anti-ICE protesters sentenced to decades in prison",
+        "answer": "HBCU",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Mexican street corn \u2014 like the food-culture touchstone evoked as Trump-endorsed de la Espriella won Colombia's presidential runoff",
+        "answer": "ELOTE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Spanish for 'caste' \u2014 like the social hierarchy echoed as Texas moves to put Bible reading into public schools",
+        "answer": "CASTA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Diamond-shaped fliers \u2014 like those evoked as the Federal Reserve's annual stress test confirms large banks can weather a severe recession",
+        "answer": "KITES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Scarce \u2014 like an Ebola diagnosis in France, where a doctor returning from DR Congo became the country's first confirmed case",
+        "answer": "RARE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
