@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-26",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "E",
+      "M",
+      "O",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "G",
+      "S"
+    ],
+    [
+      "F",
+      "A",
+      "R",
+      "R",
+      "O"
+    ],
+    [
+      "W",
+      "I",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Captain ___, the Pixar fish whose name fits as rescuers dive for Venezuela earthquake survivors",
+        "answer": "NEMO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Male deer in a group \u2014 like the bachelor party vibe at Trump's 'tacky' state fair celebration that suffered a literal meltdown",
+        "answer": "STAGS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Ancient grain \u2014 like the old-world foods evoked as Europe's extreme heat, 'virtually impossible' without climate change, scorches farmland",
+        "answer": "FARRO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Dined with wine \u2014 like the dinner Macron hosted Meloni for at his Riviera retreat",
+        "answer": "WINED",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Fewer \u2014 like the protections Ukrainian men abroad will have as the EU restricts their status at Kyiv's request",
+        "answer": "LESS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Content-warning letters \u2014 like those that might precede footage of Alyssa Thomas hitting Caitlin Clark in the throat, earning a WNBA suspension",
+        "answer": "NSFW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Online retail sector \u2014 like the marketplace where Amazon Prime Day deals are flooding screens as the sale ends tonight",
+        "answer": "ETAIL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "MARNE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Fairy-tale monsters \u2014 like the villains evoked as the Supreme Court hands Trump major victories on his immigration agenda",
+        "answer": "OGRES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Pieces of turf \u2014 like those on the National Mall, where the Reflecting Pool liner was cut with a sharp knife or razor, per the Park Service",
+        "answer": "SODS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
