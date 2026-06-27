@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-27",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "I",
+      "L",
+      "T",
+      "#"
+    ],
+    [
+      "E",
+      "B",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "A",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "#",
+      "M",
+      "A",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sword grip \u2014 like those on weapons evoked as the Supreme Court expands gun rights for concealed carry holders",
+        "answer": "HILT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Digital read \u2014 like the format GTA 6 will launch in, ditching physical discs entirely",
+        "answer": "EBOOK",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Suffix with 'Saks' \u2014 the retailer that just emerged from bankruptcy with a new name and luxe focus",
+        "answer": "LETON",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "LaBelle, soul legend \u2014 like the performers evoked as 'The Bear' season 5 wraps its acclaimed run",
+        "answer": "PATTI",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Ship's pole \u2014 like those on vessels in the Strait of Hormuz as Iran reasserts authority over the waterway",
+        "answer": "MAST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ wanted\" \u2014 like the plea as nearly 300 people with Ebola have gone missing in DR Congo",
+        "answer": "HELP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Steel girder shape \u2014 like the structural supports at Penn Station undergoing its massive $8 billion remodel",
+        "answer": "IBEAM",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "\"___ lot\" \u2014 like the outsized pile of fireworks that exploded, destroying homes and injuring firefighters",
+        "answer": "LOTTA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "TOOTS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Craft together \u2014 like the framework Israel and Lebanon are stitching into a peace agreement brokered by Rubio",
+        "answer": "KNIT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
