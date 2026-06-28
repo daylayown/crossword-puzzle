@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-28",
+  "size": 5,
+  "grid": [
+    [
+      "E",
+      "D",
+      "N",
+      "A",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "W",
+      "E",
+      "A",
+      "K"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      "#",
+      "L",
+      "I",
+      "E",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Marvel's Supergirl, e.g. \u2014 like the character at the box office as 'Toy Story 5' holds the top spot",
+        "answer": "EDNA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Huge, like the Venezuela earthquake death toll that has climbed to 1,430",
+        "answer": "MONDO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Adjust slightly \u2014 like what Anthropic did to restore Mythos 5 access to certain U.S. organizations",
+        "answer": "TWEAK",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Marsh grass \u2014 like the wetland plants near Kentucky communities as Beshear declares emergency over flash flooding",
+        "answer": "SEDGE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Misled, like Iran claiming it never agreed to halt Strait of Hormuz shipping talks after the U.S. said otherwise",
+        "answer": "LIED",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "First responders, abbr. \u2014 like those rushing to scenes as France records 1,000 excess deaths during its record-breaking heatwave",
+        "answer": "EMTS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Wooden peg \u2014 like the hardware evoked as VW prepares to cut 100,000 workers from its workforce",
+        "answer": "DOWEL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Okorafor, sci-fi author whose first name fits as China's Tiangong station may become the world's only space outpost if ISS retires",
+        "answer": "NNEDI",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Wise saying \u2014 like the old principle that 'history repeats' as Burkina Faso cuts ties with France, once a key ally",
+        "answer": "ADAGE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Approved, like the Texas education board that greenlit Bible stories as required reading in public schools",
+        "answer": "OKED",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
