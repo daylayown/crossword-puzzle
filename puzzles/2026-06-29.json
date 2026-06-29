@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-29",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "R",
+      "A",
+      "N",
+      "#"
+    ],
+    [
+      "G",
+      "U",
+      "R",
+      "U",
+      "S"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "F",
+      "A",
+      "U",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "T",
+      "R",
+      "E",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Iranian ___ nuclear talks that Trump says are scheduled but Tehran denies",
+        "answer": "TRAN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Wise advisers \u2014 like those the Fed's Warsh is sidelining as he reshapes monetary policy",
+        "answer": "GURUS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Within \u2014 like the INTRA-company split as Comcast separates NBCUniversal from its cable operations",
+        "answer": "INTRA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Scholar who made a devilish deal \u2014 like Ford, which sacked humans for AI only to see it backfire badly",
+        "answer": "FAUST",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "The 'Widow Maker' \u2014 a ___ that fatally crushed a man at a Texas BBQ restaurant, prompting a lawsuit",
+        "answer": "TREE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "End-of-week letters \u2014 like the relief felt as firefighters battling Utah and Colorado wildfires got a brief break",
+        "answer": "TGIF",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Pursue, like Pakistan pursuing strikes that ___ ___ deep into Afghan territory killing 30+",
+        "answer": "RUNAT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Rubinstein, classical pianist \u2014 like the musical legacy evoked as Bill Maher receives the Mark Twain Prize at the Kennedy Center",
+        "answer": "ARTUR",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Care for \u2014 like what Scottish violence-reduction workers do, treating crime like a disease rather than a policing problem",
+        "answer": "NURSE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Satisfy fully \u2014 like the demand for SpaceX's $25 billion bond sale, which drew enormous investor appetite",
+        "answer": "SATE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
