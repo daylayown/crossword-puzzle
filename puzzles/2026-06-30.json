@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-30",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "A",
+      "T",
+      "Y",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "K",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "O",
+      "O"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Granola-like \u2014 like the wholesome foods Medicare will now cover as obesity drugs enter its plan for the first time",
+        "answer": "OATY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Mouth of a whale \u2014 like the opening Iran is threatening to close as it ratchets up talk of controlling the Strait of Hormuz",
+        "answer": "SPOUT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Heeds \u2014 like the Supreme Court, which ___ decades of precedent in handing Trump a 3-1 defeat in key rulings",
+        "answer": "HARKS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "R2-___, the beloved droid \u2014 like the vintage Star Wars nostalgia evoked as a rare Antarctic dinosaur fossil was found tucked away in a museum drawer",
+        "answer": "ARTOO",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Sawbucks \u2014 like the dollar denominations in question as Social Security starts paying out its July checks",
+        "answer": "TENS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Workplace safety agency, abbr. \u2014 like those whose rules echo as 3 firefighters died shielding themselves from flames in the Knowles Fire in Colorado",
+        "answer": "OSHA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Separately \u2014 like Comcast and NBCUniversal, which face a complicated regulatory road as their split moves through D.C.",
+        "answer": "APART",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Rich layered cake \u2014 like the elaborate desserts evoked as Germany reels from a shooting that killed at least 6 in Stade",
+        "answer": "TORTE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Canadian territory \u2014 like the northern regions evoked as extreme heat forecasts warn the Midwest and Northeast of dangerous temperatures over the Fourth of July",
+        "answer": "YUKON",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "General ___ chicken \u2014 like the takeout staple evoked as Chinese tycoon Guo Wengui was sentenced to 30 years in a U.S. prison for fraud",
+        "answer": "TSOS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
