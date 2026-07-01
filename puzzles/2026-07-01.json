@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-01",
+  "size": 5,
+  "grid": [
+    [
+      "E",
+      "R",
+      "R",
+      "S",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "O",
+      "M",
+      "S"
+    ],
+    [
+      "I",
+      "N",
+      "B",
+      "O",
+      "X"
+    ],
+    [
+      "E",
+      "D",
+      "I",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "E",
+      "W"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Goes wrong, like Nike's stock did after earnings topped estimates but shares sank anyway",
+        "answer": "ERRS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Seals the fate of, like wildfires threatening 95K+ acres across Colorado",
+        "answer": "DOOMS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Where a harsh email to ICE landed before agents tracked the sender to his home and a hotel",
+        "answer": "INBOX",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Cuts and revises, like Congress trying to do with the stalled House GOP 'SAVE America Act'",
+        "answer": "EDITS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Starting fresh, like France setting a presidential election date as Macron finishes his final term",
+        "answer": "ANEW",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Falco who played Carmela on 'The Sopranos' \u2014 like the actress evoked as Rockstar workers push to unionize ahead of GTA VI's launch",
+        "answer": "EDIE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Rousey of UFC fame \u2014 like the fighting world buzzing as Trump prepares to host a bout at his upcoming midterm convention in Dallas",
+        "answer": "RONDA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Hood, the legendary outlaw \u2014 whose 1,200-year-old oak in Sherwood Forest died, an event evoked as NASA may send a Mars rover named Promise to the Moon",
+        "answer": "ROBIN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Struck down, like the judge who struck down HUD's homelessness policy shift",
+        "answer": "SMOTE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Austin music festival acronym \u2014 like the event echoed as Trump drops restrictions on Anthropic's Mythos and Fable AI models",
+        "answer": "SXSW",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
