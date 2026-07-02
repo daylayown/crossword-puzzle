@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-02",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "N",
+      "G",
+      "A",
+      "#"
+    ],
+    [
+      "M",
+      "U",
+      "L",
+      "T",
+      "I"
+    ],
+    [
+      "O",
+      "B",
+      "I",
+      "T",
+      "S"
+    ],
+    [
+      "N",
+      "I",
+      "N",
+      "A",
+      "S"
+    ],
+    [
+      "#",
+      "A",
+      "T",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tina ___, Colorado clemency board member whose commutation sparked firings by the governor",
+        "answer": "INGA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Many-platform, like Amazon's new Kuiper satellite network launching as a Starlink rival",
+        "answer": "MULTI",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Newspaper death notices, like those being written for Iran's Supreme Leader as six days of mourning begin across two countries",
+        "answer": "OBITS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Taylor Swift's squad, informally \u2014 as she and Travis Kelce tied the knot in New York City",
+        "answer": "NINAS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Gillette razor brand \u2014 like the grooming products evoked as steak prices hit record highs for American consumers",
+        "answer": "ATRA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ the case\" \u2014 like Trump claiming he's profiting from crypto 'because the stock market's going up'",
+        "answer": "IMON",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Ancient African kingdom \u2014 like the regions evoked as Trump fixates on White South Africans while Black migrants face violence",
+        "answer": "NUBIA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Flash of light \u2014 like the spark that caused a Beijing plane to crash into a skyscraper, officials say, citing 'personal reasons'",
+        "answer": "GLINT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Rose oil used in perfume \u2014 like the luxury goods evoked as realtors spend $100K on clothes and quarterly Botox",
+        "answer": "ATTAR",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Zumi Mamdani's first name \u2014 the NYC mayoral candidate roasted for telling New Yorkers to set ACs to 78 degrees amid brutal heat",
+        "answer": "ISSA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
