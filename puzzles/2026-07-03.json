@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-03",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "I",
+      "L",
+      "L",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      "E",
+      "D",
+      "T",
+      "O"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "T",
+      "V",
+      "M",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Jersey Mike's ___ Street sandwich chain that just filed for IPO amid AI-hype comparisons",
+        "answer": "MILL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Traced a curve, like the path of NASA's new robot launched to rescue the Swift telescope falling to Earth",
+        "answer": "ARCED",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Resulted in, as ICE's 10,000-arrest surge in 5 days ___ ___ record deportation numbers",
+        "answer": "LEDTO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Colorado's Aspen Acres fire evacuated ___ ___ region as flames surpassed 50,000 acres",
+        "answer": "ESTES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Rating for violent content \u2014 like footage from Russian drone strikes killing 25+ in Kyiv",
+        "answer": "TVMA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Willson Contreras's ___ players-only brawl with the Nationals earned him a 7-game Red Sox suspension",
+        "answer": "MALE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "\"___ my case\" \u2014 like Trump asserting his crypto dealings are legal in exclusive CNBC interview",
+        "answer": "IREST",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Display type found in homes sweltering as Europe's heatwave killed 20,000+, per new study",
+        "answer": "LCDTV",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "\"___ ___\" \u2014 like the court ruling telling Trump he must release migrants with bond hearings within 90 days",
+        "answer": "LETEM",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "South Indian crepe \u2014 like the foods evoked as OpenAI proposed donating 5% equity to a U.S. sovereign wealth fund tied to foreign diplomacy",
+        "answer": "DOSA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
