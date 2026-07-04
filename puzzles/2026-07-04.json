@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-04",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "O",
+      "U",
+      "N",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "N",
+      "I",
+      "E"
+    ],
+    [
+      "K",
+      "E",
+      "A",
+      "N",
+      "U"
+    ],
+    [
+      "E",
+      "A",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "R",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Part of speech \u2014 like 'catastrophe,' the ___ UN used to describe paramilitaries closing in on a Sudanese city",
+        "answer": "NOUN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Belly button type \u2014 like those on beachgoers sweltering as France's brutal heatwave kills 2,000 people per week",
+        "answer": "INNIE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Reeves, actor \u2014 like the stars celebrating Taylor Swift and Travis Kelce's wedding",
+        "answer": "KEANU",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Keen \u2014 like the crowd for the largest fireworks display in history, set for America's 250th birthday",
+        "answer": "EAGER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Joan ___, Spanish surrealist \u2014 like the artists evoked as the 'Flamingo Revolution' demands Albania's PM resign",
+        "answer": "MIRO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Swoosh brand \u2014 like the shoe companies whose stock echoes as the Dow hits a fresh record high",
+        "answer": "NIKE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "1 a.m., on a clock face \u2014 like the odd hours Eastern US grid operators issued emergency curbs as electricity use neared a record",
+        "answer": "ONEAM",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Freshwater eel in Japanese cuisine \u2014 like the seafood evoked as Japan's SK Hynix prepares a major US stock listing",
+        "answer": "UNAGI",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "The digit 9 in pilot lingo \u2014 like the radio codes used as a possible super typhoon threatens US Pacific territories",
+        "answer": "NINER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Currency whose exchange rate matters as Canada's Carney secures a pipeline deal to expand oil exports beyond the US",
+        "answer": "EURO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
