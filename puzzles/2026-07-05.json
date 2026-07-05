@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-05",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "A",
+      "L",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "S",
+      "A",
+      "W",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "S",
+      "I",
+      "R"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "#",
+      "E",
+      "D",
+      "G",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Leafy green \u2014 like the crops wilting as western U.S. wildfires force Fourth of July cancellations amid drought conditions",
+        "answer": "KALE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Ruth ___ Hammond, sculptor \u2014 like the artists whose legacies echo as the Vatican excommunicates a breakaway conservative Catholic faction",
+        "answer": "ASAWA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Disagreement word \u2014 like the response from Justice Alito, who has given no indication he'll retire despite pressure from Trump allies",
+        "answer": "NOSIR",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Reznor of Nine Inch Nails \u2014 like the musicians evoked as Led Zeppelin was featured in July 4th celebrations across the vast American land",
+        "answer": "TRENT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Unsettled \u2014 like the mood as Patriot Front white supremacists marched masked through D.C. on the nation's 250th birthday",
+        "answer": "EDGY",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "German philosopher \u2014 like the thinkers evoked as a NYT column argues democracy is 'a habit we must practice \u2014 or lose'",
+        "answer": "KANT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Tender spot \u2014 like the Texas Hill Country, still raw a year after catastrophic floods killed 139 people along the Guadalupe River",
+        "answer": "ASORE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Targeted with a beam \u2014 like Crimea, which Ukraine has hammered with swarming drone attacks to make it a nightmare for the Kremlin",
+        "answer": "LASED",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Patrick ___, NBA legend \u2014 like the sports figures evoked as nearly one million $TRUMP memecoin buyers lost a total of $3.81 billion",
+        "answer": "EWING",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Creative \u2014 like the World Cup logo debate in Mexico, where designers wonder why the 2026 version is so underwhelming compared to 1986",
+        "answer": "ARTY",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
