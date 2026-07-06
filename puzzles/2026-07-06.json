@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-06",
+  "size": 5,
+  "grid": [
+    [
+      "W",
+      "I",
+      "N",
+      "K",
+      "#"
+    ],
+    [
+      "H",
+      "O",
+      "O",
+      "A",
+      "H"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "D",
+      "A",
+      "L"
+    ],
+    [
+      "#",
+      "A",
+      "S",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Subtle signal \u2014 like the one Iran gave before denying any 'final conclusion' on Hormuz shipping talks, per analysts",
+        "answer": "WINK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Military cheer \u2014 like those echoed as National Guard members were deployed to Memphis streets",
+        "answer": "HOOAH",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Sean Baker film \u2014 like the award-winning work whose star echoes as Frida Kahlo gets a major blockbuster exhibition",
+        "answer": "ANORA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Wave pattern \u2014 like the surges threatening coastal areas as China test-launched a ballistic missile from a sub in the South Pacific",
+        "answer": "TIDAL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "\"___ not to reason why\" \u2014 like the NATO members questioning Trump's demands for higher spending pledges at this week's summit",
+        "answer": "ASTO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ happened?\" \u2014 like the question asked after Tyler Robinson allegedly shot Charlie Kirk, now facing prosecutors' sprawling case",
+        "answer": "WHAT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Ancient Greek region \u2014 like the historical territories evoked as archaeologists uncover a Byzantine city in Egypt's western desert",
+        "answer": "IONIA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Instant messages, informally \u2014 like those Sony sent clarifying re-order support for existing PlayStation discs",
+        "answer": "NOODS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Gold purity measure \u2014 like the standards invoked as Trump became the first sitting president to sign American money",
+        "answer": "KARAT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Glowing ring \u2014 like the one in the NASA emergency mission launched to save the Swift Observatory from crashing to Earth",
+        "answer": "HALO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
