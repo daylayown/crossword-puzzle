@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-07",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "I",
+      "S",
+      "S",
+      "#"
+    ],
+    [
+      "U",
+      "S",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "S",
+      "I",
+      "E",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "L",
+      "I",
+      "A"
+    ],
+    [
+      "#",
+      "H",
+      "A",
+      "N",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "What USMNT did to qualify \u2014 and then did again by exiting the World Cup embarrassingly early",
+        "answer": "MISS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Formal 'you' in Spanish \u2014 like the language spoken by Venezuela quake survivors trapped for 32 hours",
+        "answer": "USTED",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Spanish for 'seven' \u2014 like the number of goals Spain's Merino late winner brought them into the World Cup quarterfinals stage",
+        "answer": "SIETE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Name meaning 'flourishing' \u2014 like Zendaya's character whose star power lit up 'The Odyssey' world premiere",
+        "answer": "TALIA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Wrist appendage \u2014 like the one Graham Platner may have had in disputed assault report as Dem support collapses",
+        "answer": "HAND",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Obligation \u2014 like NATO members' spending pledge Trump is pushing to enforce at Turkey summit",
+        "answer": "MUST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Thomas, NBA Hall-of-Famer \u2014 like the Celtics figures evoked as Boston's Stevens explains the Jaylen Brown trade",
+        "answer": "ISIAH",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Inscribed stone pillar \u2014 like the ancient artifacts evoked as Neanderthals and modern humans may have shared culture 59,000 years ago in Turkey",
+        "answer": "STELA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Established, like a legal precedent the Supreme Court used to help Trump hamstring the next Democratic president",
+        "answer": "SETIN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Hamas dissolved its government in Gaza to transfer power \u2014 leaving it effectively ___",
+        "answer": "DEAD",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
