@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-08",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "E",
+      "T",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "R",
+      "O"
+    ],
+    [
+      "C",
+      "E",
+      "S",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "T",
+      "Y",
+      "P",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Brooklyn hoopsters \u2014 like the NYC team whose arena neighborhood has buildings evacuating over feared Midtown East collapse",
+        "answer": "NETS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Friendliness \u2014 like the tone Trump struggled to project as he made his dramatic NATO entrance in Turkey",
+        "answer": "AMITY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Copy \u2014 like the documents Trump administration allegedly shared with Iran detailing asylum seekers' identities",
+        "answer": "REPRO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Ch\u00e1vez, whose iconic name echoes as ICE agents fatally shot an undocumented Mexican immigrant during an arrest",
+        "answer": "CESAR",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Kind \u2014 like the AI model Anthropic is launching with Claude Cowork on mobile and web",
+        "answer": "TYPE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Drug informant \u2014 like those whose tips echo as DOJ deploys election monitors in 6 states amid intense pressure campaign",
+        "answer": "NARC",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "EMEET",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Slightly unsteady \u2014 like chip stocks after Nasdaq's uptrend wobbled on a broad semiconductor sell-off",
+        "answer": "TIPSY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Belt \u2014 like the financial one Prince Harry may have to tighten after his 'crushing' UK court loss threatens his and Meghan's finances",
+        "answer": "STRAP",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Days of ___ \u2014 like the era evoked as the Dallas Cowboys player who died by suicide was posthumously diagnosed with brain disease",
+        "answer": "YORE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
