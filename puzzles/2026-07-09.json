@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-09",
+  "size": 5,
+  "grid": [
+    [
+      "F",
+      "O",
+      "X",
+      "Y",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "Z",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "L",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sly, like Musk's Grok 4.5 model released as SpaceXAI quietly dropped the new AI without fanfare",
+        "answer": "FOXY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Brand of canned tomatoes \u2014 like the pantry staples whose prices echo as U.S. farmers pay double for crop protection vs. Brazil",
+        "answer": "ROTEL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Digital publication \u2014 like the format covering SpaceX's Falcon 9 rocket launching for a record-breaking 36th time",
+        "answer": "EZINE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Camping shelters \u2014 like those set up for huge crowds gathering for the killed ayatollah's burial after U.S. and Iranian strikes",
+        "answer": "TENTS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Mineral relevant as the FDA concluded arsenic, lead, and other metals in tampons aren't harmful",
+        "answer": "SALT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Worry \u2014 like investors' mood as 10-year Treasury yield climbs to 4.57% amid oil-price-driven inflation fears",
+        "answer": "FRET",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Seeps slowly \u2014 like oil from Russian refineries Ukraine drone strikes set ablaze",
+        "answer": "OOZES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Nickname for Christina \u2014 like the pop star whose energy echoes as Justin Bieber joins Madonna and Shakira for the FIFA World Cup Final halftime show",
+        "answer": "XTINA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "YENTL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "For fear that \u2014 like the caution driving Denmark's Frederiksen to remind Trump that Greenland is not for sale",
+        "answer": "LEST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
