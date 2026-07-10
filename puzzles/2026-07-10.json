@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-10",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "R",
+      "O",
+      "W",
+      "#"
+    ],
+    [
+      "E",
+      "U",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "L",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "K",
+      "E",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "D",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Expand, like WHO warns global cancer cases will do by nearly 70% by 2050",
+        "answer": "GROW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Swiss mathematician whose name fits as physicists develop first quantum model using only 'real' numbers",
+        "answer": "EULER",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Key character in 'Moana' live-action remake ravaged by critics",
+        "answer": "ELLIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Knightley, actress \u2014 like the stars evoked as Olivia Wilde builds comic tension in 'The Invite'",
+        "answer": "KEIRA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Fox \u2014 like the network airing Tyler Robinson hearing with explosive Lance Twiggs interview played in court",
+        "answer": "REDD",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tech enthusiast \u2014 like the 1,000+ Pok\u00e9mon Go players who descended on Times Square to defeat Mewtwo",
+        "answer": "GEEK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Erdogan, who handed NATO leaders ___ as gifts when they left the Ankara summit",
+        "answer": "RULER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Skateboard trick \u2014 like the moves evoked as former Olympic canoe racer pleads not guilty in Reflecting Pool damage case",
+        "answer": "OLLIE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Strange, like the BBC's description of Britain's election featuring Count Binface, the intergalactic warrior",
+        "answer": "WEIRD",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Check the news, like investors doing about SK Hynix ahead of its blockbuster U.S. debut",
+        "answer": "READ",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
