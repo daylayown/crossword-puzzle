@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-11",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "I",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "P",
+      "L",
+      "U",
+      "M",
+      "P"
+    ],
+    [
+      "F",
+      "I",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "E",
+      "K",
+      "S"
+    ],
+    [
+      "#",
+      "D",
+      "R",
+      "A",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Location of a space mirror test the FCC just approved despite astronomer outcry",
+        "answer": "SITE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Like an iPhone Ultra battery, per new leak \u2014 swollen with extra capacity",
+        "answer": "PLUMP",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What the EU threatens Meta with over addictive Facebook and Instagram features",
+        "answer": "FINES",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "What NASA does for research volunteers to spend a year on a simulated Mars mission",
+        "answer": "SEEKS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Mild oath \u2014 like the reaction as flooding in Missouri prompted a state of emergency and 100+ rescues",
+        "answer": "DRAT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sun-protection letters relevant as dangerous heat blankets the U.S., per meteorologists",
+        "answer": "SPFS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Apple's suit against OpenAI alleges the company ___ when it denied stealing trade secrets",
+        "answer": "ILIED",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "One who adjusts signals \u2014 like an engineer on a Ryanair flight after a passenger was partly sucked from the plane",
+        "answer": "TUNER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Nigerian name \u2014 like those evoked as Ebola deaths reached 600 in Congo with new cases suspected",
+        "answer": "EMEKA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Hushed alert \u2014 like the whisper of Bipartisan senators' quiet deal on Russia sanctions with the Trump administration",
+        "answer": "PSST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
