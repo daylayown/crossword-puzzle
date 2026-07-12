@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-12",
+  "size": 5,
+  "grid": [
+    [
+      "Z",
+      "I",
+      "N",
+      "G",
+      "#"
+    ],
+    [
+      "A",
+      "G",
+      "A",
+      "S",
+      "P"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "U",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "T",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sharp excitement \u2014 like the buzz as Argentina's Messi marched into World Cup semi-finals",
+        "answer": "ZING",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Shocked \u2014 like onlookers as the Strait of Hormuz was declared closed by Iran",
+        "answer": "AGASP",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Theatrical show \u2014 like Jay-Z's surprise concert featuring Beyonc\u00e9 and Blue Ivy for 'Reasonable Doubt' anniversary",
+        "answer": "REVUE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Consumed \u2014 like the $45M box office that the 'Moana' remake barely managed on opening weekend",
+        "answer": "ATEIT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Ski resort town \u2014 like the elevated locales threatened as a dangerous U.S. heat wave pushes temperatures to extremes",
+        "answer": "ALTA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fashion retailer \u2014 like the brand whose low prices echo as Aldi takes on U.S. supermarkets with $4 almond butter",
+        "answer": "ZARA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "\"___ kick out of\" \u2014 like the thrill McGregor fans hoped for before he lost to Holloway at UFC 329",
+        "answer": "IGETA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Belly button \u2014 like those on beachgoers as Toronto's street festival turned deadly in a shooting",
+        "answer": "NAVEL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Pilot's pressurized garment \u2014 like those worn by crews as SpaceX's Falcon 9 launched for its 35th time",
+        "answer": "GSUIT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Animal-rights group \u2014 like those likely to react as Trump slashes wildlife protections, endangering California species",
+        "answer": "PETA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
