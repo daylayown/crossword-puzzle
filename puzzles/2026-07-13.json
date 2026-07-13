@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-13",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "D",
+      "I",
+      "D",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "F",
+      "I",
+      "A"
+    ],
+    [
+      "A",
+      "T",
+      "I",
+      "L",
+      "T"
+    ],
+    [
+      "C",
+      "E",
+      "L",
+      "L",
+      "O"
+    ],
+    [
+      "#",
+      "S",
+      "L",
+      "A",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"___ what I thought\" \u2014 like McGregor's coach insisting the knee \"was never an issue\" before the shocking UFC injury",
+        "answer": "IDID",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Criminal org \u2014 like the ones evoked as a gang of thieves pulled off a multimillion-dollar data center heist",
+        "answer": "MAFIA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Leaning \u2014 like oil prices after U.S. and Iran exchanged strikes near the Strait of Hormuz",
+        "answer": "ATILT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Stringed instrument \u2014 like those played at Jay-Z's Yankee Stadium residency finale featuring Beyonc\u00e9, Rihanna, and Usher",
+        "answer": "CELLO",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Grand ___ \u2014 like the door Jannik Sinner shut on rivals, bouncing back with another Wimbledon title",
+        "answer": "SLAM",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Apple desktop \u2014 like the hardware evoked as Apple stores expand use of 'Tap to Pay on iPhone'",
+        "answer": "IMAC",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Calendar entries \u2014 like the ones shifted around as Samsung's Galaxy Z TriFold 2 release schedule shuffled",
+        "answer": "DATES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Gwen ___ \u2014 journalist whose name fits as Japan builds a new intelligence agency with help from the West",
+        "answer": "IFILL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "J ___ \u2014 Detroit hip-hop legend whose name fits as Trump invested crypto gains in stocks and bonds per filings",
+        "answer": "DILLA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Tiny particle \u2014 like those in the RNA building blocks found in asteroid Bennu samples returned to scientists",
+        "answer": "ATOM",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
