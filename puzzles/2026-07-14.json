@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-14",
+  "size": 5,
+  "grid": [
+    [
+      "V",
+      "E",
+      "R",
+      "B",
+      "#"
+    ],
+    [
+      "A",
+      "S",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "U",
+      "S",
+      "S",
+      "R"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Part of speech \u2014 like 'strike' in headlines as US and Iran exchange blows near the Strait of Hormuz",
+        "answer": "VERB",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Buckled in \u2014 like passengers on planes as a wife clung to her husband being sucked out a window",
+        "answer": "ASEAT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Hot stretch \u2014 like Europe's deadly heatwave linked to thousands of excess deaths, per new report",
+        "answer": "SPELL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Finished, like Lindsey Graham's Senate career after his sudden death shocked Washington",
+        "answer": "ENDED",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Cold War superpower letters \u2014 like the era evoked as EU and Britain target Russian intelligence officers over cyberspying",
+        "answer": "USSR",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Flower holder \u2014 like those at funerals as protests erupt across Iran after Khamenei's burial",
+        "answer": "VASE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "College sports cable channel \u2014 like the networks covering World Cup semifinals with France vs. Spain",
+        "answer": "ESPNU",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Marsh plants \u2014 like wetlands near Bangkok's music bar where fire trapped victims in windowless bathrooms",
+        "answer": "REEDS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Hay bundles \u2014 like those in rural Utah as Trump cuts nearly 3 million acres from national monuments",
+        "answer": "BALES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Internet shorthand for 'too long' \u2014 like the summary of Volkswagen's plan to cut up to 100,000 jobs globally",
+        "answer": "TLDR",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
