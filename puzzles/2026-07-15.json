@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-15",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "E",
+      "P",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "A",
+      "Y"
+    ],
+    [
+      "N",
+      "A",
+      "O",
+      "M",
+      "I"
+    ],
+    [
+      "A",
+      "S",
+      "N",
+      "A",
+      "P"
+    ],
+    [
+      "#",
+      "E",
+      "E",
+      "L",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Treasury ___, like the agency whose defense spending bill was blocked by Senate Democrats over Iran war objections",
+        "answer": "DEPT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Lineup \u2014 like the 500 pro-Ukraine troops France showcased at Bastille Day",
+        "answer": "ARRAY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Watts, actress \u2014 like the stars evoked as Anya Taylor-Joy leads Apple TV's new thriller 'Lucky'",
+        "answer": "NAOMI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "In a flash \u2014 like IBM shares crashing 25% in their worst single day ever",
+        "answer": "ASNAP",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Slippery fish \u2014 like those swimming near Alcatraz where a boat capsized, killing one in San Francisco Bay",
+        "answer": "EELS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "White ___ \u2014 like the body camera footage DHS now requires on every ICE arrest team after two fatal shootings",
+        "answer": "DANA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Wipe out \u2014 like Spain and Gibraltar scrapping border controls between their territories",
+        "answer": "ERASE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Susceptible \u2014 like T. rex fossil 'Gus,' which sold for a record $50.1M at auction, to the highest bidder",
+        "answer": "PRONE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Mexican masa pocket \u2014 like the foods evoked as Taco Bell stops serving lettuce amid rising cyclosporiasis cases",
+        "answer": "TAMAL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Golfer's jitters \u2014 like the nerves at play as Warren Buffett abruptly stopped donations to Bill Gates's charity",
+        "answer": "YIPS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
