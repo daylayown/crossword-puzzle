@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-16",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "I",
+      "K",
+      "I",
+      "#"
+    ],
+    [
+      "I",
+      "L",
+      "I",
+      "K",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "D",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "D",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "D",
+      "O",
+      "S",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Dance move name \u2014 like the energy at Bangkok's bar where a deadly fire killed dozens in Thailand's latest blaze",
+        "answer": "KIKI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"___ it\" \u2014 like what UnitedHealth investors said as the insurer blew past earnings estimates and hiked its outlook",
+        "answer": "ILIKE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Lunar pulls \u2014 like the Black Sea forces at play as Ukraine strikes Russian oil tankers amid naval clashes",
+        "answer": "TIDES",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Egyptian leader's name \u2014 like the diplomats evoked as Israel and Lebanon meet to advance peace talks",
+        "answer": "SADAT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Prescribed amount \u2014 like the testosterone levels Hegseth ordered the military to screen for in a new policy",
+        "answer": "DOSE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Starter packages \u2014 like those TSMC is preparing as it pledges an additional $100 billion investment in Arizona chip plants",
+        "answer": "KITS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Ancient Greek epic \u2014 like the poem whose world is brought to IMAX 70mm screens at 25 theater locations",
+        "answer": "ILIAD",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Informal term for a child \u2014 like those whose custody is disputed as 'DWTS' pro Gleb Savchenko claims his ex-wife moved their daughters to China",
+        "answer": "KIDDO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Furniture chain stores \u2014 like the retail giant whose flat-pack ethos echoes as House bill to eliminate the penny advances",
+        "answer": "IKEAS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "___ d'Este \u2014 Italian noble house whose legacy echoes as France's National Assembly gives final approval to its assisted-dying bill",
+        "answer": "ESTE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
