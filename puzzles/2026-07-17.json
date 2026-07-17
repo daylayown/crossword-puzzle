@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-17",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "E",
+      "T",
+      "S",
+      "#"
+    ],
+    [
+      "E",
+      "L",
+      "R",
+      "O",
+      "Y"
+    ],
+    [
+      "A",
+      "S",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "A",
+      "D"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Animals whose privacy problems hide in period-tracking apps, per BBC report",
+        "answer": "PETS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Jetson boy's name \u2014 like those evoked as LeBron's TV schedule holds the NBA hostage",
+        "answer": "ELROY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Yoga pose \u2014 like the wellness routines Hegseth disrupted with his new testosterone testing order for troops",
+        "answer": "ASANA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Taco Bell's ___ supplier linked by CDC and FDA to multistate cyclosporiasis outbreak",
+        "answer": "SALAD",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Hurricane \u2014 like the storms evoked as Texas floods killed at least 2 in the same region as the Camp Mystic disaster",
+        "answer": "SARA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Green pods \u2014 like the produce evoked as Chicago air quality hit hazardous levels from Canadian wildfire smoke",
+        "answer": "PEAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "ELSAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Carefree refrain \u2014 like the mood at England's World Cup camp 'clouded by one big regret,' per Times report",
+        "answer": "TRALA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Submarine detection tech \u2014 like the naval systems evoked as U.S. strikes target Iranian bridges and port infrastructure",
+        "answer": "SONAR",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "\"___, ___, ___ \u2014 you know the rest\" \u2014 like the verbal filler evoked as Trump alleges a vast election fraud conspiracy",
+        "answer": "YADA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
