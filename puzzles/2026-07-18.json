@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-18",
+  "size": 5,
+  "grid": [
+    [
+      "C",
+      "A",
+      "V",
+      "S",
+      "#"
+    ],
+    [
+      "M",
+      "E",
+      "O",
+      "W",
+      "Y"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Cleveland team \u2014 like the NBA franchise whose city echoes as Caitlin Clark breaks a scoring record with 45 points",
+        "answer": "CAVS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Feline-sounding \u2014 like a China AI startup's new model 'Kimi K3' that claims to rival OpenAI and Anthropic",
+        "answer": "MEOWY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Informal name \u2014 like the nickname for the ICE agent in Maine whose ex-wife described his racist beliefs and violent tendencies",
+        "answer": "ARTIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Italian city \u2014 like the locales evoked as Trump scraps with Meloni while his envoy to Italy is 'at sea'",
+        "answer": "SIENA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Spanish for 'you are' \u2014 like the language in headlines as Argentina's Messi says his team 'will give it our all' in the World Cup final",
+        "answer": "ERES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Holiday shopping abbr. \u2014 like the seasonal timing evoked as the House passes a bill to do away with Daylight Saving Time",
+        "answer": "CMAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Eagle's nest \u2014 like the elevated perches evoked as wildfire smoke from Canadian fires shrouds Washington and spreads to cities this weekend",
+        "answer": "AERIE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Registered one \u2014 like the non-citizen the Trump administration claims is enrolled to vote in 4 states",
+        "answer": "VOTER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Farm animal \u2014 like those on rural properties threatened as a rare cancer outbreak prompts a SoCal city to suspend chemical landscaping products",
+        "answer": "SWINE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Affirmative votes \u2014 like those cast as New Jersey's AR-15 ban is declared unconstitutional in a landmark Second Amendment ruling",
+        "answer": "YEAS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
