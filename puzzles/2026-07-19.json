@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-19",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "A",
+      "X",
+      "I",
+      "#"
+    ],
+    [
+      "C",
+      "R",
+      "A",
+      "M",
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "T",
+      "I",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "X",
+      "I",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Long skirt length \u2014 like the fashion evoked as Tennessee tries to woo Paramount and other companies away from California",
+        "answer": "MAXI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Stuffs full \u2014 like a student who ___ for the med school test evoked as weight-loss drugs may now be prescribed for overweight pets",
+        "answer": "CRAMS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Historical record \u2014 like the chronicles kept as a 2,700-year-old sword was discovered by a man walking through a forest",
+        "answer": "ANNAL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Princess in 'The Princess and the Frog' \u2014 like the Disney name evoked as Maine Democrats push momentum toward a new Senate pick for Jackson",
+        "answer": "TIANA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Door sign relevant as Hungary's president signs amendment ending his own term early",
+        "answer": "EXIT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Pre-med exam acronym \u2014 like the test evoked as the FAA says Boeing can resume self-certifying its jets as airworthy",
+        "answer": "MCAT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Schwarzenegger's nickname \u2014 like the action-star energy evoked as Andrew Tate and his brother were arrested in the US after more UK charges",
+        "answer": "ARNIE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Anti-anxiety drug \u2014 like the medication people may need as the US and Iran blow past red lines lurching toward all-out war",
+        "answer": "XANAX",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Mamdani's first name \u2014 the NYC mayor who says the city is exploring whether it can arrest Netanyahu if he visits for the UN General Assembly",
+        "answer": "IMANI",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Venetian blind strip \u2014 like the window coverings people are closing as wildfire smoke from Canada triggers air quality alerts across the US",
+        "answer": "SLAT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
