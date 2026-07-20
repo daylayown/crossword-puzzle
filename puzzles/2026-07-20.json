@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-20",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "N",
+      "D",
+      "Y",
+      "#"
+    ],
+    [
+      "S",
+      "O",
+      "W",
+      "E",
+      "D"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "#",
+      "T",
+      "B",
+      "S",
+      "P"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Burnham's first name \u2014 the 'King of the North' set to become U.K. prime minister",
+        "answer": "ANDY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Planted, like seeds of conflict as U.S. and Iran exchange strikes near the Gulf",
+        "answer": "SOWED",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Pure, like the drop in oil prices after Iran signaled U.S. talks could be pursued",
+        "answer": "SHEER",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Link \u2014 like the connection between Putin and North Korea's foreign minister in their latest high-level diplomacy",
+        "answer": "TIETO",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Cooking measure abbr. \u2014 like those in recipes as Burger King prepares menus for the GLP-1 revolution",
+        "answer": "TBSP",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Helper, abbr. \u2014 like staff roles being cut as IBM's 25% stock crash exposes AI's corporate casualties",
+        "answer": "ASST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Perfect game \u2014 like the shutout Spain pitched against Messi's Argentina to reach the World Cup summit",
+        "answer": "NOHIT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Tech nerd \u2014 like enthusiasts buzzing over the wide Galaxy Z Fold 8 leak showing its real-life look",
+        "answer": "DWEEB",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Flings \u2014 like the 400 drones Ukraine hurled toward Moscow as Zelensky grapples with protests",
+        "answer": "YEETS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "What Iran vowed not a 'single' one of \u2014 oil or gas through the Strait of Hormuz, as U.S. strikes entered their ninth night",
+        "answer": "DROP",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
