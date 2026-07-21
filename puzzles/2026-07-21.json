@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-21",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "E",
+      "S",
+      "O",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "U",
+      "T",
+      "E"
+    ],
+    [
+      "B",
+      "L",
+      "I",
+      "T",
+      "Z"
+    ],
+    [
+      "E",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Kiss, in Spanish \u2014 like the language of Spain's World Cup champions parading before nearly 2 million fans",
+        "answer": "BESO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Sharp, like Jamie Dimon's warning that markets underestimate risks as he refuses to buy stocks or Treasurys",
+        "answer": "ACUTE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Rapid attack \u2014 like the U.S. carrying out its 10th consecutive night of strikes on Iran",
+        "answer": "BLITZ",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Consumer \u2014 like someone affected by Taco Bell's cyclosporiasis-linked lettuce controversy",
+        "answer": "EATER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Prefix meaning trillion \u2014 like the scale of Bristol Myers's AI supercomputer build with Nvidia",
+        "answer": "TERA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Infant \u2014 like the JD and Usha Vance 'perfect baby boy' Trump shared a photo of",
+        "answer": "BABE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Brilliant sensation \u2014 like the worldwide wonder sparked by an Australian woman delivering 'miracle' identical quadruplets, a one-in-15-million occurrence",
+        "answer": "ECLAT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Set of rooms \u2014 like accommodations near the Acropolis, where a man stabbed tourists visiting Athens",
+        "answer": "SUITE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Sleek river mammal \u2014 like the animals whose habitat is threatened as the U.S. scraps endangered species protections",
+        "answer": "OTTER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Miller, rapper \u2014 like the musical figures evoked as Sony sues Udio's AI music generator over 30,000 songs",
+        "answer": "EZRA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
