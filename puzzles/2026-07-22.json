@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-22",
+  "size": 5,
+  "grid": [
+    [
+      "E",
+      "N",
+      "O",
+      "S",
+      "#"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "T",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "M",
+      "I",
+      "T"
+    ],
+    [
+      "Y",
+      "A",
+      "P",
+      "P",
+      "Y"
+    ],
+    [
+      "#",
+      "T",
+      "H",
+      "E",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Zelenskyy ousted Ukraine's army ___ as wartime protests exposed a power struggle",
+        "answer": "ENOS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "GLP-1 drugs like these kick-starters cut worker sick leave 17%, new study finds",
+        "answer": "BOOTS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What Trump did when he downplayed China's election meddling \u2014 saying 'we do things to them, too'",
+        "answer": "ADMIT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Like a small dog, or the media buzz around LeBron James after a Heat press link was posted 'by mistake'",
+        "answer": "YAPPY",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Formal 'you' \u2014 like the archaic address in Ossoff's Senate sparring with Hegseth over Iran 'victory' claims",
+        "answer": "THEE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Online marketplace where Cracker Barrel offloaded Maple Street Biscuit Company and closed 16 locations",
+        "answer": "EBAY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "\"___ ___\" \u2014 like the French lawmakers' new rule banning social media for children under 15",
+        "answer": "NODAT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Extra punch \u2014 like the force behind Tropical Storm Bertha as it impacts the northern Gulf Coast",
+        "answer": "OOMPH",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "R.E.M.'s Michael ___ \u2014 like the musicians evoked as the Dodgers beat the Phillies on a game-ending baserunning gaffe",
+        "answer": "STIPE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "STYE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
