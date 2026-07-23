@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-23",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "U",
+      "M",
+      "P",
+      "#"
+    ],
+    [
+      "I",
+      "T",
+      "E",
+      "M",
+      "S"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "S",
+      "U"
+    ],
+    [
+      "S",
+      "H",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "N",
+      "O",
+      "D",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Trash, like the reconciliation bill Senate Republicans are threatening to reject per Mike Johnson's bruising week",
+        "answer": "DUMP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Stock trading ban bill's covered ___, as House passes new disclosure rules for lawmakers",
+        "answer": "ITEMS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Island group evoked as Japan's prime minister invokes Shinzo Abe to push a nationalist agenda",
+        "answer": "MATSU",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Destroy documents \u2014 like OpenAI being urged to secure data after its hacking incident exposed AI arms race risks",
+        "answer": "SHRED",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Signs of agreement \u2014 like senators giving quiet nods to a bipartisan housing bill now signed into law",
+        "answer": "NODS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Darkens, like oil market outlook after tankers were struck off Saudi Arabia and prices climbed toward $100",
+        "answer": "DIMS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Salt Lake City resident, like those near wildfire smoke zones as Canadian blazes push haze into the US through August",
+        "answer": "UTAHN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Transit system \u2014 like the network near Madison, Wisconsin, after a police shooting on a city street near the state Capitol sparked protests",
+        "answer": "METRO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Stood up to, like Zelensky did before he fired Ukraine's military chief amid wartime tensions",
+        "answer": "PMSED",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Lather \u2014 like the outrage building as Trump's new tariffs anger voters and U.S. allies alike",
+        "answer": "SUDS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
