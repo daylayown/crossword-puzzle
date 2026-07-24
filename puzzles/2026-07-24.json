@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-24",
+  "size": 5,
+  "grid": [
+    [
+      "L",
+      "E",
+      "I",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "I",
+      "R"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "R",
+      "O",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Garlands \u2014 like those evoked as Hawaii tourism rebounds even as Americans are told to stay home from Canada's new Gordie Howe bridge opening",
+        "answer": "LEIS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Buzzing \u2014 like markets after oil surged past $100 a barrel amid the escalating U.S.-Iran conflict",
+        "answer": "ASTIR",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Old news \u2014 like the DOJ's dropped New York Times subpoenas over Air Force 1 reports",
+        "answer": "STALE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Berry, actress \u2014 like the stars whose names echo as Kate Hudson gets a star on the Hollywood Walk of Fame",
+        "answer": "HALLE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "ROSS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Whip \u2014 like the Senate GOP pressure as Trump's tiff with Thune turns into a 'circular firing squad'",
+        "answer": "LASH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Spanish 'to be' infinitive \u2014 like the language evoked as Venezuelan families still search for bodies a month after earthquakes",
+        "answer": "ESTAR",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Calvino, Italian author \u2014 like the literary figures evoked as Venice film chief Alberto Barbera addresses Hollywood's festival retreat",
+        "answer": "ITALO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Opera house balcony sections \u2014 like the tiers of seats at Madison Square Garden where Jon Bon Jovi abruptly ended his show",
+        "answer": "SILLS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Evan ___, Welsh actor \u2014 like the performers evoked as 'Hadestown' film heads to theaters charting a new course for live captures",
+        "answer": "REES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
