@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-26",
+  "size": 5,
+  "grid": [
+    [
+      "U",
+      "M",
+      "P",
+      "S",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "I",
+      "K",
+      "O"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "R",
+      "O",
+      "S",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Baseball officials, like those overseeing games as LeBron joins the Sixers in a blockbuster signing",
+        "answer": "UMPS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Japanese drum style, like the percussion evoked as Typhoon Noul struck southern China forcing 700,000 evacuations",
+        "answer": "TAIKO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Online retail, like the sector booming as Amazon Prime customers seek settlement refunds",
+        "answer": "ETAIL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Five-sided shape, like the building whose officials admitted covering up U.S. military casualties in the Iran war",
+        "answer": "PENTA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Optimistic, like the mood around measles vaccine efforts even as 2026's outbreak hits record levels across seven states",
+        "answer": "ROSY",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Texas university whose El Paso city echoes as small businesses file lawsuits against Trump's new sweeping tariffs",
+        "answer": "UTEP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Alma ___, like the school ties invoked as India's education minister stepped down in victory for 'Cockroach' party protesters",
+        "answer": "MATER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Upright ___, like the instrument whose keys echo as the WNBA All-Star Game drew controversy over commissioner Cathy Engelbert's evasive comments",
+        "answer": "PIANO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Comedy bits, like those at Trump's appearance at the makeup WHCA dinner with five standout moments",
+        "answer": "SKITS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Skin cream brand, like the beauty products evoked as the FDA panel gave a nod to six controversial peptides",
+        "answer": "OLAY",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
