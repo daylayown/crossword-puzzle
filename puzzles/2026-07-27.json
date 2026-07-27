@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-27",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "A",
+      "C",
+      "H",
+      "#"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "A",
+      "S"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "G",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "T",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "S",
+      "S",
+      "R",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Composer whose classical legacy echoes as Berlin Pride attack suspect tried to join ISIS, shocking Germany",
+        "answer": "BACH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Parasites \u2014 like the pests evoked as Ebola surges to 3,200 infections in DR Congo, straining health systems",
+        "answer": "FLEAS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Counterfeit \u2014 like the false Buttigieg allegation whose source appeared 'mentally unstable,' records show",
+        "answer": "FORGE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Put on \u2014 like the pressure Netanyahu faces as he visits a White House increasingly at odds with him",
+        "answer": "SETAT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Antidepressant type \u2014 like the meds people may need as financial stress is shown to affect the brain long-term",
+        "answer": "SSRI",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Close pals \u2014 like the ones NBA star LeBron's signing puts pressure on among the 76ers' inner circle",
+        "answer": "BFFS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Succulent plants \u2014 like the hardy growth evoked as Colorado River reservoirs hit record lows under Trump's threat of major cuts",
+        "answer": "ALOES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Credentials \u2014 like those of former FDA commissioner Gottlieb, who says Taylor Farms calling the White House to delay a cyclospora recall was 'not standard'",
+        "answer": "CERTS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "H\u00e4gar the ___ \u2014 like the comic strip Viking evoked as monster wildfires drive 250,000 from their homes in France",
+        "answer": "HAGAR",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Space-signal search program \u2014 like the extraterrestrial outreach evoked as an abandoned SpaceX rocket is about to crash into the Moon",
+        "answer": "SETI",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
