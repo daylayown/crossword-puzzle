@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-28",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "E",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "U",
+      "P",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "N",
+      "O",
+      "U",
+      "N",
+      "S"
+    ],
+    [
+      "S",
+      "C",
+      "R",
+      "I",
+      "P"
+    ],
+    [
+      "#",
+      "H",
+      "U",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hawaiian goose \u2014 like the wildlife evoked as Arizona-Sonora border reopens after New World screwworm outbreak",
+        "answer": "NENE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Torn \u2014 like chip stocks after Nvidia's circular AI funding concerns sparked a deepening sell-off",
+        "answer": "UPART",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Parts of speech \u2014 like the proper ones in doxing wealthy NYC property owners, which Mamdani critics call 'outright dangerous'",
+        "answer": "NOUNS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Prescription \u2014 like those that may be needed as measles becomes so common that treatments are now being studied",
+        "answer": "SCRIP",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Shades \u2014 like those evoked as Spain and France brace for new heatwaves with wildfires closing in on Bordeaux",
+        "answer": "HUES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Convent residents \u2014 like those evoked as Lindsey Graham's funeral ceremonies begin with world leaders including Netanyahu and Zelenskyy in attendance",
+        "answer": "NUNS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Era, like the one Sam Altman declared had arrived when he announced the AI singularity",
+        "answer": "EPOCH",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Pacific island nation \u2014 like the small countries evoked as Chad joins a raft of withdrawals from the International Criminal Court",
+        "answer": "NAURU",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Sesame Street's Bert's pal \u2014 like the characters evoked as Cracker Barrel's CEO steps down a year after a logo debacle that drew Trump's attention",
+        "answer": "ERNIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Kitchen meas. abbrs. \u2014 like those in recipes evoked as Coca-Cola tops earnings and hikes its full-year outlook on climbing drink demand",
+        "answer": "TSPS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
