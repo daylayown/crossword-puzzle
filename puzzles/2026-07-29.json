@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-29",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "C",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "B",
+      "E",
+      "B",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "L",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "G",
+      "E",
+      "L",
+      "E",
+      "E"
+    ],
+    [
+      "#",
+      "B",
+      "A",
+      "S",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Frozen out \u2014 like FEMA disaster grants that Trump killed after they'd already been approved",
+        "answer": "ICED",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Jazz style \u2014 like the music genre evoked as BTS announce they won't submit music to the Grammy Awards",
+        "answer": "BEBOP",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Grilled corn on the cob, Mexican-style \u2014 like street foods evoked as Keiko Fujimori is inaugurated as Peru's president",
+        "answer": "ELOTE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Fruit-based jelly \u2014 like the preserves evoked as J&J reaches a sweeping talc settlement ending a decade of litigation",
+        "answer": "GELEE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Soak up rays \u2014 like beachgoers as a Southwest U.S. double-peaked heatwave builds into August",
+        "answer": "BASK",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ you to reconsider\" \u2014 like Zelenskyy's plea as he met Trump at the White House seeking more U.S. cooperation",
+        "answer": "IBEG",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Famous person \u2014 like Jared Leto, accused of criminal sexual conduct in a new BBC documentary",
+        "answer": "CELEB",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Deadly viral outbreak \u2014 like the disease whose surging DR Congo cases strained health systems, per recent reports",
+        "answer": "EBOLA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Lavishes affection on \u2014 like Trump, who praised Jay Clayton before confirming him as the new director of national intelligence",
+        "answer": "DOTES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Sneak a look \u2014 like investors eyeing the Fed ahead of its critical interest rate decision",
+        "answer": "PEEK",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
