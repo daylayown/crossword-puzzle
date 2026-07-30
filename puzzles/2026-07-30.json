@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-30",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "O",
+      "W",
+      "N",
+      "#"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "B",
+      "S"
+    ],
+    [
+      "A",
+      "D",
+      "L",
+      "A",
+      "I"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "N",
+      "O",
+      "R",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Cut short \u2014 like the grass at Dulles Airport where travelers say good riddance to those 'people mover' shuttles",
+        "answer": "MOWN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Spills secrets \u2014 like Fauci's pandemic diary, which reveals a starstruck Julia Roberts and Trump gasping for oxygen",
+        "answer": "BLABS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Stevenson, twice-failed presidential candidate \u2014 like the political figures evoked as Senate panel delays vote on Blanche attorney general nomination",
+        "answer": "ADLAI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Passover meal \u2014 like the Jewish traditions evoked as Israel slams Canada for opposing West Bank settlement expansion",
+        "answer": "SEDER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Seaweed wrap \u2014 like the Japanese foods evoked as Japan's earthquake sent 'volcanic ash'-like debris falling inside an Aeon mall",
+        "answer": "NORI",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Business school grads, for short \u2014 like the credentials sought as Microsoft stock rises on strong earnings with cloud as a bright spot",
+        "answer": "MBAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "From a bygone era \u2014 like the 30-year-dormant terror court the Trump administration invoked to deport an Afghan woman tied to an Election Day plot",
+        "answer": "OLDEN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Where's ___? \u2014 like the question posed as the Apalachee High School shooter was sentenced to life without parole, leaving victims' families searching for answers",
+        "answer": "WALDO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "LeBron, e.g., informally \u2014 like the players whose prospects could be dealt by the MLB Trade Deadline, one for each team",
+        "answer": "NBAER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Apple voice assistant \u2014 like the tech evoked as Tim Cook's last earnings call comes at a momentous time with Apple stock at a record",
+        "answer": "SIRI",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
