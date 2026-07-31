@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-31",
+  "size": 5,
+  "grid": [
+    [
+      "V",
+      "I",
+      "D",
+      "A",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "U",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "A",
+      "M"
+    ],
+    [
+      "Y",
+      "A",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "S",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Life, in Spanish \u2014 like the language in headlines as Spain's leader rushes to Ceuta after thousands of migrants burst across the border",
+        "answer": "VIDA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Birth support specialist \u2014 like those whose services may be sought as the VA launches a trial of GLP-1 drugs to treat alcohol abuse",
+        "answer": "DOULA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "The ___, classic elite squad \u2014 like the task force Trump assembled for his 'Freedom Haulers' initiative",
+        "answer": "ATEAM",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Harvard rival, informally \u2014 like the Ivy Leaguer credentials at play as the Senate committee advances Dr. Erica Schwartz to be Trump's CDC director",
+        "answer": "YALIE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "ID numbers on file \u2014 like the data at stake as U.S. spy agencies suspect Iran launched a cyberattack on Minnesota water facilities",
+        "answer": "SSNS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Holiday marking a WWII Allied victory \u2014 like the wartime echoes as a Russian missile detonates in Poland after NATO jets scramble",
+        "answer": "VDAY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Tiny amounts \u2014 like the minuscule DNA contributions from 2 newly discovered 'ghost' lineages found in modern humans",
+        "answer": "IOTAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Formal showdowns \u2014 like the legal battles ahead as Fauci could face criminal charges for refusing Senate COVID questions",
+        "answer": "DUELS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "French name \u2014 like those of diplomats in the headlines as France's wildfires near Bordeaux threaten the country's wine industry",
+        "answer": "ALAIN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Iowa college town \u2014 like the Midwest locales bracing for flooding as 4+ inches of rain threatens Minnesota",
+        "answer": "AMES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
