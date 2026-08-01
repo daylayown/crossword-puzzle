@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-01",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "I",
+      "N",
+      "S",
+      "#"
+    ],
+    [
+      "I",
+      "M",
+      "A",
+      "C",
+      "S"
+    ],
+    [
+      "G",
+      "O",
+      "T",
+      "A",
+      "T"
+    ],
+    [
+      "S",
+      "U",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "H",
+      "E",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Distills spirits \u2014 like the alcohol-disorder treatment VA is now studying with GLP-1 drugs",
+        "answer": "GINS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Apple desktops \u2014 like the hardware evoked as Microsoft stock rockets 15% in its largest single-day jump ever",
+        "answer": "IMACS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Irritated \u2014 like Trump, who publicly lashed out at political enemies from Camp David",
+        "answer": "GOTAT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Bolivia's constitutional capital \u2014 like Latin American cities in the news as Peru swears in its new president",
+        "answer": "SUCRE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Pronoun for a group \u2014 like the Hamas leadership Trump is brokering a disarmament deal with",
+        "answer": "THEM",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Concert bookings \u2014 like those canceled for North West after her tour was scrapped",
+        "answer": "GIGS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "\"I'm done!\" \u2014 like Infantino, who abandoned plans to sell World Cup profits to private equity after massive pushback",
+        "answer": "IMOUT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Of course \u2014 like the obvious conclusion as Trump's approval hits its lowest point of his second term, per Nate Silver",
+        "answer": "NATCH",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Alarm \u2014 like the one raised as DR Congo's Ebola outbreak becomes the world's second-largest ever",
+        "answer": "SCARE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Science and tech field \u2014 like those at risk as Anthropic and OpenAI cyber failures point to U.S. security vulnerabilities",
+        "answer": "STEM",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
