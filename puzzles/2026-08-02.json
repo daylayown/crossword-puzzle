@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-02",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "E",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "B",
+      "E",
+      "D"
+    ],
+    [
+      "B",
+      "E",
+      "R",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "W",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "#",
+      "S",
+      "M",
+      "E",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Senate spot Tillis says Blanche won't be filling as AG fight heats up",
+        "answer": "SEAT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Laid up, as a Virpazar pilot who ejected safely after an F-35B crash in California",
+        "answer": "INBED",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Yogi ___, whose namesake ballpark echoes as the Dodgers acquire Tarik Skubal in a blockbuster trade",
+        "answer": "BERRA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Buzzing cloud, like Iranian drones Kuwait shot down as the Mideast braced for escalation",
+        "answer": "SWARM",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Captain Hook's first mate, like the 'right-hand man' spotted with 'Sopranos' star Vincent Pastore weeks before his death",
+        "answer": "SMEE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Brothers and sisters, like the children Lindsay Clancy killed \u2014 jurors visited the home where it happened",
+        "answer": "SIBS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Digital dispatch, like updates covering the US-Iran war as Trump called off planned strikes",
+        "answer": "ENEWS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Sec. ___ \u2014 like the name evoked as Trump's housing regulator Pulte hands intel reins to Jay Clayton",
+        "answer": "ABRAM",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Haute-___, French region whose name fits as wildfires spread across Greece with conditions worsening in France and Spain",
+        "answer": "TERRE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Title for a university official, like those at schools as measles hits a record resurgence across the U.S.",
+        "answer": "DAME",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
