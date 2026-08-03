@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-03",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "I",
+      "N",
+      "S",
+      "#"
+    ],
+    [
+      "I",
+      "S",
+      "A",
+      "I",
+      "D"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "K",
+      "S"
+    ],
+    [
+      "#",
+      "M",
+      "P",
+      "A",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Containers recalled when 23K lbs of spaghetti and chicken cobbler were found to have metal fragments",
+        "answer": "TINS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"___ what I said\" \u2014 like the defiant tone of Rep. Max Miller refusing to drop out after domestic abuse allegations",
+        "answer": "ISAID",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Ancient philosopher whose academy echoes as AI colleges see everyone rushing to study computer science",
+        "answer": "PLATO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Fires \u2014 like those handed out as the Senate GOP rushes to pass a budget bill and avoid a shutdown",
+        "answer": "SACKS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Film ratings body relevant as 'Spider-Man: Brand New Day' swings to a massive $121M China opening",
+        "answer": "MPAA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Gratuities \u2014 like the extra charges Truth Social users pay for faster access to Trump's posts",
+        "answer": "TIPS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Faith relevant as Afghanistan's detained leader Aung San Suu Kyi got a rare Red Cross visit",
+        "answer": "ISLAM",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Civil rights org relevant as Kay Granger, first Republican woman from Texas to serve in the House, died at 83",
+        "answer": "NAACP",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Alaska city whose name fits as Washington state wildfires force 60,000 people to evacuate their homes",
+        "answer": "SITKA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "South Indian crepe \u2014 like the foods evoked as India's youth 'cockroach' movement turns against Modi over employment exams",
+        "answer": "DOSA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
