@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-04",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "I",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "E",
+      "X",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "I",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "#",
+      "Y",
+      "E",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Judge ___ Totenberg, whose court ruled New York can't ban federal agents from wearing face coverings",
+        "answer": "NITA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"To be\" \u2014 as in whether US-Iran nuclear talks will ___ after a cargo ship was struck near the Strait of Hormuz",
+        "answer": "EXIST",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Opponents \u2014 like those of Trump's new tariffs, as Democratic states sue to challenge them",
+        "answer": "ANTIS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Spinach-based dish \u2014 like the cuisine evoked as India's youth employment protests push against Modi",
+        "answer": "PALAK",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Desires \u2014 like Wall Street's appetite for access behind Trump's presidential paywall, per Axios",
+        "answer": "YENS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Low tide \u2014 like the record-low Rhine River levels as drought strains Europe's rivers this summer",
+        "answer": "NEAP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Veto signal \u2014 like the one Blanche may face as he's poised for a Senate confirmation vote after killing Trump's fund",
+        "answer": "IXNAY",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Championship \u2014 like the one Spider-Man: Brand New Day is chasing after breaking multiple box office records",
+        "answer": "TITLE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "___ heat \u2014 like the record-breaking temperatures hitting East Asia, killing three lions in a Tokyo zoo",
+        "answer": "ASIAN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Disapproving sounds \u2014 like those aimed at Samsung after it banned smart TV apps that shared users' internet connections with strangers",
+        "answer": "TSKS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
