@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-05",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "N",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "P",
+      "E",
+      "T",
+      "C",
+      "O"
+    ],
+    [
+      "O",
+      "C",
+      "H",
+      "O",
+      "A"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "#",
+      "O",
+      "N",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "El-___ Sayed, who holds a narrow lead in Michigan's Senate primary",
+        "answer": "INES",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Pet supply chain evoked as Bernie Moreno accuses Max Miller of holding a granddaughter's bunny 'hostage'",
+        "answer": "PETCO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Lorena ___, whose surname fits as a Mexican influencer named Cesar Gastelum was shot dead during a livestream",
+        "answer": "OCHOA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Wrap up \u2014 like how Gulf shipping traffic is staying steady amid uncertainty over Hormuz peace talks",
+        "answer": "SCARF",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Dollar bills \u2014 like those voters cast aside as Missouri voters rejected an income tax phaseout at the ballot box",
+        "answer": "ONES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Wall Street debut offerings \u2014 like those evoked as SpaceX shares sink after its first earnings report reveals huge AI spending plans",
+        "answer": "IPOS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Classic candy wafer brand evoked as Chipotle removes jalape\u00f1os linked to a Salmonella outbreak from its restaurants",
+        "answer": "NECCO",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "___ Allen, whose first name fits as Jan. 6 Oath Keepers charges were dismissed, paining the presiding judge",
+        "answer": "ETHAN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Disney's earnings ___ \u2014 topped estimates as parks and streaming offered a boost",
+        "answer": "SCORE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Bunglers \u2014 like those behind the FAA's investigation into a Marine One safety incident in Washington",
+        "answer": "OAFS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
