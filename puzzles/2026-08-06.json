@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-06",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "E",
+      "E",
+      "T",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "V",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Insect repellent letters relevant as the Spokane Complex Fire forces crews into smoke-filled terrain for 16-hour shifts",
+        "answer": "DEET",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "David ___, playwright whose name fits as Regal Cinemas CEO backs the Paramount-Warner Bros. merger",
+        "answer": "MAMET",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Digital invitation \u2014 like the kind sent as New York legalizes medical aid in dying after a decade-long battle",
+        "answer": "EVITE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Greek island \u2014 like the Mediterranean locales evoked as tensions rise in Lebanon after Israel's latest strikes",
+        "answer": "DELOS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Dispatched \u2014 like the intelligence the U.S. is now sharing again with Ukraine, per recent reports",
+        "answer": "SENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Slid into someone's inbox \u2014 like messages sent as the Senate committee prepares to vote on holding Fauci in contempt",
+        "answer": "DMED",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Roof overhangs \u2014 like the shelter sought as wildfires wreck a French village and residents demand answers",
+        "answer": "EAVES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "French name \u2014 like those evoked as Pope Leo announces a November visit to Uruguay, Argentina, and Peru",
+        "answer": "EMILE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Grand ___ \u2014 like the mountain range near wildfire-threatened areas as the Gann Fire sparked arrests in Northern California",
+        "answer": "TETON",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Clinical trial \u2014 like the Phase 1 Ebola vaccine study Moderna just launched against the DRC outbreak strain",
+        "answer": "TEST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
