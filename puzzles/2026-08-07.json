@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-07",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "P",
+      "T",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "N",
+      "I",
+      "G",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "R",
+      "A",
+      "S",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Dwellings \u2014 like housing costs that pushed mortgage rates to their highest level in over a year",
+        "answer": "APTS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Shallow water hazard \u2014 like the navigational risks evoked as Iran seeks to bar U.S. ships and control the Strait of Hormuz",
+        "answer": "SHOAL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Domingo, e.g. \u2014 like the Latin names evoked as Mexican avocado exports to the U.S. were halted again",
+        "answer": "SANTO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Farage, U.K. politician \u2014 like the British figures in the news as the U.K. approves the Paramount-Warner Bros. merger",
+        "answer": "NIGEL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Tabula ___ \u2014 fitting as Trump signs new executive orders targeting birthright citizenship and 'birth tourism'",
+        "answer": "RASA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Org. abbr. \u2014 like the groups evoked as the union representing IRS workers asks a judge to block Trump's tax audit immunity deal",
+        "answer": "ASSN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Liz ___, indie rock artist \u2014 like the musicians evoked as Lionel Richie's concert at Chase Center was postponed due to a medical emergency",
+        "answer": "PHAIR",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Pacific island nation \u2014 like the small countries in the news as Pacific ministers fail to agree on a China missile response",
+        "answer": "TONGA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Fills completely \u2014 like the capacity the Powerball jackpot soared to $856 million, satisfying lottery players nationwide",
+        "answer": "SATES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Name evoked as a Russian drone attacked the German cargo ship 'EMIL' in the Black Sea",
+        "answer": "LOLA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
