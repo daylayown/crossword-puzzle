@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-08",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "I",
+      "P",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "F",
+      "I",
+      "E"
+    ],
+    [
+      "R",
+      "O",
+      "L",
+      "E",
+      "X"
+    ],
+    [
+      "K",
+      "N",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "G",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Small marks \u2014 like the minor errors riddling DOGE's vastly inflated $110B savings claim, per GAO",
+        "answer": "PIPS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Classic British name \u2014 like those evoked as Obama improvised lines for his acting cameo in 'Life, Larry'",
+        "answer": "ALFIE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Luxury watch brand \u2014 like the high-end goods evoked as Trump's $400M White House ballroom project was blocked by a U.S. appeals court",
+        "answer": "ROLEX",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Jack in the deck \u2014 like the card-game imagery as Senate conservatives and Trump reached a deal to set aside the SAVE America Act impasse",
+        "answer": "KNAVE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Eons \u2014 like the time NASA has kept its 48-year-old Voyager 2 probe running, now extended yet another year",
+        "answer": "AGES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "National recreation area \u2014 like those threatened as Lake Mead hits a record-low water level, a 'grim' milestone",
+        "answer": "PARK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Melania's first name \u2014 like the figures evoked as Trump renews his push to fire Fed Governor Lisa Cook",
+        "answer": "ILONA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "LGBTQ+ families org \u2014 like advocacy groups in the news as a Virginia judge orders a county to replace Confederate names it restored to schools",
+        "answer": "PFLAG",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Strainer \u2014 like the porous vetting evoked as New Jersey launches an investigation into the Delaney Hall ICE facility",
+        "answer": "SIEVE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Former flames \u2014 like those in bitter Michigan primary fallout as Democrats try to present a united front after the contest",
+        "answer": "EXES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
