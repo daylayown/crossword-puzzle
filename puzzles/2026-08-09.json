@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-09",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "E",
+      "G",
+      "S",
+      "#"
+    ],
+    [
+      "B",
+      "R",
+      "O",
+      "O",
+      "D"
+    ],
+    [
+      "Q",
+      "A",
+      "N",
+      "D",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "#",
+      "O",
+      "W",
+      "I",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pleads \u2014 like Hunter Biden urging the public to care about his father's worsening cancer",
+        "answer": "BEGS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Hatches \u2014 like the drone 'hellscape' strategy Pentagon planners devised to stop a Chinese invasion of Taiwan",
+        "answer": "BROOD",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Session format \u2014 like the one Demis Hassabis might face after stepping down at Google DeepMind",
+        "answer": "QANDA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Informant's seat \u2014 like the one Sen. Johnson claims Fauci's 34,000 COVID-era texts put him on",
+        "answer": "STOOL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Exclamation for a minor injury \u2014 like those suffered as a helicopter crash killed pilot and crew battling Utah wildfires",
+        "answer": "OWIE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Backyard grills \u2014 like those Kyle Shanahan might have been heading to when his car was on autopilot during his accident",
+        "answer": "BBQS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Muse of love poetry \u2014 like the inspiration behind MacKenzie Scott's new book as she steps back into the spotlight",
+        "answer": "ERATO",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Command to leave \u2014 like the order given to 20,000 fleeing as British Columbia declared a wildfire state of emergency",
+        "answer": "GONOW",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "\"Me too\" \u2014 like the agreement as the Senate passed a stopgap funding bill to prevent a government shutdown",
+        "answer": "SODOI",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "DALE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
