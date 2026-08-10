@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-10",
+  "size": 5,
+  "grid": [
+    [
+      "E",
+      "L",
+      "L",
+      "A",
+      "#"
+    ],
+    [
+      "H",
+      "O",
+      "H",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "H",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "W",
+      "A",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "A",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Jazz singer's name evoked as Don Nelson, Celtics champion and Hall of Fame coach, dies at 86",
+        "answer": "ELLA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Snack cakes recalled alongside pastrami and corned beef flagged for possible Listeria contamination",
+        "answer": "HOHOS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Chicago airport evoked as Amtrak suspends Seattle-Portland service indefinitely after a warehouse fire",
+        "answer": "OHARE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "What Elon Musk's DOGE efforts amounted to, per an internal analysis calling the spending cuts 'incompetent'",
+        "answer": "WASTE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Bread evoked as Western Europe sets a new temperature record amid punishing heat waves",
+        "answer": "NAAN",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tutorial site whose name fits as AI creates 16 new viruses after learning DNA patterns from 9 trillion nucleotides",
+        "answer": "EHOW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Lindsay ___, whose namesake evokes the mental-health focus of the 'America's saddest murder trial' case",
+        "answer": "LOHAN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Tibetan capital whose region's name fits as China evacuates more than 1 million people ahead of Typhoon Dolphin",
+        "answer": "LHASA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Heart vessel evoked as Florida reports another death from flesh-eating bacteria Vibrio vulnificus",
+        "answer": "AORTA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Spotted, like a SpaceX rocket's Moon impact captured by a South Korean satellite",
+        "answer": "SEEN",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
