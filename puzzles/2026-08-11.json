@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-11",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "E",
+      "W",
+      "S",
+      "#"
+    ],
+    [
+      "E",
+      "D",
+      "I",
+      "T",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "A",
+      "S",
+      "P",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tailors garments \u2014 like the fashion industry evoked as Anne Hathaway's jam-packed movie year includes an adaptation of hit novel 'Yesteryear'",
+        "answer": "SEWS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Cuts and revises \u2014 like what Bluesky now does to your feed, letting you hide reposts from annoying follows",
+        "answer": "EDITS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Reproduction copy \u2014 like the authentication Apple's new iOS 27 'Reference Image' feature aims to verify against fakes",
+        "answer": "REPRO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Islamic 'so be it' \u2014 like the faith echoed as Iran's IRGC hardliner Mohsen Rezaei is appointed to a key security role",
+        "answer": "AMEEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Venomous snakes \u2014 like the dangers evoked as Louisiana warns of a rise in flesh-eating bacteria infections along waterways",
+        "answer": "ASPS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Blood-based serums \u2014 like the medical treatments relevant as Trump signs an executive order to split up the MMR vaccine",
+        "answer": "SERA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Tissue swelling \u2014 like the bodily harm doctors warn of as CKM syndrome affects 90% of Americans, per new reports",
+        "answer": "EDEMA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Cleans up \u2014 like efforts after the Colombia earthquake rescue teams pressed on as the death toll climbed past 132",
+        "answer": "WIPES",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Throat infection, informally \u2014 like ailments relevant as RFK Jr.'s new food guidelines change what's on American plates",
+        "answer": "STREP",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Male offspring \u2014 like those evoked as Lauren Boebert's adult son faces felony charges of sexual exploitation of a child",
+        "answer": "SONS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
