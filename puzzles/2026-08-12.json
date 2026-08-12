@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-12",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "E",
+      "C",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "U",
+      "T"
+    ],
+    [
+      "P",
+      "I",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "L",
+      "O"
+    ],
+    [
+      "#",
+      "T",
+      "O",
+      "Y",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Spotify-style suggestions \u2014 like those Trump rolled back when he targeted recommended vaccines",
+        "answer": "RECS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Native Alaskan \u2014 like those near Vandenberg SFB where SpaceX launched 24 Starlink satellites on a Falcon 9",
+        "answer": "ALEUT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Capsules \u2014 like the medications prescribed before Lindsay Clancy killed her 3 children, per trial testimony",
+        "answer": "PILLS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Chicken, in 'Taco ___' \u2014 like the restaurant tied to the multistate cyclosporiasis lettuce outbreak",
+        "answer": "POLLO",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Playthings \u2014 like the ultrarare Nintendo Mario game cartridges discovered in Wisconsin",
+        "answer": "TOYS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Wisconsin rapper's name \u2014 like those in the news as David Crowley wins the Democratic primary there",
+        "answer": "RAPP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "George ___, novelist \u2014 like the literary names evoked as the Bayeux Tapestry arrived at the British Museum",
+        "answer": "ELIOT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Stringed instrument \u2014 like those at Rod Stewart's canceled US tour after his 'routine' heart procedure",
+        "answer": "CELLO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "To taint or besmirch \u2014 like Trump's reputation after Air Force One was used as a flying decoy while he was secretly evacuated",
+        "answer": "SULLY",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "General ___ chicken \u2014 like the Chinese-American dish evoked as EVs dominate China's car market per latest auto sales data",
+        "answer": "TSOS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
