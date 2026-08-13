@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-13",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "U",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "H",
+      "R",
+      "U",
+      "G"
+    ],
+    [
+      "A",
+      "H",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "U",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "H",
+      "E",
+      "R",
+      "B"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Day Chicago's derecho spawned 5 tornadoes, abbr.",
+        "answer": "TUES",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Reaction Leavitt's successor might give to tough press briefing questions",
+        "answer": "SHRUG",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Spanish 'now' \u2014 like the urgency as Iran disputes Trump's claim of Hormuz 'total control'",
+        "answer": "AHORA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "More uncivil \u2014 like ICE's electric shock gloves plan, which critics called crueler than current methods",
+        "answer": "RUDER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Botanical ingredient \u2014 like those in healthier ice cream recipes as makers bet consumers still want treats",
+        "answer": "HERB",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Autocrat's title \u2014 like Putin, who angered Japan by making his first visit to the disputed Kuril Islands",
+        "answer": "TSAR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Sound of agreement \u2014 like the nod Westbrook got from fans after announcing his NBA retirement",
+        "answer": "UHHUH",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Wear away \u2014 like what record heat is doing to Europe's major river banks as drought dries them up",
+        "answer": "ERODE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "More confident \u2014 like Goldman Sachs's outlook, citing Japan's $1 trillion reserves for yen interventions",
+        "answer": "SURER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Outfit \u2014 like the attire of Reform UK's Farage facing off against Count Binface in an election",
+        "answer": "GARB",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
