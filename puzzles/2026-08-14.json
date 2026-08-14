@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-14",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "R",
+      "U",
+      "B",
+      "#"
+    ],
+    [
+      "L",
+      "I",
+      "B",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "E",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Food, slangily \u2014 like the cyclospora-tainted lettuce causing record price plunges at grocery stores",
+        "answer": "GRUB",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Open-source, as in ___ Office \u2014 like the software freedom Google is pushing as a judge orders it to ease rival app store installs",
+        "answer": "LIBRE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Love, in French \u2014 like the romance evoked as Bill Ackman puts 5% of his fund into Netflix stock",
+        "answer": "AMOUR",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Airline launching Austin's first nonstop flight to Paris in 2027",
+        "answer": "DELTA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Editor's 'leave it' mark \u2014 like what the DOJ said about rules deregulating silencers after leaving a ruling in place",
+        "answer": "STET",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Happy \u2014 like investors as Asian stocks head for strong weekly gains while US rate hike bets fade",
+        "answer": "GLAD",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Frost crystals \u2014 like the cold imagery contrasting Europe's extreme heat wave as relief is finally on the horizon",
+        "answer": "RIMES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Fastener type \u2014 like the hardware evoked as Czinger debuts topology-optimized brakes on its 21C Spyder hypercar",
+        "answer": "UBOLT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Savage force \u2014 like what three simultaneous US executions, the first since 2010, represent to death penalty critics",
+        "answer": "BRUTE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Latin 'it was' \u2014 like the phrase evoking the past as Afghan women mark five years erased from public life under Taliban rule",
+        "answer": "ERAT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
