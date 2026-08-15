@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-15",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "L",
+      "O",
+      "W",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "G",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "O",
+      "D",
+      "A",
+      "I"
+    ],
+    [
+      "S",
+      "N",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "#",
+      "S",
+      "N",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Mustang loses its roof but keeps the supercharged V8 \u2014 like this devastating wind event",
+        "answer": "BLOW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Seth ___, whose first name fits as Adam Driver joins the new X-Men cast unveiled today",
+        "answer": "ROGEN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Traditional Vietnamese dress \u2014 like the garments evoked as North Korea fumes over upcoming US-South Korea military drills",
+        "answer": "AODAI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "H\u00e4gar's dog \u2014 like the comics character evoked as a Kentucky woman was arrested for vandalizing the WWII Memorial in D.C.",
+        "answer": "SNERT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Classic Nintendo console, abbr. \u2014 like the gaming hardware evoked as ultra-rare Nintendo cartridges found in storage could be worth millions",
+        "answer": "SNES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Undergarments \u2014 like the attire recalled as the FDA upgrades the egg recall to its highest risk level over salmonella fears",
+        "answer": "BRAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Minnesota state birds \u2014 like the wildlife evoked as federal surveillance in Minnesota targeted progressive groups and unions",
+        "answer": "LOONS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Utah city \u2014 like the Western locales in the news as Tyson Foods closes its Eagle Mountain facility, cutting 723 jobs",
+        "answer": "OGDEN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "New Hampshire town \u2014 like the small communities in the news as Trump stumps in N.Y. suburbs highlighting a dilemma for his party",
+        "answer": "WEARE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Small flaws \u2014 like the errors in Big Bend's bulldozed terrain as Trump's border work pushes through the national park",
+        "answer": "NITS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
