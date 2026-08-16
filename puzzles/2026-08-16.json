@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-16",
+  "size": 5,
+  "grid": [
+    [
+      "Y",
+      "E",
+      "L",
+      "L",
+      "#"
+    ],
+    [
+      "A",
+      "P",
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "D",
+      "I",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "N",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Cry out \u2014 like Virginia State University students fleeing after a shooting wounded five on campus",
+        "answer": "YELL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Divided \u2014 like Democrats finalizing a 2028 primary calendar that moves diverse states to the front of the line",
+        "answer": "APLIT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Princess ___ \u2014 like the royals evoked as Liechtenstein changes rules to allow women to inherit its throne",
+        "answer": "DIANA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Peaks \u2014 like the record highs SpaceX hit launching two Falcon 9 rockets just 38 minutes apart",
+        "answer": "ACMES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Went under \u2014 like the Ryanair plane window a man's head got sucked into, per the NTSB's broken-engine findings",
+        "answer": "SANK",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ ___ ___ (so forth)\" \u2014 like the empty talk as Trump backs a Republican challenger to oust Letitia James in New York",
+        "answer": "YADA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Grand narratives \u2014 like the saga of Ukraine striking Russia's Samara industrial site in a ramp-up of long-range attacks",
+        "answer": "EPICS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "South American animal \u2014 like those evoked as Lula returns to his political origins to launch a fourth-term campaign in Brazil",
+        "answer": "LLAMA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Fabric \u2014 like the cloth evoked as archaeologists uncover a mysterious face hidden for centuries in a Book of Revelation city",
+        "answer": "LINEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Assignment \u2014 like the one NASA gave its 'Max Power' aerospace expo, rallying confidence in the Artemis 3 mission",
+        "answer": "TASK",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
