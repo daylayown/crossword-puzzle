@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-17",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "Y",
+      "M",
+      "Y",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "O",
+      "U",
+      "L"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "E",
+      "L",
+      "S",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"___ ___!\" \u2014 cry of disbelief, like voters reacting as polls show most Americans feel worse off under Trump",
+        "answer": "MYMY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "First name of Wallenberg, the Swedish diplomat \u2014 like the foreign heroes evoked as Kushner met Hamas in a Gaza deal push",
+        "answer": "RAOUL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Nooyi, former PepsiCo CEO \u2014 like the business titans evoked as Berkshire Hathaway boosted its stake in Alphabet in Q2",
+        "answer": "INDRA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Animal droppings \u2014 like the waste evoked as dolphins in Australia learned to tip fish from seashells, a rare tool-use discovery",
+        "answer": "SCATS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "\"Or ___\" \u2014 like the ultimatum as U.S. and Iran blow through a deadline to agree on a broad deal to end the war",
+        "answer": "ELSE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Brain scans, for short \u2014 like the medical imaging evoked as waistline measurements reveal hidden heart risks that BMI misses",
+        "answer": "MRIS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "___ Ford, filmmaker \u2014 like those honoring Bob Iger at Disney Legends alongside Robert Downey Jr. and Harrison Ford",
+        "answer": "YANCE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Jazz scale type \u2014 like the musical terms evoked as Arsenal humbled Man City to win the Community Shield",
+        "answer": "MODAL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Portable tent shelters \u2014 like the temporary housing evoked as Indiana prepares for more deadly flooding after record-setting storms",
+        "answer": "YURTS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Zap with a beam \u2014 like the precision strikes as UK-made drones struck targets inside Russia",
+        "answer": "LASE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
