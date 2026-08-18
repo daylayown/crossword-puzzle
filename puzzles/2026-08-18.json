@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-18",
+  "size": 5,
+  "grid": [
+    [
+      "E",
+      "E",
+      "L",
+      "S",
+      "#"
+    ],
+    [
+      "I",
+      "D",
+      "Y",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "T",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Slippery creatures, like those evoked as NASA found a clever way to keep Voyager 2 alive in deep space \u2014 snaking power from unused thrusters",
+        "answer": "EELS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Peaceful scene, like the calm shattered as Kyiv launched one of its biggest drone attacks yet on Moscow with 620 drones",
+        "answer": "IDYLL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "First name of Zellweger \u2014 like the stars evoked as Hayden Panettiere's autopsy results were shared after her sudden death",
+        "answer": "RENEE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Concluded, like the 60-day Iran peace deal deadline that expired with talks still stalled",
+        "answer": "ENDED",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "College entrance exams, like those disrupted as a rare Philippines school shooting left a student and teen gunman dead",
+        "answer": "SATS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ireland, formally \u2014 like the nation evoked as Russia warned Britain of 'consequences' for supplying drones to Ukraine",
+        "answer": "EIRE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Paradise retreats, like the calm broken as Congo's fast-moving Ebola outbreak became the country's worst with over 2,300 dead",
+        "answer": "EDENS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "First name of a Carter \u2014 like the political figures evoked as Trump traveled to Myrtle Beach to rally for Darline Graham",
+        "answer": "LYNDA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Wintry mix, like weather concerns as a Super El Ni\u00f1o raises chances of unusual snowfall across the US",
+        "answer": "SLEET",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Lighting diodes, like the tech evoked as Apple's camera-equipped AirPods were confirmed and seen in action",
+        "answer": "LEDS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
