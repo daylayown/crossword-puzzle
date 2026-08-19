@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-19",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "Y",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "A",
+      "N"
+    ],
+    [
+      "A",
+      "P",
+      "I",
+      "T",
+      "Y"
+    ],
+    [
+      "Y",
+      "E",
+      "T",
+      "I",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "N",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Colors hair, like the style choices evoked as Hilary Duff shares memories of Hayden Panettiere navigating young fame",
+        "answer": "DYES",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Sofa-style seat, like the furniture evoked as a Penn State frat cocaine ring leader was arraigned and denied bail",
+        "answer": "DIVAN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "\"___ shame\" \u2014 like the reaction as Trump's endorsed Wyoming governor pick lost the primary",
+        "answer": "APITY",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Mythical Himalayan creatures, like the legends evoked as layered rock in India shows potential signs of microbial life dating 3.5 billion years ago",
+        "answer": "YETIS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Levelheaded, like Zelenskyy's wartime posture as his former defense chief challenges him to hold elections",
+        "answer": "SANE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "WWII Allied invasion \u2014 like the wartime echoes as U.S. military drills with South Korea were cut short after a surprise Trump order",
+        "answer": "DDAY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Cry of alarm \u2014 like the reaction as vaccination rates fall and more parents opt out, per new reports",
+        "answer": "YIPES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Musical about Argentina's first lady \u2014 like the political dramas evoked as Byron Donalds wins the GOP nod for Florida governor",
+        "answer": "EVITA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Smooth fabric \u2014 like the luxury materials evoked as Trump's Mar-a-Lago ballroom rises at breakneck speed, 20 hours a day",
+        "answer": "SATIN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Wall Street exchange, relevant as the Chinese robot maker Unitree soared 500 percent in its trading debut",
+        "answer": "NYSE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
