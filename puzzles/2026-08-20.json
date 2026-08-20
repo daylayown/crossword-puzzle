@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-20",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "K",
+      "I",
+      "D",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "G",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"___ you not\" \u2014 like Trump's tone as he boasted about the White House's ornate new helipad and renovations",
+        "answer": "IKID",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Expert \u2014 like the psychologist who testified Lindsay Clancy was not criminally responsible for her children's deaths",
+        "answer": "MAVEN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "\"Bring your ___\" \u2014 like the effort Taiwan is signaling with its record defense budget aimed at the U.S. and China",
+        "answer": "AGAME",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Hands, in Spanish \u2014 like the language evoked as Colombia's earthquake took a heavy toll on an impoverished, neglected region",
+        "answer": "MANOS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Thomas ___, 19th-century cartoonist \u2014 like the satirists evoked as 'More of Trump's Chosen Candidates Lose Republican Primaries'",
+        "answer": "NAST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Muslim prayer leader \u2014 like the faith figures evoked as Trump announces his 'most crushing economic operation ever' against Iran",
+        "answer": "IMAM",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Elena ___, Supreme Court Justice \u2014 like the jurists relevant as a Missouri judge cleared a redrawn congressional map for use in midterms",
+        "answer": "KAGAN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Prince Harry and Meghan's daughter \u2014 like the royals returning to the U.K. with their children",
+        "answer": "IVANA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Political rallies \u2014 like those energized as Democratic socialist Angie Nixon won Florida's Senate primary",
+        "answer": "DEMOS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Bird's home \u2014 like the one NASA and Katalyst Space abandoned plans to boost as the Swift observatory reboost mission was scrapped",
+        "answer": "NEST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
