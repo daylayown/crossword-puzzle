@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-21",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "O",
+      "L",
+      "T",
+      "#"
+    ],
+    [
+      "I",
+      "D",
+      "I",
+      "E",
+      "D"
+    ],
+    [
+      "D",
+      "A",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "E",
+      "W",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "#",
+      "A",
+      "D",
+      "A",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Lightning ___ \u2014 like the storms that spawned tornado warnings across New York City and the Tri-State area",
+        "answer": "BOLT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"___ in a plane crash\" \u2014 like the 8 aboard a charter flight near a remote Alaska radar site",
+        "answer": "IDIED",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "\"The ___\" \u2014 Christopher Nolan's epic whose R-rated box office now tops Deadpool & Wolverine at $1.35 billion",
+        "answer": "DANTE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Pitchers without spouts \u2014 like containers evoked as Walmart stock tumbled 9% on slowing sales growth",
+        "answer": "EWERS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "\"___ compliant\" \u2014 like the ESG funds barred from Trump Accounts by the Treasury Department",
+        "answer": "ADAI",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sit tight \u2014 like Trump's stance as tariff talks leave a key Canadian official merely 'hopeful'",
+        "answer": "BIDE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Indigenous Great Lakes people \u2014 like the Native communities evoked as Nebraska's largest school district asked police to stop using electric shock gloves on students",
+        "answer": "ODAWA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Ranked \u2014 like Texas and Iowa Senate races that have tightened heading into the midterms",
+        "answer": "LINED",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Four-sided fish tank \u2014 like those evoked as a new type of quantum matter was discovered by physicists",
+        "answer": "TETRA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Arnaz of classic TV \u2014 like the figures evoked as Aisha Wahab won the special election to succeed Eric Swalwell in Congress",
+        "answer": "DESI",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
