@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-22",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "A",
+      "U",
+      "B",
+      "#"
+    ],
+    [
+      "Y",
+      "M",
+      "C",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "T",
+      "H",
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "O",
+      "I",
+      "D",
+      "S"
+    ],
+    [
+      "#",
+      "O",
+      "S",
+      "S",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Apply color, like the glyphosate the U.S. Forest Service is spraying in record amounts in California",
+        "answer": "DAUB",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Community centers \u2014 like those evoked as Trump's 'America's saddest murder trial' defendant Lindsay Clancy sought help for postpartum psychosis",
+        "answer": "YMCAS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Prefix for music or botany \u2014 like the cultural roots evoked as Hong Kong court convicts Tiananmen vigil group leaders of inciting subversion",
+        "answer": "ETHNO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Steroids, slangily \u2014 like the drugs evoked as Tesla faces its biggest recall yet over door handle failures",
+        "answer": "ROIDS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "___ buco \u2014 like the Italian dish evoked as Meghan is reportedly in talks to join Guy Ritchie's TV series",
+        "answer": "OSSO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Colors cloth \u2014 like the fashion evoked as Shein struggles to grow ahead of its much-delayed IPO",
+        "answer": "DYER",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "\"Same here!\" \u2014 like Gavin Newsom's unlikely agreement with Trump over the new Trump Accounts",
+        "answer": "AMTOO",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Kali ___, R&B artist \u2014 like the musicians evoked as Klay Thompson's contract was bought out and he's set to join Giannis in Miami",
+        "answer": "UCHIS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Frequency ranges \u2014 like the radio signals evoked as Stars and Stripes editor was reportedly fired under Trump",
+        "answer": "BANDS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Mediocre \u2014 like the deal Iran was offered, per Trump, who says Tehran isn't ready to make the 'right' one",
+        "answer": "SOSO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
