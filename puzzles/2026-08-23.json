@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-23",
+  "size": 5,
+  "grid": [
+    [
+      "W",
+      "H",
+      "I",
+      "R",
+      "#"
+    ],
+    [
+      "R",
+      "O",
+      "W",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "H",
+      "A",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sound of robot archer at Beijing's World Humanoid Robot Games",
+        "answer": "WHIR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Paddled, like IndyCar fans who watched Trump kick off the D.C. street race",
+        "answer": "ROWED",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Come up, like new UN leadership candidates as Guyana's Birkett leads informal poll",
+        "answer": "ARISE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Out of date, like mail-in voting rules the Postal Service is trying to tighten despite court blocks",
+        "answer": "PASSE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Fake, like the agency Nigeria ordered investigated in a second fake government bureau scandal",
+        "answer": "SHAM",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Bundle up, like aid the UK, Canada and Australia are urging for Gaza after condemning Israel over aid worker killings",
+        "answer": "WRAP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Circle dances, like those evoked as a Belgian car salesman became a prince after a DNA test proved royal parentage",
+        "answer": "HORAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "\"If only!\" \u2014 like the sentiment as thousands in Indiana remain without power after deadly storms",
+        "answer": "IWISH",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "___ conference \u2014 like the press setting as Army Secretary Dan Driscoll considers stepping down",
+        "answer": "RESSA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Consider worthy, like how Turkey judges Netanyahu after requesting his arrest over flotilla activist abuses",
+        "answer": "DEEM",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
