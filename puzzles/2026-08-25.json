@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-25",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "I",
+      "B",
+      "S",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "P",
+      "E",
+      "N"
+    ],
+    [
+      "M",
+      "A",
+      "L",
+      "A",
+      "Y"
+    ],
+    [
+      "S",
+      "P",
+      "U",
+      "M",
+      "E"
+    ],
+    [
+      "#",
+      "P",
+      "S",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Called first claim on, like Canada asserting rights over its auto industry as Trump threatens new tariffs",
+        "answer": "DIBS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Behind bars, like the Army sergeant's wife who was deported to Honduras under Trump's immigration crackdown",
+        "answer": "INPEN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Indonesia wildfire haze is spreading to this neighboring country",
+        "answer": "MALAY",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Sea foam, like the frothy waters where a vessel was struck in the eastern Pacific, killing 2",
+        "answer": "SPUME",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Hushed alert, like a whisper to asylum seekers as the US plans to revoke 200,000 of their visas",
+        "answer": "PSST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lowers the lights on, like Iran's economy wilting under Trump's mounting pressure campaign",
+        "answer": "DIMS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Not suitable for download, like Hulu's canceled Mindy Kaling comedy '_____ Work'",
+        "answer": "INAPP",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Solid but not stellar grade, like Nvidia's 'surprisingly cheap' valuation heading into earnings \u2014 good but not quite an A",
+        "answer": "BPLUS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "SEAMS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Russian 'no,' like Putin's defiant posture as Ukraine marks Independence Day under bombardment",
+        "answer": "NYET",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
