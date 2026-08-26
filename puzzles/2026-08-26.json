@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-26",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "I",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "S",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "D",
+      "S",
+      "T"
+    ],
+    [
+      "S",
+      "A",
+      "G",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "C",
+      "E",
+      "N",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Take on staff, like SpaceX is doing as it builds its $100B Louisiana launch facility",
+        "answer": "HIRE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Blood-test type the FDA just approved to detect signs of Alzheimer's",
+        "answer": "ELISA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "In the thick of, like the CIA director making a rare unannounced visit to Moscow",
+        "answer": "MIDST",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Bob ___, late TV host whose surname fits as the 'Heroes' cast reunites to mourn Hayden Panettiere",
+        "answer": "SAGET",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "John ___, wrestler-turned-actor whose first name fits as 'Spider-Man: Brand New Day' tops Avengers: Endgame on the all-time domestic chart",
+        "answer": "CENA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Borders fabric, like the NFL uniforms as Bears, Lions, Packers and Vikings revealed new 'Rivalries' kits",
+        "answer": "HEMS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "ILIAC",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Spinal feature, like the terrain of the Texas ranchlands ripped through by a fast-moving wildfire",
+        "answer": "RIDGE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "German city, like the European locales evoked as a third drone was found in the Leipzig airport probe",
+        "answer": "ESSEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Mohamed ___, hijacker name recalled as U.S. halts all immigrant visa applications amid tightening restrictions",
+        "answer": "ATTA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
