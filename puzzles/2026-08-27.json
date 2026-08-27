@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-27",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "U",
+      "R",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "W",
+      "S"
+    ],
+    [
+      "H",
+      "O",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "E",
+      "S",
+      "T",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Belonging to us \u2014 like Lake Ontario, which Trump just renamed 'Lake America'",
+        "answer": "OURS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "RFK Jr. ___ anti-vaccine rubbish as a newborn died of measles, per Ars Technica",
+        "answer": "SPEWS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Old Testament prophet whose name fits as Khalid Sheikh Mohammed's 9/11 trial date is finally set",
+        "answer": "HOSEA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Put chips in \u2014 like the tech companies that joined OpenAI and Google calling for urgent action against AI-powered threats",
+        "answer": "ANTED",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Spanish direction \u2014 like those evoked as Andrew Tate's romantic partner testified in his bail hearing",
+        "answer": "ESTE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Worker safety agency \u2014 like those relevant as White House construction was found to be a factor in the Marine One incident",
+        "answer": "OSHA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Ahead by one \u2014 like the slim margin as Iceland holds a knife-edge referendum on EU membership",
+        "answer": "UPONE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Takes a break \u2014 like the USS Abraham Lincoln after more than 250 days at sea, now visiting a Thailand port",
+        "answer": "RESTS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Pleasant \u2014 like the deal Iran and Oman are trying to reach on 'future administration' of the Strait of Hormuz",
+        "answer": "SWEET",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Singer whose name fits as Peter Cullen, voice of Optimus Prime, dies",
+        "answer": "SADE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
