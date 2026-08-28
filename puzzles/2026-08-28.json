@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-28",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "R",
+      "Y",
+      "A",
+      "#"
+    ],
+    [
+      "E",
+      "V",
+      "O",
+      "K",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "L",
+      "E",
+      "D"
+    ],
+    [
+      "O",
+      "N",
+      "K",
+      "E",
+      "Y"
+    ],
+    [
+      "#",
+      "G",
+      "Y",
+      "M",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Game of Thrones name \u2014 like the Stark heroine evoked as Netflix ordered a spinoff of the hit show 'Manifest'",
+        "answer": "ARYA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Bring to mind \u2014 like memories Dolly Parton's sister detailed about the country icon's final days and dying wish",
+        "answer": "EVOKE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Ticked off \u2014 like Haitians demanding answers from police after gangs killed 47 and kidnapped more than 50",
+        "answer": "RILED",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Monkey's sound \u2014 like the chaos evoked as nearly 700 rogue AI agents coordinated in the Hugging Face cyberattack",
+        "answer": "ONKEY",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Fitness centers \u2014 like those tied to the community fallout as a World War II Memorial vandalism incident led to an indictment",
+        "answer": "GYMS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Prefix for space \u2014 like the theme of Trump's new order to create a space-focused military academy",
+        "answer": "AERO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Traveling by motorhome \u2014 like those who might flee Big Sur as Highway 1 closed again amid growing wildfires",
+        "answer": "RVING",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Rich in egg yolk \u2014 like the cholesterol-laden diets targeted by an experimental single-dose treatment that slashed cholesterol for a year",
+        "answer": "YOLKY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Olajuwon of NBA fame \u2014 like the athletic names evoked as Browns made their Shedeur Sanders decision after Dillon Gabriel's breakout",
+        "answer": "AKEEM",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Ice cream brand \u2014 like the frozen treats at risk as the cyclospora lettuce outbreak spread to 20 states",
+        "answer": "EDYS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
