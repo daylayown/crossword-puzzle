@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-29",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "I",
+      "B",
+      "B",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "G",
+      "O"
+    ],
+    [
+      "N",
+      "O",
+      "C",
+      "A",
+      "P"
+    ],
+    [
+      "S",
+      "U",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "P",
+      "E",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Lettuce type \u2014 like the greens at the center of a cyclospora outbreak linked to iceberg varieties spreading to more states",
+        "answer": "BIBB",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Montoya of 'The Princess Bride' \u2014 like the fictional avenger evoked as Milo Yiannopoulos was detained by ICE",
+        "answer": "INIGO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Slang for 'no lie' \u2014 like Canadians insisting, for real, they've stopped buying American goods to protest Trump",
+        "answer": "NOCAP",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Courtroom dare \u2014 like Meta's challenge to plaintiffs before agreeing to a $17.1 billion social media settlement",
+        "answer": "SUEME",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Tracked via license plate camera, slangily \u2014 like drivers whose data was captured by the Flock surveillance systems now being terminated across U.S. cities",
+        "answer": "TPED",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Recycling containers \u2014 like those relevant as Trump's rollback of forest protections could accelerate extinction of 400 endangered species",
+        "answer": "BINS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Arrival and departure \u2014 like the rhythm of US diplomats slowly returning to Mideast embassies after the Iran war's six-month mark",
+        "answer": "INOUT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Arm muscle \u2014 like the physical strength evoked as Ukraine orders its military to hit Russia with '1,000 drones a day'",
+        "answer": "BICEP",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Showing up with extra effort \u2014 like Norway's new King Haakon VIII stepping up after mourning King Harald",
+        "answer": "BGAME",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Newspaper opinion piece \u2014 like the arguments published as Iceland holds a knife-edge EU membership referendum",
+        "answer": "OPED",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
