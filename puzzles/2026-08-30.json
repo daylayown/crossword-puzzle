@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-30",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "N",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "I",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "I",
+      "A"
+    ],
+    [
+      "W",
+      "E",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "O",
+      "S",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Start of a process, like Cuba's new reforms as the U.S. tightens its grip",
+        "answer": "INIT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Occupy, like the Senate seat the 80-year-old senator insists belongs to his state's youth",
+        "answer": "SITON",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Fashion designer's name evoked as Anne Hathaway stars in the Days of Thunder sequel announcement",
+        "answer": "ALAIA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "H.G. ___, whose surname fits as GTA 6's gameplay reveal broke streaming records on Twitch and Netflix",
+        "answer": "WELLS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Sammy ___, baseball legend whose name fits as Walmart agrees to pay $50 million to settle an opioid lawsuit",
+        "answer": "SOSA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ a sign\" \u2014 like witnesses said after spotting the Roman Space Telescope deploy from SpaceX's Falcon Heavy",
+        "answer": "ISAW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Frasier's brother, whose name fits as the ICC fights for survival amid pressure from world powers",
+        "answer": "NILES",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Calvino, like the literary tradition evoked as Bronze Age treasures were stolen in a brazen Spanish museum heist",
+        "answer": "ITALO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Works hard, like Arizona farmers as water cuts loom over the state's agricultural future",
+        "answer": "TOILS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Space agency whose Artemis II astronauts received the nation's highest honor for their successful moonshot",
+        "answer": "NASA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
