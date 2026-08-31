@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-31",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "O",
+      "L",
+      "A",
+      "#"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "I",
+      "A"
+    ],
+    [
+      "I",
+      "L",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "B",
+      "I",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Spanish greeting \u2014 like the word for 'hello' as Trump pushes Apple to rename 'Lake Ontario' to 'Lake America' on its Spanish-language maps",
+        "answer": "HOLA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Theatre-level tension, like the Lindsay Clancy murder trial as jury deliberations stretch into a third day",
+        "answer": "DRAMA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Obsessive craze \u2014 like the bipartisan backlash against data centers shaking up the midterms",
+        "answer": "MANIA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "First name of actress Glazer \u2014 like the stars evoked as John Galliano bows out of the Met Museum show after criticism mounts",
+        "answer": "ILANA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Life stories \u2014 like those of the 950+ flood victims in Nepal and China as hundreds remain feared stuck in hydropower tunnels",
+        "answer": "BIOS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "HDMI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Toothbrush brand \u2014 like the dental health products evoked as a new $480,000-a-year cancer pill reflects the new normal for drug pricing",
+        "answer": "ORALB",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Shaded porch \u2014 like the outdoor spaces evoked as a massive heat dome brings sweltering temperatures to the Northeast heading into fall",
+        "answer": "LANAI",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "___ acid \u2014 like the biochemistry term relevant as Eli Lilly buys Merida Biosciences for up to $2.875 billion to expand its drug pipeline",
+        "answer": "AMINO",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Science org. abbr. \u2014 like the groups relevant as physicists finally put Feynman's path integral to the test",
+        "answer": "AAAS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
