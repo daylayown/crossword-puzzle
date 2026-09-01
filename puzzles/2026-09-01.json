@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-01",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "A",
+      "N",
+      "O",
+      "#"
+    ],
+    [
+      "F",
+      "L",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "D",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hand-to-___ combat, like the close-quarters fighting as Israeli forces seized a senior Hamas member in a Gaza raid",
+        "answer": "MANO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Natural talent \u2014 like the one John Ternus brings as Apple's newly appointed CEO",
+        "answer": "FLAIR",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Quick and nimble \u2014 like Ukraine's new drone interceptors being rushed into development against Russian attacks",
+        "answer": "AGILE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Number of tankers struck in the Strait of Hormuz region as Iran-U.S. tensions escalated",
+        "answer": "SEVEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Do over \u2014 like Nepal's infrastructure plans after floods killed 1,000+ and caused $5 billion in damage",
+        "answer": "REDO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fine arts degrees, briefly \u2014 like those relevant as California lawmakers passed a ban on shock gloves",
+        "answer": "MFAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Hiss ___, fictional rags-to-riches hero whose name fits as Shein shares fell after its Hong Kong trading debut spotlighting its China roots",
+        "answer": "ALGER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Unsophisticated \u2014 like the bond market's reaction called by analysts as Japan's yield hit a key milestone amid global selloff",
+        "answer": "NAIVE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Lubricated \u2014 like the geopolitical gears as Venezuela oil deal details emerged, with Trump promising lower gas prices",
+        "answer": "OILED",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Nevada city \u2014 like the Western locales evoked as a judge struck down New York's landmark law charging fossil fuel companies for climate change",
+        "answer": "RENO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
