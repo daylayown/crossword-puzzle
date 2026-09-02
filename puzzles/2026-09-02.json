@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-02",
+  "size": 5,
+  "grid": [
+    [
+      "K",
+      "O",
+      "L",
+      "A",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "N",
+      "I",
+      "S",
+      "E",
+      "I"
+    ],
+    [
+      "E",
+      "V",
+      "E",
+      "N",
+      "S"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Peninsula whose name fits as Apple Maps renames Lake Ontario 'Lake America' for U.S. users after Trump order",
+        "answer": "KOLA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Cry of distress \u2014 like the reaction as Iran attacks U.S. targets in the Middle East after four killed at a wedding",
+        "answer": "ALARM",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Japanese-American \u2014 like those evoked as Trump taps Hung Cao as Navy secretary",
+        "answer": "NISEI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Settles scores \u2014 like bond markets as global yields surge on mounting inflation fears",
+        "answer": "EVENS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Historical periods \u2014 like those invoked as Germany's far-right AfD promises an economic 'boom' ahead of elections",
+        "answer": "ERAS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Charlie ___, whose accused killer pleaded not guilty in court this week",
+        "answer": "KANE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Branch \u2014 like the extension of Xi's diplomatic reach during his Egypt visit to urge a new Middle East security framework",
+        "answer": "OLIVE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Precision beam \u2014 like the targeted strikes as Israel's special forces captured a Hamas official in a Gaza City raid",
+        "answer": "LASER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "MSG was described as this type of venue for Travis Kelce and Taylor Swift's 'magical' wedding",
+        "answer": "ARENA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Lindsay Clancy's deadlocked jury ___ reaching a verdict as judge urges them to keep deliberating",
+        "answer": "MISS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
