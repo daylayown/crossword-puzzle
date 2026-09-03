@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-03",
+  "size": 5,
+  "grid": [
+    [
+      "C",
+      "M",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "L",
+      "E",
+      "P",
+      "E",
+      "W"
+    ],
+    [
+      "A",
+      "C",
+      "T",
+      "I",
+      "I"
+    ],
+    [
+      "W",
+      "H",
+      "I",
+      "G",
+      "S"
+    ],
+    [
+      "#",
+      "A",
+      "C",
+      "H",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"___ on!\" \u2014 like the push as Trump rallies for embattled Republicans in the final 30 days of midterms",
+        "answer": "CMON",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Pep\u00e9 ___, like a cartoon skunk \u2014 apt as US slaps 100% tariffs on drones to counter Chinese dominance",
+        "answer": "LEPEW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Second part of a play \u2014 like the next phase of US-Iran conflict, described as 'stalled' with no end in sight",
+        "answer": "ACTII",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "19th-century political party \u2014 like the historical factions evoked as House shoots down a constitutional amendment to prevent packing the Supreme Court",
+        "answer": "WHIGS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Longing pain \u2014 like what millions of kids may feel as SNAP food benefits are cut and free school meals are also at risk",
+        "answer": "ACHE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Grasping appendage \u2014 like the reach of Nvidia's AI spending spree with its $12.9 billion Hugging Face deal",
+        "answer": "CLAW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Giant robot \u2014 like the humanoid machines at Beijing's World Robot Games, evoked as Xiaomi debuts a new passport-style foldable phone",
+        "answer": "MECHA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Relating to vision \u2014 like the lens through which observers were shocked by the rusty state of USS Abraham Lincoln after its marathon deployment",
+        "answer": "OPTIC",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Horse's cry \u2014 like sounds near the stables as Patagonia sues Trump over slashing of protected areas in Utah",
+        "answer": "NEIGH",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Sage \u2014 like the updated guidance top US doctors are offering on flu and COVID vaccine recommendations to ease confusion",
+        "answer": "WISE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
