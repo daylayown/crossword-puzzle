@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-04",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "U",
+      "T",
+      "T",
+      "#"
+    ],
+    [
+      "E",
+      "L",
+      "S",
+      "A",
+      "S"
+    ],
+    [
+      "S",
+      "N",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "E",
+      "S",
+      "T",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Rear end \u2014 like the tail of Volkswagen's cuts, slashing 50,000 jobs amid tariffs and China competition",
+        "answer": "BUTT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Frozen queen's name, plural \u2014 like the ice imagery as a record-shattering El Ni\u00f1o threatens to upend global weather patterns",
+        "answer": "ELSAS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Trap \u2014 like the legal net as Romanian prosecutors indicted Andrew Tate for trafficking minors and money laundering",
+        "answer": "SNARE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "First name of Welsh actor Egerton \u2014 like the stars evoked as the Oasis documentary captures the Gallagher brothers' first reunion in 15 years",
+        "answer": "TARON",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Founded, on a plaque: abbr. \u2014 like the historic institution as Meloni's government became the longest-serving in postwar Italy",
+        "answer": "ESTD",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Top of the lot \u2014 like the prize Tesla's Cybercab deployment is chasing as feds launch an investigation into its rollout",
+        "answer": "BEST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Forearm bones \u2014 like the anatomy relevant as rescuers pulled two workers alive after more than a week trapped in Nepal-China flood tunnels",
+        "answer": "ULNAE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Russian autocrats \u2014 like the imperial echoes as Norway seized a Russian ship, testing Moscow in the High Arctic",
+        "answer": "TSARS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Fortune-telling cards \u2014 like the uncertain future Reform UK faces as new funding scandal hits the far-right party",
+        "answer": "TAROT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Transmit \u2014 like the mail-in ballots Trump is trying to restrict as he appeals to the Supreme Court",
+        "answer": "SEND",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
