@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-05",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "R",
+      "I",
+      "O",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "M",
+      "O",
+      "S"
+    ],
+    [
+      "W",
+      "U",
+      "S",
+      "H",
+      "U"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "E",
+      "P"
+    ],
+    [
+      "#",
+      "E",
+      "T",
+      "D",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Energy \u2014 like Jensen Huang's drive as his net worth nears $200B after Nvidia's Hugging Face acquisition",
+        "answer": "BRIO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Dumplings \u2014 like street food evoked as a Chinese national was rescued from a Nepal tunnel 10 days after flash floods",
+        "answer": "MOMOS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Chinese martial art \u2014 like the combat styles evoked as the U.S. military speeds its Reaper drone successor timeline after Iran losses",
+        "answer": "WUSHU",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Sharp \u2014 like the spike in mortgage rates experts warn could push above 7% again",
+        "answer": "STEEP",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Estimated times of departure, abbr. \u2014 like the uncertain schedules as Portland's I-5 closure upends commutes for weeks",
+        "answer": "ETDS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "German luxury automakers \u2014 like those at the center of Volkswagen's historic job-cut deal struck after fear and compromise",
+        "answer": "BMWS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Path \u2014 like the one Trump envoys Witkoff and Kushner are taking to Moscow and Kyiv this weekend",
+        "answer": "ROUTE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "\"I'm prepared\" \u2014 like Bloom Energy's posture as it jumps on S&P 500 inclusion news",
+        "answer": "IMSET",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Exclaimed in wonder \u2014 like reactions as the UN voted to adopt a new world map reflecting Africa's true size",
+        "answer": "OOHED",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Dines \u2014 like the beef industry as Publix, Walmart and other grocers face investigation over meat prices",
+        "answer": "SUPS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
