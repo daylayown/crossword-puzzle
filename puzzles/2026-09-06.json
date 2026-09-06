@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-06",
+  "size": 5,
+  "grid": [
+    [
+      "L",
+      "I",
+      "B",
+      "S",
+      "#"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "P",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "T",
+      "T",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "What New Hampshire Democrats fear they're losing, informally \u2014 'We're Losing' to the GOP ahead of midterms",
+        "answer": "LIBS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Complaint, like Greeks taking to the streets over cost-of-living crunch",
+        "answer": "GRIPE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Relay race stick \u2014 like the diplomatic handoff as Witkoff and Kushner arrive in Kyiv for the second leg of their peace push",
+        "answer": "BATON",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Statistical analysis, abbr. \u2014 like the data scrutiny behind the August jobs report called the biggest beat in nearly 30 years",
+        "answer": "TTEST",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Spanish 'you are' \u2014 like the language evoked as Venezuela's billionaire with a Pentagon oil deal faces U.S. money-laundering probes",
+        "answer": "ERES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Community evoked as United Methodist Church sues a thriving Texas congregation over its independence",
+        "answer": "LGBT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Furious \u2014 like Hegseth critics calling his Pentagon leadership 'inept' after a series of blunders",
+        "answer": "IRATE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Aggressive dog \u2014 like those evoked as Trump signs order allowing ranchers to kill wolves to protect herds",
+        "answer": "BITER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "'I ___' \u2014 informal for 'I suppose,' like the grudging acceptance as Republicans find no escape from Trump ahead of midterms",
+        "answer": "SPOSE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "ENTS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
