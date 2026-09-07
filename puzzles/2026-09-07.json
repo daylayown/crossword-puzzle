@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-07",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "E",
+      "R",
+      "M",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "I",
+      "C",
+      "Y",
+      "M",
+      "I"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "E",
+      "D"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "T",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hair treatment Iran's economy might need \u2014 like the yen's surge to a 6-month high after intervention",
+        "answer": "PERM",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Gawk, like internet users puzzled over Trump's new brunette hair color",
+        "answer": "STARE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Abbr. for 'missed it' \u2014 like those who missed Hurricane Lowell's warning for Kaua\u02bbi",
+        "answer": "ICYMI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Fitted with footwear \u2014 like Space Force troops in Trump's new Star Wars-mocked uniforms",
+        "answer": "SHOED",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Prefix meaning 'against' \u2014 like Germany's stance as it fights Gaza genocide claims at the UN court",
+        "answer": "ANTI",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Hip bones, abbr. \u2014 like the anatomy evoked as heat kills Americans in their own homes",
+        "answer": "PSIS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "___ Sketch \u2014 like the toy evoked as Trump floats renaming New Mexico 'New America'",
+        "answer": "ETCHA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Synthetic fabric \u2014 like materials evoked as Jaguar Land Rover launches a $2.3B cost-cutting drive",
+        "answer": "RAYON",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Mets mascot \u2014 like the baseball figures evoked as Ole Miss outlasts Louisville on a last-second FG",
+        "answer": "MRMET",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Eid gift money \u2014 like the funds evoked as Jamaica hands a slavery reparations petition to King Charles",
+        "answer": "EIDI",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
