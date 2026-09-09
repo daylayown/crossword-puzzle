@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-09",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "O",
+      "L",
+      "Y",
+      "#"
+    ],
+    [
+      "F",
+      "R",
+      "E",
+      "E",
+      "S"
+    ],
+    [
+      "F",
+      "R",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "S",
+      "H"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Many-sided, like the geopolitical crisis as Iran forges new proxy rings to threaten U.S. Gulf allies",
+        "answer": "POLY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Releases, like Trump when he lifted import bans on certain Canadian goods amid trade war negotiations",
+        "answer": "FREES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Frozen dessert hybrid, like the icy imagery as Northern Lights prepare to dazzle nine U.S. states tonight",
+        "answer": "FROSE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Fork prongs, like the sharp edges of the new U.S. sanctions targeting Iranian airlines and foreign businesses",
+        "answer": "TINES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "John ___, whose surname fits as New Hampshire's Pappas faces Sununu in a tightening Senate battle",
+        "answer": "NASH",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sound of dismissal, like reactions as RFK Jr. ordered measles deaths deleted from CDC records",
+        "answer": "PFFT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Senator Hatch's first name \u2014 like Utah political figures evoked as a Utah family witnessed Hurricane Lowell's chaos",
+        "answer": "ORRIN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Lewis, the pop diva \u2014 like the stars evoked as ABC denied reports Jimmy Kimmel's late-night show is ending",
+        "answer": "LEONA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Affirmative votes, like the nods OpenAI researchers hoped for after claiming a huge mathematics breakthrough on a 'Millennium Problem'",
+        "answer": "YESES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Hangout session, like the gathering Republicans are having at their 'Trumpapalooza' midterm convention in Texas",
+        "answer": "SESH",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
