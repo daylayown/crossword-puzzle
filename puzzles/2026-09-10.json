@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-10",
+  "size": 5,
+  "grid": [
+    [
+      "L",
+      "A",
+      "G",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "T",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "I",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "D",
+      "E",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Falls behind \u2014 like bond market response to Bessent's latest moves, per analysts",
+        "answer": "LAGS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "August heat records, e.g. \u2014 as scientists confirm Earth's hottest month ever measured",
+        "answer": "STATS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Name that sounds like a Seahawks pass-rusher \u2014 as Seattle picks off Drake Maye three times to beat the Pats",
+        "answer": "ARTIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Like a youthful demographic \u2014 as Turning Point USA grows but Trump slips with young voters",
+        "answer": "TEENA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Paradise \u2014 like the idyllic coast wiped out as 'the whole beach is gone' after big SoCal waves",
+        "answer": "EDEN",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Law school admission test, like exams disrupted as AI tools spark an academic cheating crisis",
+        "answer": "LSAT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "'Up ___' \u2014 like the Houthis climbing as they seize Yemen's port of Mocha in Red Sea power grab",
+        "answer": "ATREE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Behind a security checkpoint \u2014 like TSA's revived tradition giving certain travelers pre-9/11-style gate access",
+        "answer": "GATED",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "R.L. ___, horror author \u2014 like scary AI 'extinction' warnings ramping up from OpenAI and Anthropic researchers",
+        "answer": "STINE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Fetterman's first name \u2014 the senator praised Trump in a bombshell GOP convention video",
+        "answer": "SEAN",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
