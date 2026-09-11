@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-11",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "A",
+      "H",
+      "T",
+      "#"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "C",
+      "S"
+    ],
+    [
+      "C",
+      "O",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "M",
+      "E",
+      "L",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "L",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Currency of Thailand, whose PM met Xi at the BRICS Delhi summit",
+        "answer": "BAHT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Rubber footwear brand \u2014 like the casual shoes evoked as Apple's foldable iPhone sparks a 'who is it for?' consumer debate",
+        "answer": "CROCS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Protection \u2014 like what Gov. Newsom signed into law for children's online safety",
+        "answer": "COVER",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Processed ore \u2014 like metals evoked as Mercury, the planet closest to the Sun, is shrinking",
+        "answer": "SMELT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Italian 'in the manner of' \u2014 like the musical phrasing evoked as the Bayeux Tapestry opens its London exhibition after 1,000 years",
+        "answer": "ALLA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Blind-copy email fields, abbr. \u2014 like the hidden communications evoked as LG faces audio surveillance allegations over its smart TVs",
+        "answer": "BCCS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Pleasant smell \u2014 like what drew investigators to the Salmonella outbreak linked to broccoli sprouts from Idaho",
+        "answer": "AROMA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Ramshackle dwelling \u2014 like the ancient Lebanese city buildings engulfed by war, per the New York Times",
+        "answer": "HOVEL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Immune system component \u2014 like those studied as 9/11 cancers explode 75% at Northwell Health in a 'slow-motion health disaster'",
+        "answer": "TCELL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Spanish honorific for an unmarried woman \u2014 like titles evoked as Egyptian TV star Sarah Khalifa faces the death penalty",
+        "answer": "SRTA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
