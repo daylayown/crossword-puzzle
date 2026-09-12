@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-12",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "I",
+      "G",
+      "S",
+      "#"
+    ],
+    [
+      "A",
+      "C",
+      "U",
+      "R",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "I",
+      "S",
+      "M"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "Y",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Amazon's Miami cargo plane had a history of them, raising operator concerns",
+        "answer": "GIGS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Honda's luxury brand \u2014 like the automakers whose EV sales are plunging in North America",
+        "answer": "ACURA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Belief in a creator god without revealed religion \u2014 like the philosophical questions raised as AI companies hold 'Doomsday' discussions",
+        "answer": "DEISM",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Window ledges \u2014 like the perches evoked as Laguna Beach homes teeter on eroding coastal cliffs",
+        "answer": "SILLS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "R&B singer whose name fits as Lil Durk was acquitted in his murder-for-hire trial",
+        "answer": "NEYO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Exclamations of surprise \u2014 like reactions as Ben Shelton advanced to the US Open final",
+        "answer": "GADS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Freeze traffic \u2014 like the tension as US-Canada border towns rely on each other amid trade war",
+        "answer": "ICEIN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Cunning deception \u2014 like what Samsung used, hiring 'Tim Cook' to endorse the Galaxy Z Fold 8",
+        "answer": "GUILE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Texters' 'no kidding?!' \u2014 like reactions to reports that Houthis used Anthropic's Claude AI to try to develop ballistic missiles",
+        "answer": "SRSLY",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "\"I'm also\" \u2014 like Elena Rybakina saying she's not resting after becoming world No. 1 for the first time",
+        "answer": "AMSO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
