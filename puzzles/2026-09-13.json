@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-13",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "U",
+      "L",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "M",
+      "O",
+      "C",
+      "O"
+    ],
+    [
+      "S",
+      "P",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "H",
+      "E",
+      "N",
+      "R",
+      "I"
+    ],
+    [
+      "#",
+      "D",
+      "A",
+      "D",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Grief, like mourning Uganda's King Oyo after his burial amid calls for unity",
+        "answer": "DULE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Old oil brand whose initials fit as California gas stations hit $9.99 diesel amid fuel crisis",
+        "answer": "AMOCO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Jack ___, of 'eat little, give none' fame \u2014 like retirees now afraid to spend their hard-earned savings",
+        "answer": "SPRAT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "C\u00e9line Dion's comeback city, where she cried happy tears on opening night of her Paris return",
+        "answer": "HENRI",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Fathers, like those evoked as Trump pushes a $5,000 'dividend' that commerce secretary says taxes won't fund",
+        "answer": "DADS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sprint, like GOP congressman from Wisconsin who swam to safety after his plane made an emergency lake landing",
+        "answer": "DASH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Called balls and strikes, like the judicial role as a federal judge ruled Trump's FEMA staffing cuts unlawful",
+        "answer": "UMPED",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Name evoked as a surrogate who fled Texas to avoid abortion appeals her custody case to the Supreme Court",
+        "answer": "LORNA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Digital greeting, like those sent as Bush revealed a painting of one of his best-known photos",
+        "answer": "ECARD",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Elevator brand \u2014 like the vertical transport evoked as Indonesia's passenger ship carrying 240+ overturned and sank",
+        "answer": "OTIS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
