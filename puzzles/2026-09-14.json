@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-14",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "G",
+      "U",
+      "A",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "U",
+      "T",
+      "U",
+      "R",
+      "N"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "I",
+      "I"
+    ],
+    [
+      "#",
+      "S",
+      "U",
+      "E",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Water, in Spanish \u2014 like the resource at stake as oil prices surge and Strait of Hormuz talks collapse",
+        "answer": "AGUA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Hay bundles \u2014 like those on farms Trump threatened as Irish whiskey tariffs were finally lifted after lobbying",
+        "answer": "BALES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Reversal \u2014 like the EPA's expected move erasing its own limits on climate pollution from power plants",
+        "answer": "UTURN",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Shinto shrine gate \u2014 like the Japanese cultural symbols evoked as Okinawa election results may give Tokyo a freer hand on military build-up",
+        "answer": "TORII",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Hard fat used in cooking \u2014 like the greasy political friction as McConnell remains sidelined three months after a fall",
+        "answer": "SUET",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Borders \u2014 like the edges of the 'Alligator Alcatraz' outdoor cages the size of phone booths where immigrants were held",
+        "answer": "ABUT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Los ___, California city \u2014 like Western locales as Southern California was rattled by a swarm of dozens of small earthquakes",
+        "answer": "GATOS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Australia's famous red rock \u2014 like the continent evoked as a shark seriously injured a surfer at a popular Australian beach",
+        "answer": "ULURU",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Eagle's lofty nest \u2014 like the perch Kennedy Center holds in Washington's cultural life, now threatened by possible bankruptcy",
+        "answer": "AERIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Huff \u2014 like the mood in Congress after dire AI warnings shocked lawmakers but spurred no action before the election",
+        "answer": "SNIT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
