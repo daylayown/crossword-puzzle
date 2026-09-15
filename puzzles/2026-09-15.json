@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-15",
+  "size": 5,
+  "grid": [
+    [
+      "E",
+      "L",
+      "M",
+      "S",
+      "#"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "O",
+      "Y"
+    ],
+    [
+      "A",
+      "G",
+      "G",
+      "I",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Trees that could line a Ukrainian train route where drones targeted a convoy with an ex-CIA director aboard",
+        "answer": "ELMS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Lure \u2014 like the bait Saudi Arabia's East-West pipeline offered to divert oil if Iran closed Hormuz, before militias blasted it",
+        "answer": "DECOY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Texas A&M fan, informally \u2014 like Lone Star State Republicans scrambling after Bo French's xenophobic posts",
+        "answer": "AGGIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "German appliance brand \u2014 like the high-end goods evoked as wealthy Chinese confront tighter borders amid Beijing's new exit controls",
+        "answer": "MIELE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Evaluate \u2014 like the Senate panel grilling FBI Director Kash Patel over his record",
+        "answer": "TEST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Dutch cheese \u2014 like the European goods evoked as Canada's Carney heads to Europe for high-stakes speech and deeper EU ties",
+        "answer": "EDAM",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Above-board \u2014 like mail ballots the Supreme Court ruled Trump cannot restrict, despite his years of questioning whether they're valid",
+        "answer": "LEGIT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Surname of the ex-CIA director aboard the drone-targeted Ukraine train, per Washington Post",
+        "answer": "MCGEE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Corrupts \u2014 like what Trump's crypto empire could do to the Senate showdown over digital currency legislation",
+        "answer": "SOILS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Toss forcefully \u2014 like ICE deporting Latin American migrants who ended up stranded in West Africa",
+        "answer": "YEET",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
