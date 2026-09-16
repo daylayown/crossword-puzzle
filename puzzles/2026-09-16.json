@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-16",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "A",
+      "K",
+      "E",
+      "#"
+    ],
+    [
+      "B",
+      "L",
+      "I",
+      "P",
+      "S"
+    ],
+    [
+      "A",
+      "G",
+      "N",
+      "E",
+      "W"
+    ],
+    [
+      "S",
+      "I",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "S",
+      "S",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Ford's 2027 F-150 can ___ hands-free towing, per its debut reveal",
+        "answer": "MAKE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Tiny radar signals, like the satellite data tracking 12 trillion tons of lost Greenland and Antarctic ice",
+        "answer": "BLIPS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Spiro ___, VP whose name fits as 7 Republicans broke with Trump on Iran war powers vote",
+        "answer": "AGNEW",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Label on a vinyl record, like music industry tensions as Ed Sheeran's tour unravels after opening acts drop out",
+        "answer": "SIDEA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Org. abbr., like the groups relevant as Congress attempts to regulate AI without actually using it",
+        "answer": "ASSN",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Business school grads, like those whose loan repayment struggles appear on the list of 500 colleges flagged by NPR",
+        "answer": "MBAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Pain suffix, like the suffering evoked as more than 1.2 million children lost SNAP benefits since last July",
+        "answer": "ALGIA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Types, like the war crimes Kosovo's ex-President Thaci was convicted of by The Hague court",
+        "answer": "KINDS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Fencing blades, like the sharp diplomatic edges as NATO jets shot down a drone over Lithuania",
+        "answer": "EPEES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Final performance, like the Kennedy Center board's vote to close it \u2014 overturned by a court ruling that enraged Trump",
+        "answer": "SWAN",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
