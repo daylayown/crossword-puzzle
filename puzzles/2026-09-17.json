@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-17",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "T",
+      "E",
+      "M",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "O",
+      "P"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "R",
+      "I",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "News ___, like the data-sharing fixes ordered as a judge ruled against Google's ad tech monopoly",
+        "answer": "ITEM",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Homes, in Spanish \u2014 like those collapsing into the ocean as FEMA offers no alternatives",
+        "answer": "CASAS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Legally bar \u2014 like the move to block Trump's new rule making it harder for immigrants to get green cards",
+        "answer": "ESTOP",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Khan, villain played by Benedict Cumberbatch \u2014 like actors evoked as Matthew Lillard says he's 'embarrassed' about returning for Scream 7",
+        "answer": "SHERE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Like Mexico City's toxic 'sacrifice zone' where cancer rates are surging",
+        "answer": "ARID",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Freezes out \u2014 like ICE agents in Indiana's five-day crackdown that netted hundreds of arrests",
+        "answer": "ICES",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Yeger or Saphier \u2014 like Trump's third surgeon general pick facing Senate questions over her vaccine stance",
+        "answer": "TASHA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Chemical compound suffix \u2014 like the chemistry evoked as Pennsylvania measles cases top 700 after four outbreak-related deaths",
+        "answer": "ESTER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Indigenous New Zealander \u2014 like Indigenous groups evoked as Sudan gold mine collapse kills at least 82 people",
+        "answer": "MAORI",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Moved fast \u2014 like a Russian drone that struck a Ukrainian passenger bus, killing 5",
+        "answer": "SPED",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
