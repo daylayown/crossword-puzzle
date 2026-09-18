@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-18",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "E",
+      "N",
+      "K",
+      "#"
+    ],
+    [
+      "E",
+      "M",
+      "E",
+      "E",
+      "T"
+    ],
+    [
+      "M",
+      "A",
+      "C",
+      "A",
+      "O"
+    ],
+    [
+      "P",
+      "I",
+      "C",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "L",
+      "O",
+      "S",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "5K doubled \u2014 like the $5K check Trump promised Americans, per GOP lawmakers asking 'Where are you getting the money?'",
+        "answer": "TENK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Virtual gathering, like the UN high-level meeting where even Iranian leaders got visas to attend",
+        "answer": "EMEET",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Former Portuguese enclave \u2014 like territories evoked as Xi gets a presidential airport welcome in Beijing that Trump never received",
+        "answer": "MACAO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Ancient Scottish people \u2014 like historical groups evoked as MI5 admitted it gave evidence based on lies in a neo-Nazi spy case",
+        "answer": "PICTS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Warren Buffett's word for what 'Father Time' ultimately delivers, as he steps down as Berkshire Hathaway chairman",
+        "answer": "LOSS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Seasonal worker \u2014 like those whose jobs may vanish as the Fed's rate hike pushes mortgage rates toward 7%",
+        "answer": "TEMP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Electronic message \u2014 like the DHS one raising new questions about the Trump administration's election plans",
+        "answer": "EMAIL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Old candy wafer brand \u2014 like sugary treats evoked as National Cheeseburger Day brings deals at McDonald's and Wendy's",
+        "answer": "NECCO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Romantic poet \u2014 like literary figures evoked as an Aztec document goes on display in Mexico after 186 years abroad",
+        "answer": "KEATS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Flip \u2014 like the coin on Hegseth's future as Sen. Tillis supports impeachment resolution saying 'He needs to go'",
+        "answer": "TOSS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
