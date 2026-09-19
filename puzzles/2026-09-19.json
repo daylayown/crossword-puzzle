@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-19",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "L",
+      "U",
+      "R",
+      "#"
+    ],
+    [
+      "E",
+      "L",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "G",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "A",
+      "R",
+      "T",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Misgendering Rep. Sarah McBride was called this, leading to a candidate's removal from a Delaware forum",
+        "answer": "SLUR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Fudd of cartoons \u2014 like the animated characters evoked as Resident Evil movie director says he was unprepared for fan backlash",
+        "answer": "ELMER",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Clark ___, like the heroic alter ego evoked as Aaron Judge's fate leaves Yankees with 'no idea' if he'll play again",
+        "answer": "GABLE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Moroccan name meaning 'trustworthy' \u2014 like those evoked as a bomb attack at a Pakistan mosque killed at least 31",
+        "answer": "AMEEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Johnson, like the name evoked as protests erupt over Trump's Kennedy Center closure amid fears he'll demolish it",
+        "answer": "ARTE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Game company \u2014 like the Tokyo Game Show exhibitors as Xbox announced its 2026 lineup",
+        "answer": "SEGA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "South American pack animal \u2014 like the wildlife evoked as Earth's newest wild cat species was discovered in Bolivia",
+        "answer": "LLAMA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Dark brownish color \u2014 like the hues evoked as archaeologists race to save Alaska storm-scattered artifacts before they're lost",
+        "answer": "UMBER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Lease again \u2014 like housing units in question as the Fed raises interest rates and would-be buyers are stymied by expensive markets",
+        "answer": "RELET",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "French name \u2014 like those evoked as France calls a G7 summit on releasing more oil reserves amid Iran war disruptions",
+        "answer": "RENE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
