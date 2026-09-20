@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-20",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "E",
+      "N",
+      "T",
+      "#"
+    ],
+    [
+      "I",
+      "L",
+      "I",
+      "A",
+      "D"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "T",
+      "O"
+    ],
+    [
+      "E",
+      "N",
+      "L",
+      "A",
+      "I"
+    ],
+    [
+      "#",
+      "D",
+      "A",
+      "R",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Belgian city evoked as Dutch riot police broke up a far-right protest in The Hague",
+        "answer": "GENT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Ancient Greek epic \u2014 like the heroic struggle Ed Sheeran invoked calling Gaza 'catastrophic and unjustifiable'",
+        "answer": "ILIAD",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "1995 animated sled-dog film \u2014 like Arctic stories evoked as Denmark and Greenland pushed back on Trump over sovereignty",
+        "answer": "BALTO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Zhou ___, Chinese premier's name \u2014 like diplomatic history evoked as Trump rolls out the red carpet for Xi",
+        "answer": "ENLAI",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Mild expletive \u2014 like the frustration as Fed Chair Kevin Warsh hiked interest rates again",
+        "answer": "DARN",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Taunt \u2014 like reporters' reaction after Trump's White House banned them from press entry",
+        "answer": "GIBE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "African antelope \u2014 like wildlife evoked as scientists discovered a first new wild cat species in more than 100 years",
+        "answer": "ELAND",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Wafer cookie brand \u2014 like sweet treats evoked as fast food from the US and China catches on in both countries",
+        "answer": "NILLA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Mongol warrior group \u2014 like the historical forces evoked as Romanian crime rings drained U.S. welfare accounts",
+        "answer": "TATAR",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "'___ it for the 'gram' \u2014 like social media buzz as Trump announced an AI Force and named an AI czar",
+        "answer": "DOIN",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
