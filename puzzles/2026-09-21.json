@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-21",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "R",
+      "A",
+      "S",
+      "#"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "T",
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "G",
+      "I",
+      "E"
+    ],
+    [
+      "Y",
+      "E",
+      "A",
+      "R",
+      "N"
+    ],
+    [
+      "#",
+      "W",
+      "E",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Undergarments Meloni might ban along with niqabs in Italian schools",
+        "answer": "BRAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Shoulder muscles \u2014 like those flexed as Ukraine launched its 'largest ever' 1,000-drone barrage on Moscow",
+        "answer": "DELTS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Nixon, Dem challenger in a dead heat with Ashley Moody per new Florida poll",
+        "answer": "ANGIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Longing \u2014 like world leaders meeting at the UN to address war, runaway AI and climate shocks",
+        "answer": "YEARN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Direction evoked as Typhoon Dujuan hits Japan, urging millions to evacuate",
+        "answer": "WEST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Birthday abbr. \u2014 like the celebration Patrick Clancy is planning as he says mental illness drove his children's deaths",
+        "answer": "BDAY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Restart \u2014 like Paramount's plans after settling lawsuits to pave the way for a Warner Bros. merger",
+        "answer": "RENEW",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Green growth \u2014 like the 'planetary boundaries' scientists warn have been massively breached",
+        "answer": "ALGAE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Provokes \u2014 like the data center backlash reshaping American politics, community by community",
+        "answer": "STIRS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Transmitted \u2014 like the ICE officer's bullet that wounded a Venezuelan DoorDash driver in Austin, Texas",
+        "answer": "SENT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
