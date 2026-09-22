@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-22",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "V",
+      "I",
+      "V",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "C",
+      "E",
+      "D"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "O",
+      "I",
+      "L",
+      "U",
+      "P"
+    ],
+    [
+      "#",
+      "G",
+      "L",
+      "E",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tel ___, city evoked as Trump meets world leaders at the UN to discuss Gaza conflict",
+        "answer": "AVIV",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Spiked, like the drink allegedly given to a woman by 'looksmaxxing' streamer Clavicular before rape",
+        "answer": "LACED",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Pipe-clearing brand \u2014 like the unclogging needed as Saudi Arabia's East-West oil pipeline restarts",
+        "answer": "DRANO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Lubricate \u2014 like diplomatic gears turning as Strait of Hormuz vessels slowly trickle through amid Iran talks",
+        "answer": "OILUP",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Joy \u2014 like Gaza students felt returning to in-person schooling for the first time in three years",
+        "answer": "GLEE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Shoe designer's name \u2014 like footwear fashion evoked as Apple's new M6 Mac mini launches on release day",
+        "answer": "ALDO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Brazilian airline defunct since 2006 \u2014 like aviation history evoked as travel delays linger after equipment outages ground Northeast airports",
+        "answer": "VARIG",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Crisis helpline \u2014 like the mental health response systems being expanded in nearly 100 U.S. cities as unarmed 911 teams reshape public safety",
+        "answer": "ICALL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Manchester will host world leaders at this type of gathering for the G20 summit in 2027",
+        "answer": "VENUE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Inside scoop \u2014 like the exclusive Reuters report that China's Xi will press Trump to halt Taiwan arms sales",
+        "answer": "DOPE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
