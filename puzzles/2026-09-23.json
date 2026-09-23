@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-23",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "H",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "M",
+      "E",
+      "E",
+      "T",
+      "S"
+    ],
+    [
+      "I",
+      "N",
+      "G",
+      "O",
+      "T"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "P",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "S",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tipped one's cap \u2014 like Trump's planeside welcome for Xi, a 'rare' honor at Washington",
+        "answer": "AHAT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Gathers with \u2014 like world leaders who convened at the UN General Assembly this week",
+        "answer": "MEETS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Bar of precious metal \u2014 like those evoked as a metal detector hobbyist unearthed a record Roman coin trove",
+        "answer": "INGOT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Sharp remark \u2014 like Trump's 'You should not be here' jab at CNN at the UN",
+        "answer": "SNIPE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Helper, briefly \u2014 like RFK Jr.'s security staff as he's busted squandering millions on diva demands",
+        "answer": "ASST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "AMIS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Hair dye \u2014 like the body art tradition evoked as a 6-year-old girl smashed the women's Rubik's Cube record",
+        "answer": "HENNA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Protective shield \u2014 like the EU's cyberattack defense that nobody checked actually worked",
+        "answer": "AEGIS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Convertible car features \u2014 like open-air designs evoked as Hurricane Polo roared to Category 4 off Mexico's Pacific coast",
+        "answer": "TTOPS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Proofreader's 'leave it' \u2014 like editorial marks evoked as San Francisco sues Trump's Truth Social over paywalled posts",
+        "answer": "STET",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
