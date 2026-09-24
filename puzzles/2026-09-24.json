@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-24",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "E",
+      "M",
+      "O",
+      "#"
+    ],
+    [
+      "C",
+      "Z",
+      "A",
+      "R",
+      "S"
+    ],
+    [
+      "A",
+      "I",
+      "L",
+      "E",
+      "Y"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "E",
+      "A",
+      "S",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Captain ___, like the Disney character evoked as SpaceX delays its next NASA astronaut launch to Oct. 1",
+        "answer": "NEMO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Trump's 'AI ___,' as he named new officials to oversee artificial intelligence policy",
+        "answer": "CZARS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Alvin ___ Dance Theater, like arts orgs threatened as Trump's Board of Peace unveils a $2.45B Gaza recovery plan",
+        "answer": "AILEY",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Charged particle \u2014 like those in the battery tech race as Bentley unveils its first EV, which charges faster than a lunch break",
+        "answer": "ANION",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Calm \u2014 like diplomatic hopes as the U.S. and China unveiled a two-month trade truce ahead of the Trump-Xi summit",
+        "answer": "EASE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "College sports org., as Texas-Tennessee and Ole Miss-Florida headline Week 4 picks",
+        "answer": "NCAA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Online publication \u2014 like the outlets a judge ordered restored to the White House after Trump's media ban was overturned",
+        "answer": "EZINE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Obama's daughter, whose name fits as Brazil's presidential election is reshaped by a major corruption scandal",
+        "answer": "MALIA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Nabisco sandwich cookies \u2014 like the snacks evoked as Starbucks announced plans to close 250 stores",
+        "answer": "OREOS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "'Auld Lang ___' \u2014 like the farewell sentiment as the UN leader used his final speech to issue a stark global warning",
+        "answer": "SYNE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
