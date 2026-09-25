@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-25",
+  "size": 5,
+  "grid": [
+    [
+      "F",
+      "I",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "L",
+      "A"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "Y",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Papal decree \u2014 like the authority Pope Leo XIV wielded as he began his historic 4-day visit to France",
+        "answer": "FIAT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Spanish 'these' \u2014 like the word evoked as Venezuela's interim president Delcy Rodr\u00edguez promises elections after Maduro's ouster",
+        "answer": "ESTAS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Surname evoked as the man shot at Trump's 2024 Butler, Pennsylvania rally has died",
+        "answer": "EARLE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "First name that fits as Jay-Z's accuser recanted her rape claims, saying they were false",
+        "answer": "LAILA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Small island keys \u2014 like the low-lying terrain bracing as Hurricane Nolo threatens catastrophic flooding in Hawaii",
+        "answer": "CAYS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Sense \u2014 like what Danish intelligence warns NATO nations should about a potential Russian attack within months",
+        "answer": "FEEL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Isaacman says NASA '___ a bullet' with Chinese lunar mission delay",
+        "answer": "ISAAC",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Heart chambers \u2014 like the anatomy evoked as Apple Watch's new heart rate sensor is tested against Garmin's",
+        "answer": "ATRIA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Running count \u2014 like the score of ICE's wasted millions flagged by a government watchdog in its rapid detention expansion",
+        "answer": "TALLY",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Open waters \u2014 like those at stake as Houthis promise not to target European ships on key shipping routes",
+        "answer": "SEAS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
