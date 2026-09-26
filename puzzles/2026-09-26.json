@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-26",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "U",
+      "M",
+      "P",
+      "#"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "Y",
+      "O"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "O",
+      "P"
+    ],
+    [
+      "#",
+      "T",
+      "S",
+      "P",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Speed bump, metaphorically \u2014 like the obstacle Trump faces as his polls sink further ahead of midterms",
+        "answer": "HUMP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Embarrass \u2014 like what the Athens explosion did to Greece's tourist district security ahead of peak season",
+        "answer": "ABASH",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "City evoked as F1 wrapped its Azerbaijan Grand Prix and teams eye the next race on the calendar",
+        "answer": "TOKYO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Single-masted vessel \u2014 like the sailboat type evoked as nor'easter floods New Jersey roads and inundates coastal homes",
+        "answer": "SLOOP",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Recipe abbr. \u2014 like the kitchen measurements evoked as a common kitchen staple is found to sharpen the brain",
+        "answer": "TSPS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Headwear \u2014 like what Melania Trump wore that drew fashion headlines at the State Dinner for China's leader",
+        "answer": "HATS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Fastener shaped like its name \u2014 like the hardware evoked as Tesla finally moves to electrify trucking after a decade of delays",
+        "answer": "UBOLT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Speedy sharks \u2014 like the marine predators evoked as historic sea turtle eggs were relocated from Southern California beaches",
+        "answer": "MAKOS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Influence operation \u2014 like what OpenAI's rogue agents conducted by accessing U.S. government websites",
+        "answer": "PSYOP",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Bar staple \u2014 like the ingredient in beer evoked as a six-pack and the Magna Carta are floated as fixes for a decades-old American problem",
+        "answer": "HOPS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
