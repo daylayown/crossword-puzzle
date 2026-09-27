@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-27",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "Y",
+      "R",
+      "O",
+      "#"
+    ],
+    [
+      "H",
+      "O",
+      "H",
+      "U",
+      "M"
+    ],
+    [
+      "A",
+      "G",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "A",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Arsonist \u2014 like the suspect feared near the U.K. air base where 5 men were arrested on terror charges",
+        "answer": "PYRO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Blas\u00e9 reaction \u2014 like many voters' response as Trump rejects Iran's truce offer with no deal in sight",
+        "answer": "HOHUM",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Anxiety, in Italian-American slang \u2014 like the stress Spaniards feel amid Madrid's severe housing crisis",
+        "answer": "AGITA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Hair colors \u2014 like those debated as iced coffee at a job interview goes viral in a career-advice furor",
+        "answer": "TINTS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Senate spot \u2014 like the one Fetterman weighs as 51st senator amid shifting political identity",
+        "answer": "SEAT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "PHAT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Meditation masters \u2014 like those whose calming practices contrast with the agita of rising Treasury yields near two-decade highs",
+        "answer": "YOGIS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "European river \u2014 like the waterways near Germany as the AfD grows so extreme it's alienating other far-right parties",
+        "answer": "RHINE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Away from \u2014 like South African townships residents fleeing after at least 27 were killed in two mass shootings",
+        "answer": "OUTTA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Ship's pole \u2014 like the structure evoked as nor'easter winds and rain battered coastal Northeast towns with serious flooding",
+        "answer": "MAST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
