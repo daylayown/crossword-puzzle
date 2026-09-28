@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-28",
+  "size": 5,
+  "grid": [
+    [
+      "C",
+      "O",
+      "N",
+      "K",
+      "#"
+    ],
+    [
+      "O",
+      "H",
+      "F",
+      "U",
+      "N"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "M",
+      "A"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "E",
+      "R",
+      "R",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hit on the head \u2014 like the blow dealt to Trump's approval, now at a historic low per Wall Street Journal survey",
+        "answer": "CONK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "'___, this is exciting!' \u2014 like reactions as SpaceX's Starship launches its first orbital mission from Texas",
+        "answer": "OHFUN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Hayek, like the actress evoked as Robert Pattinson's 'Primetime' became a breakout box office hit",
+        "answer": "SALMA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Care package \u2014 like the aid Ukraine airlifted to a Russian-occupied city this week",
+        "answer": "TREAT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Makes mistakes \u2014 like Trump, critics say, as his ideas for aiding U.S. consumers run into resistance at every turn",
+        "answer": "ERRS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Price \u2014 like the environmental one critics say came with Trump's lowered fuel economy standards",
+        "answer": "COST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Chicago airport \u2014 like the hub evoked as a Delta flight made an emergency landing in Portugal after smoke filled the cabin",
+        "answer": "OHARE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "J.J. McCarthy or Mariota, e.g. \u2014 like the players evoked as the Giants acquired a QB in a trade with Minnesota",
+        "answer": "NFLER",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Hari ___, comic and author \u2014 like the name evoked as Anthropic CEO Dario Amodei met Trump to discuss winning the AI race",
+        "answer": "KUMAR",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Washington MLB team \u2014 like the ballclub evoked as MLB approaches the Trump administration about a potential national park game",
+        "answer": "NATS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
