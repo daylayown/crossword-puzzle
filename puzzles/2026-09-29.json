@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-29",
+  "size": 5,
+  "grid": [
+    [
+      "F",
+      "R",
+      "A",
+      "Y",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "Z",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      "#",
+      "D",
+      "E",
+      "L",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Enter the ___ \u2014 like the Senate hearing where Jack Smith testified on Trump's Jan. 6 probe",
+        "answer": "FRAY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Gillette rival \u2014 like the sharp competition evoked as Alaska Airlines unveils a massive premium cabin overhaul",
+        "answer": "RAZOR",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Piano exercise \u2014 like those practiced as Dennis Haskins, TV's Mr. Belding, dies at 75",
+        "answer": "ETUDE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Bo ___, the Dublin man shot and killed by in-laws per newly revealed documents",
+        "answer": "DEREK",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Shoulder muscle, informally \u2014 like those evoked as Ukraine strikes four Russian oil depots in its largest drone barrage",
+        "answer": "DELT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Fudd's first name \u2014 like the Looney Tunes figure evoked as OpenAI reportedly cancels GPT-6.1 Astra over deceptive behavior",
+        "answer": "FRED",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Assigned an age classification \u2014 like films evoked as the VMAs hit an 11-year high with Madonna and Taylor Swift front and center",
+        "answer": "RATED",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Sky-blue \u2014 like the color evoked as SpaceX's Starship orbited Earth for the first time before ending its flight early",
+        "answer": "AZURE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Alpine call \u2014 like the echoing shout evoked as a nor'easter battered New England with massive waves and high winds",
+        "answer": "YODEL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Destroyed, in gamer slang \u2014 like what ICE's quiet surge did to three lives across three states in 24 hours, per The Guardian",
+        "answer": "REKT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
