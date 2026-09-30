@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-30",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "A",
+      "I",
+      "L",
+      "#"
+    ],
+    [
+      "O",
+      "S",
+      "H",
+      "E",
+      "A"
+    ],
+    [
+      "W",
+      "H",
+      "A",
+      "M",
+      "O"
+    ],
+    [
+      "S",
+      "E",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "N",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Comet ___, the 272-lb bear who lost Fat Bear Week to Backpack",
+        "answer": "TAIL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Donal ___, Irish actor in 'Verity' alongside Anne Hathaway and Dakota Johnson",
+        "answer": "OSHEA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Frisbee maker \u2014 like the toy giant evoked as Congress votes to eliminate the penny after 234 years",
+        "answer": "WHAMO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Elizabeth ___, founder of the Sisters of Charity, as Pope Leo made a historic visit to France",
+        "answer": "SETON",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Hawaii's state bird \u2014 like island wildlife evoked as Hurricane Polo's remnants battered the flood-struck U.S. Southwest",
+        "answer": "NENE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Hauls \u2014 like the US military completing its pullout from Iraq",
+        "answer": "TOWS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Pale with shock \u2014 like Israelis as Netanyahu election reports detail ignored Oct. 7 warnings",
+        "answer": "ASHEN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Start of a complaint \u2014 like Astros fans' mood after boos greeted their team during a sparse wild-card opener",
+        "answer": "IHATE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Defective car \u2014 like what Tennessee's execution process became after a federal appeals court halted Christa Pike's death sentence",
+        "answer": "LEMON",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Top-notch \u2014 like Carnegie Mellon's new $3 billion donation, the largest university gift ever",
+        "answer": "AONE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
