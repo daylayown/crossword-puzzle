@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-01",
+  "size": 5,
+  "grid": [
+    [
+      "Y",
+      "E",
+      "L",
+      "P",
+      "#"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "M",
+      "A",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "O",
+      "S",
+      "S",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Cry out \u2014 like Canadians might as Japan raises residency fees 2,000 percent amid 'anxiety' over foreigners",
+        "answer": "YELP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Come up \u2014 like questions about Pete Hegseth's leadership as Republican doubts grow",
+        "answer": "ARISE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Rick Ross's group, with 'the' \u2014 like the rapper arrested in Miami Beach on felony battery charges",
+        "answer": "MAMAS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Proofreader's 'keep it' marks \u2014 like editorial calls as Tennessee's botched execution of a woman made a 'mess' after 2 lethal injections",
+        "answer": "STETS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "___ buco \u2014 like the Italian dish evoked as David Ellison taps Mattel's Ynon Kreiz to co-run the merged Paramount-Warner Bros.",
+        "answer": "OSSO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Orange tubers \u2014 like the crops evoked as SNAP's funding model changes, threatening food benefits for millions",
+        "answer": "YAMS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Muse of love poetry \u2014 like romantic arts evoked as Cornell rape investigation yields five key takeaways",
+        "answer": "ERATO",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Citrus fruits \u2014 like the acidic produce evoked as egg prices tumble and grocery costs remain a top voter concern",
+        "answer": "LIMES",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "College Board exams, briefly \u2014 like tests evoked as bipartisan senators drop new data center bills tied to tech education",
+        "answer": "PSATS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Old petroleum brand initials \u2014 like the oil industry evoked as Persian Gulf oil flows but prices remain stubbornly high",
+        "answer": "ESSO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
