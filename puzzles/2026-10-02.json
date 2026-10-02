@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-02",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "O",
+      "V",
+      "E",
+      "#"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "N",
+      "K"
+    ],
+    [
+      "A",
+      "N",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "Y",
+      "O",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "T",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Peace symbol \u2014 like the message Ukraine sent firing its first ballistic missile in combat",
+        "answer": "DOVE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Consumed alcohol \u2014 like the cockpit crew whose actions Indian pilot described to PM Modi after the flydubai attack",
+        "answer": "DRANK",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Historical record \u2014 like those kept on Ethiopia's spreading conflict beyond Tigray",
+        "answer": "ANNAL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Nickname for Beyonc\u00e9 \u2014 like the star evoked as Skydance's David Ellison brands the merged Paramount-Warner Bros. empire",
+        "answer": "YONCE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "London's modern art museum \u2014 like UK cultural institutions strained as Manchester City verdict rocks UK-UAE diplomatic relations",
+        "answer": "TATE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "June 6, 1944 \u2014 like historic military operations evoked as a British-Iranian man was arrested in the RAF Fairford investigation",
+        "answer": "DDAY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "___ not \u2014 like Cruz's implied ambition as Vance says it's 'really obvious' he's running for president",
+        "answer": "ORNOT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Wheel-turner on a game show \u2014 like TV personalities evoked as ChatGPT can now virtually try on clothes for you",
+        "answer": "VANNA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Pass into law \u2014 like steps Trump wants to take requiring tax filers to disclose citizenship status to IRS",
+        "answer": "ENACT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Swiss abstract painter Paul \u2014 like Swiss artists evoked as 20% of Switzerland's glaciers were lost in just five years",
+        "answer": "KLEE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
