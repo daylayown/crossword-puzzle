@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-03",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "O",
+      "O",
+      "B",
+      "#"
+    ],
+    [
+      "G",
+      "A",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "O",
+      "S",
+      "S",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "E",
+      "G",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "N",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Gaming newbie \u2014 like AI newcomers OpenAI's safety leader left behind as team upheaval mounts",
+        "answer": "NOOB",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Strong winds \u2014 like those fanning Southern California's dangerous heat wave and Santa Ana fire threat",
+        "answer": "GALES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Like Australian actor Davis \u2014 evoked as a car drove into rugby fans north of Sydney, injuring 10",
+        "answer": "OSSIE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Extended standoff \u2014 like Spain's housing crisis protesters laying claim to city streets across 50+ cities",
+        "answer": "SIEGE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Old Nintendo console, informally \u2014 like retro gaming evoked as memory chip shortages worsen into 2027",
+        "answer": "SNES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Aid groups, abbr. \u2014 like those whose foreign funding was upended as October 1 ushered in a new U.S. foreign aid era",
+        "answer": "NGOS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Lush spot in a dry land \u2014 like El Ni\u00f1o's rare green bloom brought to Earth's driest desert",
+        "answer": "OASIS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Elizabeth ___, actress whose surname fits as Ken Urker, partner of Gypsy Rose Blanchard, was found dead in Louisiana",
+        "answer": "OLSEN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Bland tan color \u2014 like the unremarkable hues contrasting with the Amazon's vivid green at stake in Brazil's Lula-Bolsonaro showdown",
+        "answer": "BEIGE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Witnesses \u2014 like those whose statements Cornell police collected in the alleged gang rape case that the DA failed to review",
+        "answer": "SEES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
