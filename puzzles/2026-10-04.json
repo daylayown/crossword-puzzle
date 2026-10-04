@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-04",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "A",
+      "L",
+      "E",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "U",
+      "D",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "#",
+      "T",
+      "R",
+      "E",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Wan, like Kyiv residents left shaken after Russia ramped up bridge strikes",
+        "answer": "PALE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Idaho or Russet crops, like tubers at risk as cyclospora was found at a Mexican farm tied to a lettuce outbreak",
+        "answer": "SPUDS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Sandwich, informally \u2014 like meals evoked as the popular cookie chain abruptly shut all its locations",
+        "answer": "SANDO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Path \u2014 like the one Brazil's Lula follows seeking a rare 4th nonconsecutive presidential term",
+        "answer": "TRAIL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Family \u2014 like the one Oregon man called via Siri from his earbuds after being pinned by a boulder",
+        "answer": "TREE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Whispered attention-getter \u2014 like the quiet signal as police bodycam footage of Luigi Mangione's arrest was released",
+        "answer": "PSST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Separate \u2014 like the ethnic divisions dominating Bosnia's election as its EU bid stalls",
+        "answer": "APART",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Of the Moon \u2014 like reactors superpowers are racing to put there, per new reports",
+        "answer": "LUNAR",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Name evoked as UFC 332's Payton Talbott validated his top billing with a standout performance",
+        "answer": "EDDIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Only \u2014 like the one seat left as Democrats edge out Republicans in 5 key Senate races, polls show",
+        "answer": "SOLE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
