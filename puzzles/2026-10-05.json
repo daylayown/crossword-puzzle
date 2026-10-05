@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-05",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "A",
+      "S",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "K",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "S",
+      "E",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "H",
+      "E",
+      "G",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "M",
+      "E",
+      "L",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tortilla dough, like the staple evoked as Trump heads to Nebraska to rescue GOP seats amid rural voter anger over beef import plans",
+        "answer": "MASA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Smoking, like what Yemen's Houthis were after government forces drove them from the Bab el-Mandeb Strait",
+        "answer": "OKING",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Wisdom, like what the Supreme Court justices admitted lacking as they struggled with a new climate change case",
+        "answer": "SENSE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "German philosopher whose dialectical thinking fits as Merz and Macron push the EU to hit back harder against trade threats",
+        "answer": "HEGEL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Dissolve, like what scientists revealed happens to the human body after seven days of fasting",
+        "answer": "MELT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Pit dance, like the crowd energy at a Portland teen's school where terrorism charges followed a cafeteria chemical scare",
+        "answer": "MOSH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Prince ___ of Zamunda, like fictional royalty evoked as a US Marine's alleged murder of a woman on Okinawa triggered outrage from Japan",
+        "answer": "AKEEM",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Scorch slightly, like the burn felt by Intel after Elon Musk dealt the chip maker a setback",
+        "answer": "SINGE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Adams, photographer whose name fits as Google is accused of destroying nearly 500 football fields of forest for a new data center",
+        "answer": "ANSEL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Money, like the funds evoked as a crypto PAC announces plans to spend in 32 House races ahead of midterms",
+        "answer": "GELT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
