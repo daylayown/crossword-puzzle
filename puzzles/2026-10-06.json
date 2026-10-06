@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-06",
+  "size": 5,
+  "grid": [
+    [
+      "C",
+      "N",
+      "B",
+      "C",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "I",
+      "O"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "N",
+      "A",
+      "N",
+      "C",
+      "I"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "Y",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Network that reported S&P 500 and Nasdaq touching new peaks as Treasury yields cooled",
+        "answer": "CNBC",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Nintendo's mustachioed hero, name evoked as Pixel 11's Gemini AI aims to call friends like a game character",
+        "answer": "MARIO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Continuously, like France's rolling protests as unions joined student demonstrations for days running",
+        "answer": "ONEND",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Pelosi's first name \u2014 like Democratic figures upbeat as Trump's low approval imperils GOP midterm hopes",
+        "answer": "NANCI",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Eyelid bump, like the irritant evoked as frozen Walmart and Trader Joe's berries were recalled over E. coli concerns",
+        "answer": "STYE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "'Seriously?' \u2014 like reactions as Trump said he'd let Iran 'take out' LA and San Diego",
+        "answer": "CMON",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Grandmothers, like the 'grandmother' tree border agents knocked down while activists sat atop it for months",
+        "answer": "NANAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "North Sea crude benchmark, like the oil evoked as supply concerns eased and prices slipped",
+        "answer": "BRENT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Ohio city, like the Midwest locale evoked as Trump campaigns with Husted there",
+        "answer": "CINCY",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Garfield's lazy dog pal, like cartoon dogs evoked as Stanford scientists found a way to regrow cartilage and stop arthritis",
+        "answer": "ODIE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
