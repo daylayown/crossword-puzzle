@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-07",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "A",
+      "T",
+      "Y",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "A",
+      "S"
+    ],
+    [
+      "O",
+      "M",
+      "A",
+      "H",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "T",
+      "S",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Granola-like, as Amazon Prime Big Deal Days offered steep discounts on snack and breakfast items",
+        "answer": "OATY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Demanding stars, like those evoked as Michael Douglas revealed Kirk's abusive behavior toward his family",
+        "answer": "DIVAS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Nebraska city, like the locale evoked as Trump held a rally there to rescue GOP midterm hopes",
+        "answer": "OMAHA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Colorless gas, like hazardous substances studied as brain tissue removed during surgery revealed new Alzheimer's inflammation clues",
+        "answer": "RADON",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "General ___, like the takeout dish evoked as McDonald's faces a tough slog winning customers back after an E. coli scare",
+        "answer": "TSOS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Stench, like the reek evoked as ICE's electric-shock gloves inflicted intense pain in army study, raising alarming questions",
+        "answer": "ODOR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Direct toward, like what Zelensky did when condemning Russia's 'vile' large-scale missile attacks that killed 22",
+        "answer": "AIMAT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Promotional spots, like those Trump refuses to reimburse taxpayers for after running government-funded ads",
+        "answer": "TVADS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Web portal whose finance page reported oil prices climbing above $100 on Strait of Hormuz attacks",
+        "answer": "YAHOO",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Without, like Gaza children left ___ shelter as Israeli strikes grind on three years after Oct. 7",
+        "answer": "SANS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
