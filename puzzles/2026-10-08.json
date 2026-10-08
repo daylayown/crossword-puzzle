@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-08",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "E",
+      "T",
+      "S",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "R",
+      "U",
+      "N"
+    ],
+    [
+      "I",
+      "R",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "E",
+      "N",
+      "S"
+    ],
+    [
+      "#",
+      "E",
+      "D",
+      "I",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Animals whose ownership rules Cornell is rethinking after Ithaca council demanded city police handle campus violence cases",
+        "answer": "PETS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Repeated broadcast, like Trump's Texas rally footage aired again after protests interrupted it multiple times",
+        "answer": "RERUN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Name that sounds like the hurricane threatening Gulf Coast cities with dangerous storm surge today",
+        "answer": "IRENE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Demeanors, like those of Gazans described as resigned despite ongoing Israeli strikes as the ceasefire deal stalls",
+        "answer": "MIENS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Revise, like what Aaron Sorkin did to his Facebook screenplay for 'The Social Reckoning,' now starring Mikey Madison",
+        "answer": "EDIT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Proper and precise, like the Nobel committee's formal announcement awarding Canadian poet Anne Carson the Literature prize",
+        "answer": "PRIM",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Unsettling, like the atmosphere aboard the USS Abraham Lincoln during its harrowing stretch at sea before docking in San Diego",
+        "answer": "EERIE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Cornered up high, like Venezuelan president Maduro \u2014 now charged in the U.S. over alleged torture \u2014 with nowhere to go",
+        "answer": "TREED",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Muslim denomination, like communities referenced as Russia bombs two buses in Ukraine killing at least 30 civilians",
+        "answer": "SUNNI",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Home base, like the one the Space Station crew settled into for a 6-month tour as replacements arrived",
+        "answer": "NEST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
