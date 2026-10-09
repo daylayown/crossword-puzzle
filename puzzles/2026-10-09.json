@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-09",
+  "size": 5,
+  "grid": [
+    [
+      "C",
+      "A",
+      "P",
+      "N",
+      "#"
+    ],
+    [
+      "M",
+      "E",
+      "R",
+      "Y",
+      "L"
+    ],
+    [
+      "A",
+      "I",
+      "O",
+      "L",
+      "I"
+    ],
+    [
+      "S",
+      "O",
+      "D",
+      "O",
+      "M"
+    ],
+    [
+      "#",
+      "U",
+      "S",
+      "N",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "___ Hook, like the pirate name evoked as the USS Abraham Lincoln returned home to San Diego after long deployment",
+        "answer": "CAPN",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Streep, whose name fits as Hugh Hefner's widow urges Jessica Biel to turn down the Playboy biopic role",
+        "answer": "MERYL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Garlic sauce, like the condiment evoked as PepsiCo raises prices on Doritos and Ruffles after recent cuts",
+        "answer": "AIOLI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Biblical city of sin, evoked as Hegseth faces bipartisan backlash over plans for a public execution at Fort Hood",
+        "answer": "SODOM",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Annapolis institution that trains officers like those who brought the long-deployed USS Abraham Lincoln home to San Diego, for short",
+        "answer": "USNA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Holiday abbr. \u2014 like the festive season Apple is targeting with its October 13 'Welcome Home' product launch event",
+        "answer": "CMAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Vowel run \u2014 like the linguistic basics evoked as Trump calls anyone who says 'AI' instead of 'Super Intelligence' an 'enemy'",
+        "answer": "AEIOU",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Nudges \u2014 like the pressure Senate Republicans face as House GOP members brace for catastrophe in once-safe red seats",
+        "answer": "PRODS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Synthetic fabric \u2014 like the materials evoked as Taliban arrest women for dress code violations in Afghanistan",
+        "answer": "NYLON",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Peruvian capital, like the city near where Houthi-claimed attacks on Riyadh airport killed 3 in Saudi Arabia \u2014 a nation with South American diplomatic ties",
+        "answer": "LIMA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
