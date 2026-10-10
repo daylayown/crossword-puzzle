@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-10",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "P",
+      "T",
+      "I",
+      "#"
+    ],
+    [
+      "W",
+      "R",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "M",
+      "Y",
+      "N",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Prefix for 'mistic' \u2014 like the outlook Moderna investors felt as its cancer vaccine news sent stock surging",
+        "answer": "OPTI",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Misidentified target twice, as a Republican attack ad did to its Democratic opponent",
+        "answer": "WRONG",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Slang for 'nice!' \u2014 like fan reactions as the Valkyries swept the Aces to clinch their first-ever WNBA Finals berth",
+        "answer": "NOICE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Diabolical figure \u2014 like imagery evoked as Tennessee's vague, redacted execution protocol drew public scrutiny",
+        "answer": "SATAN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Tropical talking bird \u2014 like the wildlife evoked as conservationists discover 'bright spots' for species recovery around the globe",
+        "answer": "MYNA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Possesses \u2014 like what Starbucks might as it considers taking over Chipotle amid consolidation fears",
+        "answer": "OWNS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Celebrity-amateur golf event \u2014 like the sporting format evoked as F1's Singapore GP sprint race mixed top drivers with varied results",
+        "answer": "PROAM",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Hoity-___ \u2014 like the attitude of affluent older Americans who got much richer in the postpandemic years, per new data",
+        "answer": "TOITY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Pre-Columbian Peruvian \u2014 like the ancient civilization near Panama, rocked by two powerful earthquakes prompting evacuations",
+        "answer": "INCAN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Name evoked as George Clooney broke his silence on the 'devastating' death of Cindy Crawford's son Presley Gerber",
+        "answer": "GENA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
