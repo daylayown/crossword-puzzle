@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-11",
+  "size": 5,
+  "grid": [
+    [
+      "P",
+      "I",
+      "N",
+      "E",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "G",
+      "O",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "S",
+      "I",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "L",
+      "Y",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Yearn \u2014 like what Nobel Peace Prize hopeful Trump did after Norway snubbed him",
+        "answer": "PINE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Occupied, like Newport Beach after Tropical Storm Rachel's surf forced temporary closures",
+        "answer": "INUSE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Crime family name evoked as the Justice Department investigates major TV networks over Trump pool coverage suspension",
+        "answer": "GOTTI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Indian classical instrument, like those evoking South Asian culture as India's 'Cockroach' protest leaders were released in Delhi",
+        "answer": "SITAR",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Ancient stringed instrument \u2014 like those evoking mythology as astronauts returned to Earth after eight months in space",
+        "answer": "LYRE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Flu shots are being pushed like herding ___ \u2014 like the seasonal push as flu season arrived earlier than expected",
+        "answer": "PIGS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Slick \u2014 like Saudi Arabia's interests threatened as Houthis attacked Riyadh's airport",
+        "answer": "INOIL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Bonkers \u2014 like the scene at a Pennsylvania town reeling after a shooter killed 8 people and himself in Erie",
+        "answer": "NUTTY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Spanish 'to be' \u2014 like the conjugation evoked as 3 men were found guilty in the murders of tourists on a Mexico surf trip",
+        "answer": "ESTAR",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Ireland \u2014 like the European nation evoked as the IMF-World Bank meetings in Bangkok addressed high global debt levels",
+        "answer": "EIRE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
