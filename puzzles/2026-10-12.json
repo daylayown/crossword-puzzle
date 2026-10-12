@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-12",
+  "size": 5,
+  "grid": [
+    [
+      "Y",
+      "U",
+      "C",
+      "K",
+      "#"
+    ],
+    [
+      "O",
+      "V",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "D",
+      "U",
+      "V",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "A",
+      "L",
+      "L",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Reaction to Sean Combs being injured in prison amid ongoing controversies",
+        "answer": "YUCK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Sheep-related \u2014 like the woolly animals evoked as Yorkshire Wildlife Park made headlines after a fatal tiger attack",
+        "answer": "OVINE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Bed cover \u2014 like cozy home goods evoked as Apple TV 4K and HomePod Mini details were leaked ahead of launch",
+        "answer": "DUVET",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Like the Venezuelan man detained in a multi-billion dollar money laundering scheme, accused of being a foreign criminal",
+        "answer": "ALIEN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "___ breve \u2014 like the musical term evoked as Russell Brand's rape and sexual assault trial begins in London",
+        "answer": "ALLA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Jedi master whose wisdom fits as Linus Torvalds used AI to decipher code and uncover bugs, preaching what he practiced",
+        "answer": "YODA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Throat part \u2014 like anatomy evoked as Pope Leo faces surgery to remove a lung nodule",
+        "answer": "UVULA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Polite \u2014 like behavior Trump critics say he lacks as Democrats make corruption a pocketbook issue ahead of midterms",
+        "answer": "CIVIL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Take a knee \u2014 like the posture evoked as Mamdani rolls out new police use-of-force reforms in New York",
+        "answer": "KNEEL",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Sicilian volcano \u2014 like natural fire evoked as Hurricane Simon lashes Mexico's Pacific coast resorts",
+        "answer": "ETNA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
