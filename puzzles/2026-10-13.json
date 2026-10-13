@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-13",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "L",
+      "K",
+      "S",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "T",
+      "S"
+    ],
+    [
+      "O",
+      "V",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "O",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "E",
+      "P",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Types \u2014 like the roller coaster varieties that Six Flags shut down after a man fell to his death in Georgia",
+        "answer": "ILKS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Body ___ \u2014 like the miniature organs NASA launched to space to study astronaut health",
+        "answer": "PARTS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Unhidden \u2014 like the misconduct allegations that led Kimberly Guilfoyle to step down as U.S. ambassador to Greece",
+        "answer": "OVERT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Pacific island nation \u2014 like territories evoked as Hurricane Simon battered western Mexico and the Pacific coast",
+        "answer": "SAMOA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "September, briefly \u2014 like the quarter that just ended as JPMorgan and Goldman Sachs kicked off Q3 earnings season",
+        "answer": "SEPT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Stock market debuts, for short \u2014 like financial activity evoked as Goldman Sachs blew past Wall Street estimates in Q3",
+        "answer": "IPOS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Volcanic flows \u2014 like molten forces evoked as NASA's Perseverance rover set a new Mars driving record of 28 miles",
+        "answer": "LAVAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Krispy ___ \u2014 like the doughnut brand evoked as Kroger plans to lay off 3,000 corporate employees over three years",
+        "answer": "KREME",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Sharpen on a leather belt \u2014 like the edge Martin Shkreli is accused of having violated his lifetime pharma industry ban",
+        "answer": "STROP",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Immediately, in medicine \u2014 like the urgent pace as Pennsylvania announced its sixth measles death as cases keep rising",
+        "answer": "STAT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
