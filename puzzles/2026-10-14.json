@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-14",
+  "size": 5,
+  "grid": [
+    [
+      "M",
+      "O",
+      "H",
+      "S",
+      "#"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "I",
+      "D"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "E",
+      "U"
+    ],
+    [
+      "A",
+      "E",
+      "T",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "R",
+      "I",
+      "A",
+      "L"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Skin cancer treatment scale, like medical scrutiny evoked as common infections linked to cancer risk make headlines",
+        "answer": "MOHS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Tartan pattern, like Kimberly Guilfoyle's Scottish-themed farewell as she resigned as Trump's ambassador to Greece",
+        "answer": "PLAID",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "French farewell, like the tearful goodbye as fire destroyed Paris's oldest covered food market",
+        "answer": "ADIEU",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "CVS rival insurer that reached a $315M Justice Dept. settlement over controlled substance prescriptions",
+        "answer": "AETNA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Iranian currency, like the money at stake as Iran shifts tactics to step up attacks on shipping before the US vote",
+        "answer": "RIAL",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Film ratings board, abbr. \u2014 like content oversight evoked as Russell Brand's rape trial begins in London",
+        "answer": "MPAA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "More aged, like Social Security recipients set for a higher-than-expected COLA benefit increase due to rising inflation",
+        "answer": "OLDER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Caribbean nation evoked as Trump says oil, gas and mineral exploration will begin in Greenland",
+        "answer": "HAITI",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Italian city known for its art school, like European culture evoked as ASML earnings point to a scramble for chipmaking machines",
+        "answer": "SIENA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Two-sided, like the role ovaries develop after menopause, per surprising new research",
+        "answer": "DUAL",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
