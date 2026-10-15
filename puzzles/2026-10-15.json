@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-15",
+  "size": 5,
+  "grid": [
+    [
+      "V",
+      "E",
+      "T",
+      "O",
+      "#"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "T",
+      "I",
+      "L",
+      "T"
+    ],
+    [
+      "L",
+      "U",
+      "C",
+      "I",
+      "E"
+    ],
+    [
+      "#",
+      "P",
+      "E",
+      "E",
+      "P"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Power Trump may use against California's voting roll demands from DOJ",
+        "answer": "VETO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "British nobles, like Harry and Meghan cheered at their first joint U.K. appearance",
+        "answer": "EARLS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Leaning, like the Reflecting Pool liner that failed in 85 places under Trump",
+        "answer": "ATILT",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Pope Leo's given name, as he recovers from lung surgery with the Church on autopilot",
+        "answer": "LUCIE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Spy on, like what the FBI arrested a U.S. tech company worker for allegedly doing for a foreign power",
+        "answer": "PEEP",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tender meat \u2014 like fare at Delta One's new $200-wine, luxe dining upgrade",
+        "answer": "VEAL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Devour \u2014 like what wholesale inflation did to consumer budgets, jumping most in four years",
+        "answer": "EATUP",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "In an instant \u2014 like the speed Kyiv needs to defend against Russia's new jet-powered drones",
+        "answer": "TRICE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Skateboard trick \u2014 like maneuvers evoked as Georgia voters smash early voting records on the first day of midterm season",
+        "answer": "OLLIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Stride \u2014 like Brazil's move abolishing the six-day workweek in a win for Lula",
+        "answer": "STEP",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
