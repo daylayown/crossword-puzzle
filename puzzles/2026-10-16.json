@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-16",
+  "size": 5,
+  "grid": [
+    [
+      "L",
+      "O",
+      "P",
+      "E",
+      "#"
+    ],
+    [
+      "I",
+      "D",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "L",
+      "Y",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Brewers' sweep pace, as Milwaukee reached the World Series for the first time since 1982",
+        "answer": "LOPE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"I ___ old\" \u2014 Gen Z sentiment as frustrated Trump voters express regret, per NPR",
+        "answer": "IDOSO",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Parks and Recreation actress whose name fits as Anna Faris reveals she's 18 months sober after Chuck Lorre memoir drama",
+        "answer": "RETTA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Revise, like what Zelensky did to his stance after Trump called Ukraine's oil refinery strikes a 'disgrace'",
+        "answer": "ALTER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Drain-cleaning solutions \u2014 like caustic substances evoked as Oregon school shooting was stopped by an armed bystander",
+        "answer": "LYES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Italian currency \u2014 like the money evoked as Nvidia and Apple each gave $25M for Trump's inaugural ballroom",
+        "answer": "LIRA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Beckham, like the name evoked as megadonors power Republicans' midterm spending advantage",
+        "answer": "ODELL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Bonkers \u2014 like Trump allies openly discussing martial law ahead of midterms, per Axios",
+        "answer": "POTTY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Lauder, like the cosmetics brand evoked as new menopause hormone therapy guidelines make headlines",
+        "answer": "ESTEE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Rowing tools \u2014 like the equipment evoked as a tanker catches fire near the Strait of Hormuz after cargo ship attacks",
+        "answer": "OARS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
