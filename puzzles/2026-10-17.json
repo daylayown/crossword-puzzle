@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-17",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "E",
+      "A",
+      "M",
+      "#"
+    ],
+    [
+      "E",
+      "X",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "M",
+      "P"
+    ],
+    [
+      "H",
+      "O",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Fault line \u2014 like the geological risk evoked as Istanbul suffers its worst floods in 80 years, killing 4",
+        "answer": "SEAM",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Press secretary Katie Zacharia's five-day White House gig made her an ___ staffer",
+        "answer": "EXTRA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What California's Santa Ana winds do to wildfire embers, spreading coastal blazes",
+        "answer": "STOMP",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "What critics say Trump's Russia sanctions waiver leaves in U.S. policy, per Financial Times",
+        "answer": "HOLES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Jared ___, actor whose name fits as the Elizabeth Holmes documentary resurfaces through the reporter who exposed her",
+        "answer": "LETO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Session, slangily \u2014 like what No Kings protesters held this weekend to focus on voting rights",
+        "answer": "SESH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Praise highly \u2014 like Pope Leo XIV's supporters do as he prepares to leave the hospital after lung surgery",
+        "answer": "EXTOL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Warm corn-based Mexican drink \u2014 like the staple evoked as three Mexicans are jailed 158 years each for killing Australian and US surfers",
+        "answer": "ATOLE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "NY Mets mascot, two words \u2014 like sports figures evoked as ESPN pays $345 million more per year for a 24-team College Football Playoff",
+        "answer": "MRMET",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Lhasa ___, dog breed \u2014 like pets evoked as Oregon teacher fought a school attacker before an armed father shot the suspect",
+        "answer": "APSO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
