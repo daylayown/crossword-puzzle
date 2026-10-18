@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-18",
+  "size": 5,
+  "grid": [
+    [
+      "N",
+      "O",
+      "T",
+      "A",
+      "#"
+    ],
+    [
+      "I",
+      "F",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "K",
+      "O",
+      "R",
+      "R",
+      "A"
+    ],
+    [
+      "E",
+      "L",
+      "F",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "D",
+      "Y",
+      "E",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Bene ___ \u2014 Latin 'not,' as in the 'No Kings' protesters' rallying cry rejecting Trump's authority",
+        "answer": "NOTA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"___ Fine\" \u2014 like how Iran war costs don't sit with U.S. households now $2,000 poorer, per top economist",
+        "answer": "IFEEL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Avatar: The Legend of ___ \u2014 like animated heroes evoked as Japan plans a world-first mission to collect samples from a Martian moon",
+        "answer": "KORRA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Tiny and delicate \u2014 like the 'space jellyfish' photographers captured after a rocket plume floated ethereally overhead",
+        "answer": "ELFIN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Colored artificially \u2014 like DNA evidence that 'linked' a Washington state murder suspect to two cold-case killings via chewed gum",
+        "answer": "DYED",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Swoosh brand \u2014 like athletic gear evoked as Tennessee upset Alabama in college football's historic upset-filled Week 7",
+        "answer": "NIKE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Days gone by \u2014 like the apartheid era South Africans are revisiting as they seek justice for past crimes",
+        "answer": "OFOLD",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Trans-exclusionary \u2014 like the online extremism evoked as a key figure in the false Talarico rumor posted content invoking Nazi Germany",
+        "answer": "TERFY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Eagle's high nest \u2014 like the lofty retreat revealed in satellite images of Kim Jong Un's summer hideaway",
+        "answer": "AERIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Territory \u2014 like what Putin says Russia is carving out as a non-negotiable 'security zone' in Ukraine along the border",
+        "answer": "LAND",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
