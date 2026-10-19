@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-19",
+  "size": 5,
+  "grid": [
+    [
+      "H",
+      "O",
+      "L",
+      "A",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "U",
+      "M",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "C",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "L",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "G",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Greeting fitting for Latino voters who helped Trump win but are now reassessing, per PBS",
+        "answer": "HOLA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Foamy sea spray \u2014 like what battered the Treasure Coast as dangerous surf hit Palm Beaches",
+        "answer": "SPUME",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Francis ___, like the Renaissance artist evoked as a Kenyan cult leader faces verdict over 191 starvation deaths",
+        "answer": "BACON",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Eastwood's first name \u2014 like tough-guy imagery evoked as ICE agents were accused of a violent arrest in Long Beach",
+        "answer": "CLINT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Droops \u2014 like France's economy, which analysts say is 'on the brink' amid debt crisis and riots",
+        "answer": "SAGS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Bank whose initials fit as JPMorgan announces $5 billion in investments in U.S. national security companies",
+        "answer": "HSBC",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Gemstones \u2014 like treasures evoked as the world's oldest shipwreck was discovered off the coast of Turkey",
+        "answer": "OPALS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Saint ___ of Syracuse \u2014 like Catholic figures evoked as a priest was killed by a falling crucifix during a live-streamed Mass",
+        "answer": "LUCIA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "In the middle of \u2014 like Houthis who are ___ a war with Saudi Arabia as Egypt weighs military involvement in the Yemen conflict",
+        "answer": "AMONG",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Tolkien's tree creatures \u2014 like fictional beings evoked as Amelia Earhart researchers found 'plane debris' that turned out to be a clump of trees",
+        "answer": "ENTS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
