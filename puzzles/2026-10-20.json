@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-20",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "N",
+      "T",
+      "V",
+      "#"
+    ],
+    [
+      "M",
+      "O",
+      "S",
+      "E",
+      "S"
+    ],
+    [
+      "I",
+      "C",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "S",
+      "I"
+    ],
+    [
+      "#",
+      "P",
+      "S",
+      "A",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "___ live: Christiane Amanpour's CNN farewell after 43 years was broadcast this way",
+        "answer": "ONTV",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Old Testament figure whose name fits as Trump announces $8B plan to cover farm losses \u2014 a 'parting the sea' of red ink moment",
+        "answer": "MOSES",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "\"___ not okay\" \u2014 sentiment as ICE violently detained a man who says he's a U.S. citizen, sparking outrage",
+        "answer": "ICARE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Ankle bones \u2014 like anatomy evoked as a visitor was killed by falling roofing material at Frank Lloyd Wright's Taliesin West",
+        "answer": "TARSI",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "DOJ anti-voting-crime announcements, e.g. \u2014 like the 28 charges filed as feds cracked down on election offenses",
+        "answer": "PSAS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Leave out \u2014 like TikTok staffers say child safety concerns were ___ from leadership decisions, per NPR",
+        "answer": "OMIT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "\"For real\" in slang \u2014 like Gen Z reactions as Theranos whistleblower alleges Elizabeth Holmes misled Nathan Fielder in documentary",
+        "answer": "NOCAP",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Russian rulers of old \u2014 like autocratic power evoked as Putin prolongs Ukraine peace stalemate while Trump grows frustrated",
+        "answer": "TSARS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Vice ___ \u2014 like the flip side of JD Vance declining to endorse Netanyahu for reelection",
+        "answer": "VERSA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Six, in Spanish \u2014 like the number evoked as storm Adam killed at least five and Spain braced for more casualties",
+        "answer": "SEIS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
