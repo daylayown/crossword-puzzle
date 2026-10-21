@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-21",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "S",
+      "S",
+      "O",
+      "#"
+    ],
+    [
+      "W",
+      "A",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "N",
+      "U",
+      "L"
+    ],
+    [
+      "S",
+      "K",
+      "U",
+      "L",
+      "L"
+    ],
+    [
+      "#",
+      "A",
+      "S",
+      "E",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Initials for an international student org \u2014 fitting as federal agents knock on doors tracking noncitizen voters ahead of midterms",
+        "answer": "ISSO",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Give up a right \u2014 like what Trump's farm-state gambit asks rural voters to do with their anger before midterms",
+        "answer": "WAIVE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Void \u2014 like what Justice Kagan says the Supreme Court has done to democratic norms with recent rulings",
+        "answer": "ANNUL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Pirate symbol \u2014 like imagery evoked as North Korea activates anti-South loudspeakers along its border",
+        "answer": "SKULL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Adrift \u2014 like deported Haitians facing violence and uncertainty after being sent back, per USA Today",
+        "answer": "ASEA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Start of a confession \u2014 like what Stephen Hubbard might say after being freed by Russia following years of captivity",
+        "answer": "IWAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Decaf coffee brand \u2014 like beverages evoked as Walmart and Sam's Club combine their membership subscriptions",
+        "answer": "SANKA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Nasal cavity \u2014 like anatomy evoked as Toledo health officials outline risks after a glycidyl methacrylate chemical release",
+        "answer": "SINUS",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Seed precursor in a flower \u2014 like botanical science evoked as Japan launches its bold spacecraft mission to the moons of Mars to bring back soil samples",
+        "answer": "OVULE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Fitzgerald, jazz icon \u2014 like performers evoked as the Glee reboot is officially set at Disney+ and Hulu",
+        "answer": "ELLA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
