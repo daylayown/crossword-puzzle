@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-22",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "O",
+      "L",
+      "D",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "D",
+      "I",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "O",
+      "N",
+      "S"
+    ],
+    [
+      "L",
+      "O",
+      "P",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "A",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Daring, like Ilhan Omar's decision to speak out after a 'bizarre' pre-dawn raid forced her to leave her home",
+        "answer": "BOLD",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Country where the Shamonda livestock virus killed a patient, per France's first reported human case \u2014 neighboring it in the headline",
+        "answer": "INDIA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Detroit NFL team \u2014 like sports figures evoked as LaMelo Ball opened his Timberwolves career with 21 points",
+        "answer": "LIONS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Canters, like the pace of Ashley Hinson's Iowa Senate campaign as Trump rallies with her",
+        "answer": "LOPES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Thomas ___, 19th-century political cartoonist whose surname fits as Virginia State Senator L. Louise Lucas faces public corruption charges",
+        "answer": "NAST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Legislative measure, like the one Senate candidates debated as Michigan's El-Sayed and Rogers clashed in their second debate",
+        "answer": "BILL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Satirical publication whose style fits as election polling is 'rocked by a new fake data scandal,' per Axios",
+        "answer": "ONION",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Parkinson's drug \u2014 like treatments evoked as a two-year study found fish oil supplements showed no brain health benefit",
+        "answer": "LDOPA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Eats out, like the appetite for deals as American Express brings Airbnb bookings to its travel platform",
+        "answer": "DINES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Helper, abbr. \u2014 like the role Hegseth's staff played when they accidentally broke Eisenhower's globe fetched for his office",
+        "answer": "ASST",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
