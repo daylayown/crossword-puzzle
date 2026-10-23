@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-23",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "A",
+      "D",
+      "E",
+      "#"
+    ],
+    [
+      "N",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "I",
+      "O",
+      "N",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Singer whose name fits as Duchess Meghan is 'deeply distressed' by her father Thomas Markle's investigation",
+        "answer": "SADE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Common sense \u2014 like what critics say Trump lacks as he invokes the Cold War-era Defense Production Act for oil",
+        "answer": "NOUSE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "That ___ (Latin clarifier) \u2014 like precise language Pope Leo XIV's Vatican used publishing 'Venite ad Me' on passing the faith",
+        "answer": "IDEST",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Spud \u2014 like the root vegetable evoked as NYC Council passes a law to phase out horse-drawn carriages by 2028",
+        "answer": "TATER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Greek nymph's name \u2014 like classical figures evoked as a South Korea city seeks new ways to free a huge gray shark trapped in a canal",
+        "answer": "IONE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Huff \u2014 like the mood at Meta after California's wealth tax targets Zuckerberg's 13% ownership stake",
+        "answer": "SNIT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Vietnamese garment \u2014 like Asian culture evoked as Marco Rubio visits an Indian port town amid domestic pressure",
+        "answer": "AODAI",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Pair \u2014 like the two James Bond candidates Jack Lowden and Callum Turner set to screen test this weekend",
+        "answer": "DUETO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "German city \u2014 like European locales evoked as German youth plan France-style mass protests amid autumn discontent",
+        "answer": "ESSEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "To be, in French \u2014 like the language evoked as one person was killed in a shooting near Paris",
+        "answer": "ETRE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
