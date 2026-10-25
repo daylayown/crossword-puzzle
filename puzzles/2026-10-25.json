@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-25",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "H",
+      "E",
+      "E",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "P",
+      "S"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "C",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "T",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Clarified butter \u2014 like the cooking fat evoked as American airfares stay elevated even as fuel prices drop",
+        "answer": "GHEE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Highway entry roads \u2014 like infrastructure evoked as Houthis launch fresh attacks on Saudi Arabia's Aden port",
+        "answer": "RAMPS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Sneaker brand \u2014 like athletic gear evoked as UFC 333 saw Volkanovski and Yan solidify their greatness",
+        "answer": "ASICS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Hair and nail establishment \u2014 like businesses evoked as consumer sentiment nears all-time low ahead of midterms",
+        "answer": "SALON",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Catches, like fish \u2014 like what ICE officers did as courts rejected Trump's bid to deploy agents to intimidate voters",
+        "answer": "NETS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Mardi ___, New Orleans celebration \u2014 like festive events evoked as Obama rallied Democrats in Detroit, skewering Trump",
+        "answer": "GRAS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Mehdi ___, journalist \u2014 like media figures evoked as El-Sayed sparred with Baier over Muslim Brotherhood question",
+        "answer": "HASAN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Zola, French novelist \u2014 like French literary figures evoked as mass protests and clashes swept France with 1,300 arrested",
+        "answer": "EMILE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Disney World park \u2014 like Florida attractions evoked as 12 were injured in a shooting near Florida A&M University stadium",
+        "answer": "EPCOT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Social Security numbers, briefly \u2014 like ID records evoked as a police officer allegedly stole a dead man's house and identity",
+        "answer": "SSNS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
