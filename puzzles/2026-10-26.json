@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-26",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "B",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "G",
+      "R",
+      "O",
+      "W",
+      "L"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "T",
+      "R",
+      "E"
+    ],
+    [
+      "#",
+      "E",
+      "V",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Historical record, like what's being written on Japan's ex-PM Yasuo Fukuda, dead at 90",
+        "answer": "OBIT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Trump's tone toward Bill Maher in his 1,300-word post calling him a 'Coward'",
+        "answer": "GROWL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Zellweger, like the actress evoked as Elizabeth Holmes's documentary raises questions about who got paid",
+        "answer": "RENEE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Appetizer course, like the early-voting warmup as Democrats face a 'once-in-a-generation test' for the Senate",
+        "answer": "ENTRE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Nights before, like the days ahead of Israel's election as Netanyahu faces a battle for survival",
+        "answer": "EVES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Villainous brute, like imagery evoked as Xi's constant purges pave the way for his next term",
+        "answer": "OGRE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Brown, vulnerability researcher \u2014 like her name evoked as Anthropic's IPO filing reveals explosive growth and staggering costs",
+        "answer": "BRENE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Streaming platform, like the medium Mamdani used to spread his viral ICE-response message to NYC residents",
+        "answer": "IONTV",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Shakespearean 'if it were,' like the conditional mood Serbia's Vucic might wish for after students outplayed him",
+        "answer": "TWERE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Dregs, like what's left of Iran's oil lifeline as sanctions tighten on ordinary citizens",
+        "answer": "LEES",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
