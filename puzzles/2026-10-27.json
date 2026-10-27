@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-27",
+  "size": 5,
+  "grid": [
+    [
+      "G",
+      "A",
+      "V",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "B",
+      "R",
+      "I",
+      "L"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "#",
+      "E",
+      "M",
+      "T",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Donated, like Microsoft ___ buyout offers to a quarter of its global workforce",
+        "answer": "GAVE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Spring month, like when Pope Leo plans to tour South America after recovering from surgery",
+        "answer": "ABRIL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Saint ___, Italian city like those near where demonstrators broke into Rome's Colosseum protesting Gaza",
+        "answer": "PAOLO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Weasel relative, like the small predators evoked as bird flu rages on a mink farm risking a human pandemic",
+        "answer": "STOAT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Paramedics, for short, like responders evoked as Ebola health workers were attacked by a machete-wielding mob in Congo",
+        "answer": "EMTS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Holes in coverage, like weaknesses exposed as measles resurgence tests U.S. public health infrastructure",
+        "answer": "GAPS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Die down, like what gold's surge may do after the Fed rate decision keeps markets on edge above $4,000",
+        "answer": "ABATE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Engine sound, like the noise evoked as Ford unveils a sub-$30K electric truck with a home backup inverter",
+        "answer": "VROOM",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Israeli Red Sea resort city, like locales evoked as voters decide whether to oust Netanyahu after 3 years of war",
+        "answer": "EILAT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Many parking spaces, like what a judge limited as Trump's golf project faced a halt on tree removal",
+        "answer": "LOTS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
