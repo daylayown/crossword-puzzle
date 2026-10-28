@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-28",
+  "size": 5,
+  "grid": [
+    [
+      "W",
+      "I",
+      "L",
+      "T",
+      "#"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      "U",
+      "P"
+    ],
+    [
+      "S",
+      "K",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "Y",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "K",
+      "E",
+      "R",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Droop, like what consumer confidence did before recovering in October as gas prices eased",
+        "answer": "WILT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Size up, like what investors are doing to Kevin Warsh ahead of the Fed's rate decision",
+        "answer": "EYEUP",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Glide past trouble, like what Netanyahu is trying to do after no clear winner emerged in Israel's election",
+        "answer": "SKATE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Mike ___, boxing legend whose name fits as a $47M dinosaur fossil evoked primal power at auction",
+        "answer": "TYSON",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Composer Jerome, like the musical name evoked as Netflix's new show earned a perfect 100% Rotten Tomatoes score",
+        "answer": "KERN",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Kanye's old city, like the locale evoked as peak high tides flooded SoCal coastal communities",
+        "answer": "WEST",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Insider slang, like the code language evoked as Melania Trump's secret diplomatic role in the Russia-Ukraine ceasefire was revealed",
+        "answer": "IYKYK",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Rental agreement, like the deal at stake as a U.S. cruise ship suspended its 3-year around-the-world voyage due to fuel costs",
+        "answer": "LEASE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Academic coach, like the role evoked as billionaires shattered spending records to fight California's wealth tax",
+        "answer": "TUTOR",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "State where Fl\u00e1vio Bolsonaro landed after fleeing Brazil following his father's presidential election defeat",
+        "answer": "PENN",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
