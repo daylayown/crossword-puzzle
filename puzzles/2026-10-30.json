@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-30",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "P",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "H",
+      "U",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "G",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "K",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "A",
+      "S",
+      "H"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Mimicked, like candidates whose websites were filled with A.I.-written text, per NYT analysis",
+        "answer": "APED",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "One of the Great Lakes, like bodies of water near Michigan's Senate race that could decide the majority",
+        "answer": "HURON",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Female friend, in Spanish \u2014 like ties evoked as the EU seeks 'highest level' ties with Canada at the Montreal summit",
+        "answer": "AMIGA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Prepares in an oven \u2014 like Halloween candy costs that have consumers scared stiff, per NPR",
+        "answer": "BAKES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Decorative band \u2014 like ceremonial garb evoked as Pope Leo cast his absentee ballot in Illinois for the midterms",
+        "answer": "SASH",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Obsessive captain, like the dogged pursuit as Dan Sullivan's Alaska Senate race was rocked by a ballot-stuffing plot",
+        "answer": "AHAB",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Big cats \u2014 like wild animals evoked as Spain's transport minister refused to resign after the high-speed rail disaster",
+        "answer": "PUMAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Hurricane name \u2014 like the Pineapple Express storm battering San Diego County on Halloween night",
+        "answer": "ERIKA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Venetian rulers of old \u2014 like autocratic power evoked as Netanyahu's bloc fell short and longtime allies weighed ending his rule",
+        "answer": "DOGES",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Country music legend's surname \u2014 like performers evoked as Christina Hendricks, accidental DJ, drew music lovers to her sets",
+        "answer": "NASH",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
