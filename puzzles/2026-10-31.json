@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-31",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "R",
+      "B",
+      "S",
+      "#"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "I",
+      "I"
+    ],
+    [
+      "O",
+      "B",
+      "I",
+      "T",
+      "S"
+    ],
+    [
+      "H",
+      "O",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "N",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Celestial spheres, like the supermoon and Mars-Jupiter meetup gracing November's night sky",
+        "answer": "ORBS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Shinto gate \u2014 like the cultural landmarks evoked as Taipei's mayor faced an angry reception at Pride after a gay bar raid",
+        "answer": "TORII",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Death notices \u2014 like the historical record published on Harry Houdini's 100th anniversary of death",
+        "answer": "OBITS",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Scorching \u2014 like Iran's supreme leader's warnings to the U.S. and Israel after fresh attacks",
+        "answer": "HOTON",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Temporary shelter \u2014 like what Ukrainians evacuated from Russian-occupied Oleshky needed upon arriving in Belarus",
+        "answer": "TENT",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "On the flip side, abbr. \u2014 like the counterargument as Democrats could win up to 240 House seats, Cook Political Report says",
+        "answer": "OTOH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Automated machine \u2014 like the drones North Korea's Kim urged for military dominance amid border tensions",
+        "answer": "ROBOT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Crest, like the toothpaste brand evoked as candy prices scared consumers stiff this Halloween, per NPR",
+        "answer": "BRITE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Occupy a committee position \u2014 like what Polish president Nawrocki did pushing into Poland's top court amid a rule-of-law tussle",
+        "answer": "SITON",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Ain't \u2014 like the denial as a DOJ judge mulls throwing out the leak case against James Comey",
+        "answer": "ISNT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
