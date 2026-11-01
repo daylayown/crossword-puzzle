@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-01",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "O",
+      "U",
+      "X",
+      "#"
+    ],
+    [
+      "A",
+      "U",
+      "R",
+      "A",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "C",
+      "K"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "#",
+      "E",
+      "H",
+      "O",
+      "W"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Thickening base for a sauce \u2014 like cooking costs evoked as candy prices hit $16.96 a bag, up 7.7% in a year",
+        "answer": "ROUX",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Atmospheric emanations \u2014 like the body odors scientists say may signal Alzheimer's and cancer, per Washington Post",
+        "answer": "AURAS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Remain loyal to \u2014 like what voters are asked to do as Trump campaigns in Iowa and Kansas two days before midterms",
+        "answer": "STICK",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Babble on \u2014 like Trump's speeches analyzed by NYT as 'Gaffes and Men's Bodies' at age 80",
+        "answer": "PRATE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Online DIY tutorial site \u2014 like web guides evoked as an AI agent autonomously injected drugs into a live mouse's brain",
+        "answer": "EHOW",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Grate harshly \u2014 like the friction as Gen Z protests turned violent in Germany, per Financial Times",
+        "answer": "RASP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Bizarre or avant-garde \u2014 like the Halloween SNL sketch 'The Inventor's Wife' featuring a penis-destroying robot",
+        "answer": "OUTRE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Dickens villain ___ Heep \u2014 like scheming figures evoked as Trump maps a path to govern without Congress if Democrats win",
+        "answer": "URIAH",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Craft knife brand \u2014 like precision tools evoked as scientists say they have one of the oldest Mars meteorites ever found",
+        "answer": "XACTO",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Distort the data \u2014 like what prediction markets keep doing as they whiff on elections ahead of the midterms, per WSJ",
+        "answer": "SKEW",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
