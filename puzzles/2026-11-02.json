@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-02",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "A",
+      "R",
+      "P",
+      "#"
+    ],
+    [
+      "C",
+      "L",
+      "A",
+      "M",
+      "S"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "S",
+      "I"
+    ],
+    [
+      "S",
+      "H",
+      "I",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "A",
+      "N",
+      "D",
+      "I"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Seniors' org. whose members are watching Senate races flip on midterm maps",
+        "answer": "AARP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Catches by the sea \u2014 like what's at stake in an Alaska fishing community rocked by an FBI visit tied to the Dan Sullivan episode",
+        "answer": "CLAMS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Plural trunk muscles \u2014 like the core strength needed for Karl Bushby's 31,000-mile, 28-year walk around the world",
+        "answer": "TORSI",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Avoids, like California's mega-rich who outspent opponents 250-to-1 to sink the 'billionaire tax'",
+        "answer": "SHIES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Name that sounds like the AI company whose revenue hit nearly $17 billion before a blockbuster IPO",
+        "answer": "ANDI",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Passes laws \u2014 like what Trump vows to bypass if Democrats win Congress, per 'Mr. Veto' reporting",
+        "answer": "ACTS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Hawaiian greeting \u2014 fitting as a Colorado town braces for a historic flood topping the 1911 San Juan River record",
+        "answer": "ALOHA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Eager and ready \u2014 like midterm voters whose early-voting surge offers a promising sign for Democrats",
+        "answer": "RARIN",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Took heavy fire, slangily \u2014 like Intel stock, which slid again Monday amid ongoing struggles",
+        "answer": "PMSED",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Egyptian president's title \u2014 like the leader whose country is watching Iran-US talks as the ball is described as being 'in the U.S. court'",
+        "answer": "SISI",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
