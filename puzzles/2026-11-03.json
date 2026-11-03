@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-03",
+  "size": 5,
+  "grid": [
+    [
+      "D",
+      "E",
+      "L",
+      "L",
+      "#"
+    ],
+    [
+      "A",
+      "D",
+      "L",
+      "I",
+      "B"
+    ],
+    [
+      "T",
+      "I",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "T",
+      "A",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "PC maker whose stock fell as Apple earnings disappointed on Election Day",
+        "answer": "DELL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Improvise \u2014 like what voting officials did when machines caused chaos in a key House battleground",
+        "answer": "ADLIB",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Princess in a 'Naruto' film Sony is partnering with Lionsgate to produce",
+        "answer": "TIANA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Peaks \u2014 like Saudi Aramco profits that jumped despite pipeline and refinery attacks",
+        "answer": "ACMES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Gets color \u2014 like Southwest desert towns drenched by flooding rains that swamped normally arid regions",
+        "answer": "TANS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "What Binance hackers stole access to via a fake job interview before a $6.3 billion attack",
+        "answer": "DATA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Order \u2014 like Trump's move to stop $4 billion in aid to Israel announced on Election Day",
+        "answer": "EDICT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "South American animal \u2014 like creatures evoked as Karl Bushby completed his 28-year walk around the world through the Andes",
+        "answer": "LLAMA",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Fabric \u2014 like the cloth evoked as Commonwealth leaders descended on Antigua amid global political turbulence",
+        "answer": "LINEN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Low voice \u2014 like the deep tones evoked as Eric Dane's final week of life was detailed by Rebecca Gayheart",
+        "answer": "BASS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
