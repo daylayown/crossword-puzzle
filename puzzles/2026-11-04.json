@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-04",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "E",
+      "K",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "L",
+      "M",
+      "A",
+      "Y"
+    ],
+    [
+      "I",
+      "L",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "D",
+      "A",
+      "R",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "A",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Trounced \u2014 like Republicans were by Democrats in the midterm 'blue tsunami'",
+        "answer": "REKT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Makeup brand \u2014 like cosmetics evoked as CVS plans to split off its drugstore business",
+        "answer": "ALMAY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Democratic socialist Lewis George's first name, as she was elected D.C. mayor",
+        "answer": "ILANA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Bobby ___, singer whose name fits as hairstylist John Frieda, friend to Princess Diana, died at 75",
+        "answer": "DARIN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Male deer \u2014 like wildlife evoked as a man fights for custody of a badger he nursed back from starvation",
+        "answer": "STAG",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "RAID: Blood banks hit by European fridge cyberattacks were left vulnerable after hackers broke in",
+        "answer": "RAID",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Fitzgerald's first name, like the jazz icon evoked as Juliana Stratton made history with Black women in the Senate",
+        "answer": "ELLAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Retail chain \u2014 like big-box stores evoked as McDonald's US sales declined for the first time in six quarters",
+        "answer": "KMART",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Name evoked as Democrat Amy Acton defeated Vivek Ramaswamy in the Ohio governor's race",
+        "answer": "TANIA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "YANG",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
