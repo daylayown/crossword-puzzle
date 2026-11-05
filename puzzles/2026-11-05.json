@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-05",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "R",
+      "Y",
+      "A",
+      "#"
+    ],
+    [
+      "F",
+      "I",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "A",
+      "G",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "R",
+      "T",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Game of Thrones name fitting as Wembanyama dropped a 52-point, 24-rebound classic on the Mavericks",
+        "answer": "ARYA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Scorching \u2014 like Iran's tanker fires reported in the Strait of Hormuz",
+        "answer": "FIERY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Semiprecious stone \u2014 like gems evoked as ancient Ice Age rock art engravings were discovered hidden in plain sight",
+        "answer": "AGATE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Bow-string substance \u2014 like the sticky stuff evoked as French workers went on strike after riots and protests swept the country",
+        "answer": "ROSIN",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Highway abbrs. \u2014 like infrastructure evoked as a flash flood emergency hit the Georgia-Tennessee border, cutting off roads",
+        "answer": "RTES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Distant \u2014 like the remote island where five survivors were rescued after three months lost at sea",
+        "answer": "AFAR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Strict discipline \u2014 like the standards cited as Indiana executed a prisoner despite lawyers' concerns over the lethal drug supplier",
+        "answer": "RIGOR",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Bread-rising agent \u2014 like the ingredient evoked as Bangladesh agreed to raise minimum wages for garment workers after protests",
+        "answer": "YEAST",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Name fitting as Bob Dylan knocked on Pope Leo's door for a visit at the Vatican",
+        "answer": "ARTIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Desires \u2014 like what Latino voters who reshaped the electoral map have for economic change, per NYT",
+        "answer": "YENS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
