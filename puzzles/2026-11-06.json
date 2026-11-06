@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-06",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "T",
+      "S",
+      "Y",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "C",
+      "K",
+      "S"
+    ],
+    [
+      "O",
+      "R",
+      "O",
+      "N",
+      "O"
+    ],
+    [
+      "N",
+      "O",
+      "N",
+      "O",
+      "S"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "W",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tiny \u2014 like the infant who died of measles in Wisconsin, the state's first such death since 1990",
+        "answer": "ITSY",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Stacks \u2014 like the storage units evoked as small retailers brace for a 'huge hit' as holiday shipping costs spike",
+        "answer": "RACKS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Maine city \u2014 like locales evoked as Matt Dunlap conceded to Paul LePage in a ranked-choice runoff",
+        "answer": "ORONO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Taboos \u2014 like the affidavit ballot rules Mississippi counties were ordered to preserve by Cindy Hyde-Smith's lawyers",
+        "answer": "NONOS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Pueblo people \u2014 like Indigenous communities evoked as desert icons collapsed during southwestern U.S. flooding",
+        "answer": "TEWA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "South Korea will deploy military ships to keep this strait open, per France 24",
+        "answer": "IRON",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Card-reading practice \u2014 like the mystical uncertainty evoked as prediction markets scramble after Democrats' historic midterm sweep",
+        "answer": "TAROT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Baked good \u2014 like the British fare evoked as the UK commits to 'time-bound' talks on a slavery apology",
+        "answer": "SCONE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "YKNOW",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Sammy ___ \u2014 like the baseball slugger evoked as Jonathan Taylor's potential trade shocked Adam Schefter",
+        "answer": "SOSA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
