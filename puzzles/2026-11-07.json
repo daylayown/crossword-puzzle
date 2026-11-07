@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-07",
+  "size": 5,
+  "grid": [
+    [
+      "U",
+      "R",
+      "D",
+      "U",
+      "#"
+    ],
+    [
+      "S",
+      "E",
+      "A",
+      "T",
+      "S"
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "U",
+      "P"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "#",
+      "E",
+      "I",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Language spoken in Pakistan, where oil traders are refusing Russian diesel after Trump-Putin deal",
+        "answer": "URDU",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "What Paraguay's impeached President Pe\u00f1a lost in congress, leading to his house arrest",
+        "answer": "SEATS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Stop writing \u2014 like the FAA finally doing with floppy disks in a 'historic' tech upgrade",
+        "answer": "PENUP",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Wrap around one's neck \u2014 like what Ukraine's power grid workers do bracing against fresh Russian winter strikes",
+        "answer": "SCARF",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "One, in German \u2014 like the country where protesters broke into a Microsoft data center in Amsterdam, near its border",
+        "answer": "EINS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Mail carrier's org. \u2014 like delivery services disrupted as a NH warehouse strike hits local grocery stores",
+        "answer": "USPS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Reese ___ \u2014 like the name evoked as Russell Brand's convictions renew scrutiny on media culture that looked away",
+        "answer": "REECE",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Gurira, actress \u2014 like celebrities evoked as Zoo Atlanta unveils its new pandas Fu Shuang and Ping Ping",
+        "answer": "DANAI",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Reversal \u2014 like Stephen Miller's immigration policy flip from architect to White House chief of staff",
+        "answer": "UTURN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Sun protection factors, briefly \u2014 like health measures evoked as the ozone hole hits its largest size in a decade",
+        "answer": "SPFS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
