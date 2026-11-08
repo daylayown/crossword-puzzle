@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-08",
+  "size": 5,
+  "grid": [
+    [
+      "W",
+      "I",
+      "N",
+      "G",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "E",
+      "O"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "S",
+      "A"
+    ],
+    [
+      "#",
+      "L",
+      "E",
+      "S",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Buffalo ___, like the football team's city evoked as Notre Dame silenced doubters by knocking off top-ranked Miami in CFP action",
+        "answer": "WING",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "___ and ___ burger joint style \u2014 like the debate over whether Poppi founders' new startup Jetty is in or out of Gatorade's market",
+        "answer": "INOUT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Ancient-diet type \u2014 like the prehistoric era evoked as a 4.1-billion-year-old Martian meteorite yielded clues about the red planet's watery past",
+        "answer": "PALEO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Immunology lab test \u2014 like the diagnostics evoked as the CDC recorded more than 5,000 measles cases this year",
+        "answer": "ELISA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "For fear that \u2014 like the caution evoked as NASA recruits new astronauts for Artemis missions, warning slots are limited",
+        "answer": "LEST",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Clean the slate \u2014 like what Democrats plan to do as Texas senator-elect Talarico promises a reversal of hard-line immigration policies",
+        "answer": "WIPE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Altogether \u2014 like the full picture as Berkshire Hathaway sped up stock buybacks even as overall profit fell",
+        "answer": "INALL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Honest \u2014 like the credibility test facing Gadi Eisenkot as he pitches himself as the anti-Netanyahu alternative for Israel",
+        "answer": "NOLIE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Take a stab at the answer \u2014 like what analysts are doing as New Zealand's election left neither side with a clear victory for weeks",
+        "answer": "GUESS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Completely \u2014 like the thoroughness cited as the SS United States will be fully sunk to become the world's largest artificial reef",
+        "answer": "TOAT",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
