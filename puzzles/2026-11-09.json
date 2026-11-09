@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-09",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "A",
+      "T",
+      "S",
+      "#"
+    ],
+    [
+      "K",
+      "V",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "I",
+      "I"
+    ],
+    [
+      "A",
+      "I",
+      "D",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "L",
+      "Y",
+      "R",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Grain crop like those Honda's new Ohio plant workers might eat for breakfast, as the automaker invests $3B in the state",
+        "answer": "OATS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Beam with pride \u2014 like Paul McCartney's fans might after he became the world's third-richest musician and a billionaire",
+        "answer": "KVELL",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Spoke-to-center distances, like the circular geometry of NASA's new lunar base designs as it unveils $10B Moon contracts",
+        "answer": "RADII",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "White House staff \u2014 like those who reportedly treated Trump like a 'baby,' per Calley Means",
+        "answer": "AIDES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Constellation \u2014 like the stargazing context evoked as a fireball traveling 47,000 mph lit up skies over North Carolina and Tennessee",
+        "answer": "LYRA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Slimy veggie \u2014 like the Southern staple evoked as Democrats flip Georgia's state House in a midterm upset",
+        "answer": "OKRA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Be of use \u2014 like ICE complaints that the Supreme Court is weighing whether federal law enforcement should be shielded from",
+        "answer": "AVAIL",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Riner's first name \u2014 like the Olympic judo champion who announced a presidential run in France amid political turmoil",
+        "answer": "TEDDY",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "More cunning \u2014 like the strategies Boeing may need as it cuts 5% of its commercial airplane workforce",
+        "answer": "SLIER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Weight-loss drug brand \u2014 like GLP-1 medications now ordered to carry a blindness risk warning by U.S. regulators",
+        "answer": "LISA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
