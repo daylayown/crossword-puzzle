@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-10",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "A",
+      "R",
+      "K",
+      "#"
+    ],
+    [
+      "I",
+      "R",
+      "V",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "D",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "G",
+      "O",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "What California's dead seabirds may do when waves push them ashore, as nearly 2,000 washed up on the coast",
+        "answer": "BARK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Monte ___, Hall of Fame receiver whose name fits as the NFL trade deadline buzzed with rumors",
+        "answer": "IRVIN",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Skip over \u2014 like words Democrats want to ___ from Trump's education policy as they vow to reverse his funding cuts",
+        "answer": "ELIDE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Gives out temporarily \u2014 like what the Senate does with votes as it advances a bipartisan permitting bill in a key test",
+        "answer": "LENDS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Aid groups, briefly \u2014 like nonprofits whose work is threatened as Trump moves to further limit SNAP eligibility for millions",
+        "answer": "NGOS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Jessica ___, actress whose name fits as Russell Brand faces new police reports after his rape conviction",
+        "answer": "BIEL",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Senator ___ Specter \u2014 like Pennsylvania figures evoked as measles cases are confirmed in Bucks County",
+        "answer": "ARLEN",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Traveling by camper \u2014 like road-tripping lifestyles evoked as the average new vehicle price hits a record $51,000",
+        "answer": "RVING",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Term of endearment \u2014 like Dana White's casual style as he turned down Trump's joke offer to be press secretary",
+        "answer": "KIDDO",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Capone's nemesis Eliot \u2014 like law-enforcement figures evoked as Mexico arrests an alleged major leader of the Jalisco cartel",
+        "answer": "NESS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
