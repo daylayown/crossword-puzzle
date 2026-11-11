@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-11",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "A",
+      "J",
+      "A",
+      "#"
+    ],
+    [
+      "I",
+      "H",
+      "O",
+      "P",
+      "S"
+    ],
+    [
+      "N",
+      "O",
+      "D",
+      "T",
+      "O"
+    ],
+    [
+      "D",
+      "R",
+      "I",
+      "E",
+      "S"
+    ],
+    [
+      "#",
+      "A",
+      "E",
+      "R",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Mexican peninsula near waters where the SS United States will be sunk as the world's largest artificial reef",
+        "answer": "BAJA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Pancake chain offering Veterans Day 2026 free meals, with an S added for a grid-friendly plural",
+        "answer": "IHOPS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Subtle tribute \u2014 like Jim Jordan's nod to House conservatives as he was picked new minority leader",
+        "answer": "NODTO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "What Spain's housing crisis does to renters' savings, like a sponge \u2014 the market ___ up cash",
+        "answer": "DRIES",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Prefix for 'dynamic' \u2014 like the AMD Zen 6 cores wound up for faster clock speeds",
+        "answer": "AERO",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tight spot \u2014 like Ukraine's, with peace talks ending in only a prisoner swap and no breakthrough",
+        "answer": "BIND",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Spanish for 'now' \u2014 like the urgency in Spain's first general strike in 14 years over the housing crisis",
+        "answer": "AHORA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Foster, actress \u2014 like famous Jodies evoked as Stacy Keach, who embodied Hamlet and Mike Hammer, dies at 85",
+        "answer": "JODIE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "More fitting \u2014 like 'historic' as a descriptor for the Ebola outbreak topping 11,000 cases in Congo",
+        "answer": "APTER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Neither here nor there \u2014 like Colom's slim, unsettled lead over Hyde-Smith in the Mississippi Senate race",
+        "answer": "SOSO",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
