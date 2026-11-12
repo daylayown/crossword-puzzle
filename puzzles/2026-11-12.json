@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-12",
+  "size": 5,
+  "grid": [
+    [
+      "S",
+      "A",
+      "D",
+      "D",
+      "#"
+    ],
+    [
+      "E",
+      "L",
+      "C",
+      "I",
+      "D"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "S",
+      "L",
+      "O",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Students Against Destructive Decisions, org. evoked as 2 elementary kids were killed when an Amtrak train struck a vehicle in Western Springs",
+        "answer": "SADD",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Spanish hero whose name fits as Trump envoys met with Putin amid Ukraine war talks",
+        "answer": "ELCID",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Draw \u2014 like the Alaska Senate race outcome as Peltola holds a slim lead over Sullivan after the latest vote drop",
+        "answer": "TIETO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Stops cold \u2014 like ICE deportations and arrests that hit a record high under Trump's crackdown",
+        "answer": "HALTS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Blackthorn berry used in gin \u2014 like botanicals evoked as Austin businesses brace for a federal hemp ban",
+        "answer": "SLOE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Late-night host whose first name fits as Trump pulls Vance off Iran talks to focus on a fraud campaign",
+        "answer": "SETH",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Fake name \u2014 like the cover identity used by spies convicted of targeting journalists and a lawyer for Iran",
+        "answer": "ALIAS",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Battery type evoked as Microsoft confirms Windows security update installation issues leaving devices powerless",
+        "answer": "DCELL",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Same again \u2014 like Jensen Huang's successor facing 'the toughest job in tech,' per The Economist, after his resignation",
+        "answer": "DITTO",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Amount of radiation \u2014 like the medical measure evoked as new prostate cancer screening recommendations are issued",
+        "answer": "DOSE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
