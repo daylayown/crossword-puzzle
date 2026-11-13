@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-13",
+  "size": 5,
+  "grid": [
+    [
+      "T",
+      "A",
+      "C",
+      "K",
+      "#"
+    ],
+    [
+      "O",
+      "N",
+      "N",
+      "O",
+      "W"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "R",
+      "A"
+    ],
+    [
+      "D",
+      "E",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "R",
+      "E",
+      "A",
+      "D"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Change course \u2014 like Trump did, saying 'no deal necessary' with Iran after sidelining Vance",
+        "answer": "TACK",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Live, like Taylor Swift's upcoming CMA performance for the first time in 13 years",
+        "answer": "ONNOW",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Open marketplace \u2014 like the one Pope Leo addressed as record crowds greeted him in Peru",
+        "answer": "AGORA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Discourage \u2014 like China's Pacific drills meant to intimidate Taiwan",
+        "answer": "DETER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Study, like what the Space telescope Euclid's new cosmology data gives scientists to do",
+        "answer": "READ",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Slimy creature \u2014 like imagery evoked as Kim Jong Un remade North Korea's flag, ditching its Soviet-era design",
+        "answer": "TOAD",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Outrage \u2014 like what the Brooklyn building collapse that killed 8, including 2 children, sparked in Flatbush",
+        "answer": "ANGER",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Benjamin Franklin bill \u2014 like the currency evoked as the FBI seized $1.2 billion in cryptocurrency stolen from Binance",
+        "answer": "CNOTE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Peninsula nation \u2014 like the region evoked as Japan warns arms suppliers of deep cuts to expected orders",
+        "answer": "KOREA",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Hospital section \u2014 like those struck as Israel hit a Gaza hospital amid ongoing Mideast conflict",
+        "answer": "WARD",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
