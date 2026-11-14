@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-14",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "R",
+      "E",
+      "W",
+      "#"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "A",
+      "Y"
+    ],
+    [
+      "F",
+      "R",
+      "O",
+      "D",
+      "O"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "M",
+      "E",
+      "R",
+      "E"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Craft beer type \u2014 like beverages evoked as the Illinois ethanol plant bomb prompted evacuations",
+        "answer": "BREW",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Initial push \u2014 like Stephen Miller's aggressive first week as Trump's new chief of staff",
+        "answer": "FORAY",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Hobbit hero \u2014 like fictional ring-bearers evoked as the Rock & Roll Hall of Fame induction heads to Los Angeles",
+        "answer": "FRODO",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Passover ritual meal \u2014 like religious traditions evoked as wins by religious Democrats broke the Republican grip on faith in politics",
+        "answer": "SEDER",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Nothing but \u2014 like the bare minimum as Van Hollen leads a Senate insurgency challenging Schumer's leadership",
+        "answer": "MERE",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Close pals, in texts \u2014 like bonds tested as Alaska elects Democrat Jonathan Kreiss-Tomkins governor",
+        "answer": "BFFS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Ned ___, American composer \u2014 like musical figures evoked as GTA VI's release could reshape gaming and streaming",
+        "answer": "ROREM",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Wear away \u2014 like what surging measles cases are doing to doctors' confidence in treating conditions they've never seen",
+        "answer": "ERODE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Shorebird with long legs \u2014 like wildlife evoked as atmospheric rivers are raining down on the Pacific Northwest",
+        "answer": "WADER",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Days of ___ \u2014 like the past era evoked as NASA's Voyager 1 closes in on a light-day distance record in interstellar space",
+        "answer": "YORE",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
