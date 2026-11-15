@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-15",
+  "size": 5,
+  "grid": [
+    [
+      "B",
+      "O",
+      "H",
+      "R",
+      "#"
+    ],
+    [
+      "E",
+      "L",
+      "M",
+      "O",
+      "S"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "T",
+      "E",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Danish physicist's name evoked as a dead star flashes radio waves every 8 minutes in a discovery recalling atomic science",
+        "answer": "BOHR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Sesame Street character's plural, like the beloved figures evoked as Portland Public Schools recommends closing 10 schools",
+        "answer": "ELMOS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "What SNL did to tech billionaires after the Jensen Huang leather jacket affair",
+        "answer": "TEASE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Heart chambers \u2014 like the anatomy evoked as new prostate cancer screening guidelines urge earlier detection for men",
+        "answer": "ATRIA",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Egyptian sun deity \u2014 like ancient figures evoked as Iran's fuel rationing system reached a breaking point with protests on the eve of 'Bloody November'",
+        "answer": "ATEN",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Early software version \u2014 like test releases evoked as Anthropic's IPO lands as the embattled AI trade looks for a bright spot",
+        "answer": "BETA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Adams, R&B singer \u2014 like performers evoked as the 2026 Rock & Roll Hall of Fame induction ceremony aired",
+        "answer": "OLETA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Korean grocery chain \u2014 like Asian-American businesses evoked as ICE raids in Kansas meatpacking country sparked fury and turned voters against Trump",
+        "answer": "HMART",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "O'Donnell, daytime TV host \u2014 like talk-show figures evoked as Russell Brand's accuser waived anonymity alleging rape at age 16",
+        "answer": "ROSIE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Fetterman's first name, as he signals a breaking point with Democrats over Van Hollen's bid to replace Schumer",
+        "answer": "SEAN",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
