@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-16",
+  "size": 5,
+  "grid": [
+    [
+      "A",
+      "S",
+      "P",
+      "S",
+      "#"
+    ],
+    [
+      "J",
+      "A",
+      "I",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "I",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "D",
+      "S"
+    ],
+    [
+      "#",
+      "M",
+      "O",
+      "E",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Venomous snakes, like the creatures evoked as a supertanker sank after hitting a mine in the Strait of Hormuz",
+        "answer": "ASPS",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Locks up, like what NYPD could do less of after Mamdani disbanded its controversial protest unit",
+        "answer": "JAILS",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Fashion designer's name, like those evoked as Raye and Rosal\u00eda top the women-led 2027 Grammys field",
+        "answer": "ALAIA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Tears apart, like what Russia's relentless winter strikes are doing to Ukraine's energy infrastructure",
+        "answer": "RENDS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Bar regulars, like figures evoked as U.S. home sales fell to a 16-year low not seen since after the 2008 crash",
+        "answer": "MOES",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Slightly open, like the door to China trade talks as Trump heads to Asia to meet with Xi and Putin",
+        "answer": "AJAR",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Witch trials city, like locales evoked as the Lindsay Clancy retrial is scheduled for March over her children's deaths",
+        "answer": "SALEM",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "NO_NEWS_HOOK",
+        "answer": "PIANO",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Decline sharply, like chip stocks did on tighter U.S. semiconductor restrictions ahead of Trump's China trip",
+        "answer": "SLIDE",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Talk back, like what DoJ warned Elizabeth Warren not to do unless she preserves Trump records",
+        "answer": "SASS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
