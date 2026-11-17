@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-17",
+  "size": 5,
+  "grid": [
+    [
+      "O",
+      "W",
+      "I",
+      "E",
+      "#"
+    ],
+    [
+      "B",
+      "O",
+      "R",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "F",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "E",
+      "A",
+      "T",
+      "I",
+      "T"
+    ],
+    [
+      "#",
+      "T",
+      "E",
+      "N",
+      "S"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Exclamation fitting as a Grand Canyon plane crash left 3 dead and many injured",
+        "answer": "OWIE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Carried, like the measles virus that ended the U.S.'s elimination status after decades",
+        "answer": "BORNE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Nigerian rice dish \u2014 like West African cuisine evoked as Trump arrived at the Southeast Asian APEC summit",
+        "answer": "OFADA",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Humble pie \u2014 like what Jensen Huang's ousted Nvidia leadership may have to as Wall Street braces for first earnings report",
+        "answer": "EATIT",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Plural of a dollar bill denomination \u2014 like currency evoked as retail spending slowed in October as high prices gave shoppers pause",
+        "answer": "TENS",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Woodwind instrument \u2014 like the musical notes evoked as Phil Collins tearfully addressed daughter Lily at the Rock & Roll Hall of Fame",
+        "answer": "OBOE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Hawaii Five-O villain \u2014 like menacing figures evoked as Iran struck U.S. targets in Bahrain ending a 2-month lull",
+        "answer": "WOFAT",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Furious \u2014 like EU chief diplomat Kallas blasting Russian peace demands as 'absurd' in Ukraine talks",
+        "answer": "IRATE",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Conclude with \u2014 like how Putin's Crimean Bridge saga may ___ collapse after Ukraine's 'unprecedented' attack",
+        "answer": "ENDIN",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Consumes \u2014 like what Congo's record-pace Ebola outbreak is doing to the region's public health resources",
+        "answer": "EATS",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
