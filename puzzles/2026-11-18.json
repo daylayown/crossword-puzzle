@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-18",
+  "size": 5,
+  "grid": [
+    [
+      "L",
+      "A",
+      "I",
+      "T",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "G",
+      "O",
+      "N",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "I",
+      "T",
+      "T",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Caf\u00e9 ___ \u2014 like the French phrase evoked as Trump and Marcos bonded over Jollibee fried chicken in Manila",
+        "answer": "LAIT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "One of Columbus's three ships \u2014 like vessels evoked as a cruise ship capsized in New Orleans port",
+        "answer": "PINTA",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "No-hope case \u2014 like Ukraine's Crimea Bridge after a Starlink-sidestepping strike left it badly damaged",
+        "answer": "GONER",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Celebrity tier \u2014 like the status of Josh O'Connor, who reportedly pulled out of the Bond role race",
+        "answer": "ALIST",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Teeny \u2014 like the 8-year-old Haitian boy detained by ICE in San Diego before being sent home",
+        "answer": "ITTY",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Women's pro golf org. \u2014 like sports bodies in the news as CFP rankings stirred debate over Alabama's top spot",
+        "answer": "LPGA",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Garlic mayo \u2014 like condiments evoked as Target posted its strongest sales growth in years by focusing on new products",
+        "answer": "AIOLI",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "British slang for 'isn't it' \u2014 like UK vernacular evoked as Andy Burnham said Brexit 'didn't work out'",
+        "answer": "INNIT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Statistical hypothesis check \u2014 like the analysis evoked as Senate AI hearings are planned after platforms simulated a U.S. terror attack",
+        "answer": "TTEST",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Creative and expressive \u2014 like the costume designer who accidentally revealed Anne Hathaway's new baby's sex",
+        "answer": "ARTY",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
