@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-19",
+  "size": 5,
+  "grid": [
+    [
+      "R",
+      "A",
+      "Y",
+      "E",
+      "#"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "A",
+      "L"
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "M",
+      "S"
+    ],
+    [
+      "#",
+      "I",
+      "S",
+      "S",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Singer Ella ___, who swept the Country Music Awards this year",
+        "answer": "RAYE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "Stored away \u2014 like horse carriages put ___ as Mamdani bans them from Central Park",
+        "answer": "ASIDE",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Like the court that ruled Myanmar committed genocide against Rohingya, the ___ connection being through a U.N. tribunal with Holy See observers",
+        "answer": "PAPAL",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Pronoun in the news as Florida pastor found guilty in Haitian president's assassination \u2014 his co-conspirators called 'themselves' insiders",
+        "answer": "THEMS",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Rae, actress \u2014 like entertainment figures evoked as 'RHOA' alum Kandi Burruss joins Keisha Lance Bottoms' transition team",
+        "answer": "ISSA",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Completely absorbed \u2014 like audiences by Netflix's Sam Bankman-Fried show offering a new version of events",
+        "answer": "RAPT",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Japanese beer brand \u2014 like the drink evoked as Trump, Putin, and Xi released a joint 'peace declaration' after their historic summit",
+        "answer": "ASAHI",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Exclamation fitting as measles deaths climb \u2014 Pennsylvania nears 1,600 cases and the eighth fatality is reported",
+        "answer": "YIPES",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Dutch cheeses \u2014 like European goods evoked as the Brexit debate returns, with nerves about what comes next",
+        "answer": "EDAMS",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Frozen queen whose name fits as California faces widespread road closures and power outages from a major winter storm",
+        "answer": "ELSA",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
