@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-20",
+  "size": 5,
+  "grid": [
+    [
+      "I",
+      "S",
+      "E",
+      "E",
+      "#"
+    ],
+    [
+      "W",
+      "O",
+      "N",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "F",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "#",
+      "A",
+      "T",
+      "T",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"___ stars\" \u2014 like what BepiColombo scientists might say arriving at Mercury after eight years",
+        "answer": "ISEE",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 5,
+        "clue": "\"___ the bet\" \u2014 like Trump's crypto play that reportedly made him very rich, per NPR",
+        "answer": "WONIT",
+        "row": 1,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Coming ___ \u2014 like GTA 6, finally out after 13 long years, with players exploring Leonida",
+        "answer": "OFAGE",
+        "row": 2,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 8,
+        "clue": "Specialized market \u2014 like the one Walmart is carving out as digital sales now drive its growth over stores",
+        "answer": "NICHE",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 9,
+        "clue": "Abbr. on a memo \u2014 like correspondence evoked as Agriculture Secretary's Christian messages to staff went 'too far,' judge says",
+        "answer": "ATTN",
+        "row": 4,
+        "col": 1,
+        "length": 4
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"___ the election\" \u2014 like Trump might say reviewing his Financial Disclosure showing SpaceX, Tesla, Nvidia trades",
+        "answer": "IWON",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 2,
+        "clue": "Bulgarian capital \u2014 like Eastern European cities evoked as Estonia closes its border with Russia, drawing 'Iron Curtain' comparisons",
+        "answer": "SOFIA",
+        "row": 0,
+        "col": 1,
+        "length": 5
+      },
+      {
+        "number": 3,
+        "clue": "Pass into law \u2014 like what the Senate did with a bipartisan energy bill amid environmental concerns",
+        "answer": "ENACT",
+        "row": 0,
+        "col": 2,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Number of countries whose European troops held a drill in Poland for a potential postwar Ukraine mission",
+        "answer": "EIGHT",
+        "row": 0,
+        "col": 3,
+        "length": 5
+      },
+      {
+        "number": 6,
+        "clue": "Youthful \u2014 like the age group leading 'money for schools, not war' protests sweeping Europe",
+        "answer": "TEEN",
+        "row": 1,
+        "col": 4,
+        "length": 4
+      }
+    ]
+  }
+}
