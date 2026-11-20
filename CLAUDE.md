@@ -1,5 +1,7 @@
 # Crosswording the Situation — Daily News Crossword
 
+> **SUNSET (2026-11-20).** The project is retired. The last puzzle was 2026-11-20 (235 puzzles since 2026-03-27). The daily cron workflow (`generate-puzzle.yml`) was disabled and deleted, so no puzzles are generated and no Buttondown newsletters are scheduled. `index.html` is now a static thank-you page that points readers to The Tucson Mini in TDB Weekly (Buttondown list `tucsondailybrief`). The game engine (`crossword.js`, `style.css`), `tools/`, and `puzzles/` are kept for history but are no longer linked. To revive: restore the workflow from git history (`git show HEAD~1:.github/workflows/generate-puzzle.yml`) and restore the old `index.html`. Everything below describes the project as it ran.
+
 A daily 5x5 mini crossword where clues are tied to recent news headlines. Rewards news literacy, not just crossword skill.
 
 ## Architecture

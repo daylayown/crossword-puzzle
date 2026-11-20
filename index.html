@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <title>Crosswording The Situation — Daily News Crossword</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crosswording The Situation — Thanks for playing</title>
+  <meta name="description" content="Crosswording the Situation has published its last daily news mini. Thank you for playing. For a new mini, try The Tucson Mini in TDB Weekly.">
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-F5ZLZD433P"></script>
   <script>
@@ -12,96 +13,212 @@
     gtag('js', new Date());
     gtag('config', 'G-F5ZLZD433P');
   </script>
-  <link rel="stylesheet" href="style.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #fafafa;
+      --surface: #ffffff;
+      --text: #1a1a1a;
+      --muted: #5f6368;
+      --line: #e3e3e3;
+      --accent: #2563eb;
+      --accent-text: #ffffff;
+      --tile: #6aaa64;
+      --tile-text: #ffffff;
+      --block: #1a1a1a;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #121213;
+        --surface: #1c1c1e;
+        --text: #f2f2f2;
+        --muted: #a1a1a6;
+        --line: #333336;
+        --accent: #4d8bff;
+        --accent-text: #ffffff;
+        --tile: #538d4e;
+        --tile-text: #ffffff;
+        --block: #3a3a3c;
+      }
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100dvh;
+      display: flex;
+      justify-content: center;
+    }
+
+    main {
+      width: 100%;
+      max-width: 520px;
+      padding: 40px 16px 32px;
+    }
+
+    .wordmark {
+      text-align: center;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    /* Mini "grid": THANK / ■YOU■ */
+    .tiles {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 6px;
+      width: min(280px, 100%);
+      margin: 20px auto 28px;
+    }
+    .tile {
+      aspect-ratio: 1;
+      display: grid;
+      place-items: center;
+      background: var(--tile);
+      color: var(--tile-text);
+      font-weight: 800;
+      font-size: clamp(1.3rem, 7vw, 1.9rem);
+      border-radius: 4px;
+      animation: flip 0.5s ease both;
+    }
+    .tile.block { background: var(--block); }
+    @keyframes flip {
+      from { transform: rotateX(90deg); opacity: 0; }
+      to   { transform: rotateX(0); opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .tile { animation: none; }
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 1.9rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+      margin-bottom: 20px;
+    }
+
+    .letter p { margin-bottom: 14px; font-size: 1.05rem; }
+    .signoff { font-weight: 600; }
+
+    .card {
+      margin-top: 32px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 24px 20px;
+    }
+    .card h2 {
+      font-size: 1.25rem;
+      font-weight: 800;
+      letter-spacing: -0.01em;
+      margin-bottom: 10px;
+    }
+    .card p { margin-bottom: 16px; }
+
+    form {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    input[type="email"] {
+      flex: 1 1 160px;
+      min-width: 0;
+      font: inherit;
+      padding: 11px 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--bg);
+      color: var(--text);
+    }
+    input[type="email"]:focus-visible,
+    button:focus-visible,
+    a:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    button {
+      flex: 0 0 auto;
+      font: inherit;
+      font-weight: 700;
+      padding: 11px 18px;
+      border: 0;
+      border-radius: 8px;
+      background: var(--accent);
+      color: var(--accent-text);
+      cursor: pointer;
+    }
+    button:hover { filter: brightness(1.08); }
+
+    .fine {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin: 10px 0 0 !important;
+    }
+    .more { font-weight: 600; }
+
+    a { color: var(--accent); }
+
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid var(--line);
+      text-align: center;
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+    footer p + p { margin-top: 4px; }
+    footer a { color: var(--muted); }
+  </style>
 </head>
 <body>
-  <div id="app">
-    <header>
-      <h1>Crosswording The Situation</h1>
-      <p class="date" id="puzzle-date"></p>
-    </header>
+  <main>
+    <p class="wordmark">Crosswording The Situation</p>
 
-    <div id="timer">0:00</div>
-
-    <div id="grid-container">
-      <input id="hidden-input" autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false" aria-hidden="true">
-      <div id="grid"></div>
+    <div class="tiles" aria-hidden="true">
+      <span class="tile" style="animation-delay:0s">T</span>
+      <span class="tile" style="animation-delay:.08s">H</span>
+      <span class="tile" style="animation-delay:.16s">A</span>
+      <span class="tile" style="animation-delay:.24s">N</span>
+      <span class="tile" style="animation-delay:.32s">K</span>
+      <span class="tile block" style="animation-delay:.40s"></span>
+      <span class="tile" style="animation-delay:.48s">Y</span>
+      <span class="tile" style="animation-delay:.56s">O</span>
+      <span class="tile" style="animation-delay:.64s">U</span>
+      <span class="tile block" style="animation-delay:.72s"></span>
     </div>
 
-    <div id="toolbar">
-      <button id="btn-hint" title="Reveal letter">Hint</button>
-      <button id="btn-reveal-word" title="Reveal current word">Reveal Word</button>
-      <button id="btn-reveal-puzzle" title="Reveal entire puzzle">Reveal Puzzle</button>
+    <h1>Thanks for playing.</h1>
+
+    <div class="letter">
+      <p>From March 27 to November 20, 2026, Crosswording the Situation turned the news into a five-by-five mini every morning: 235 puzzles in all. That run has come to an end, and there won’t be new puzzles here.</p>
+      <p>Thank you to everyone who solved one, kept a streak going, sent a friend a grid of green squares, or opened the morning email. Making these was a lot of fun, and knowing you were playing made it more fun.</p>
+      <p class="signoff">— Nicholas</p>
     </div>
 
-    <div id="clue-bar">
-      <button id="clue-prev" aria-label="Previous clue">&lsaquo;</button>
-      <span id="clue-text"></span>
-      <button id="clue-next" aria-label="Next clue">&rsaquo;</button>
-    </div>
+    <section class="card" aria-labelledby="mini-heading">
+      <h2 id="mini-heading">Still want a mini?</h2>
+      <p>I make another one. <strong>The Tucson Mini</strong> is a 5×5 crossword built on Tucson and the desert Southwest: saguaros, monsoons, Sonoran food, and a few nods to the week’s local news. It comes free with <strong>TDB Weekly</strong>, the Sunday-morning newsletter from <a href="https://tucsondailybrief.com/?utm_source=crosswordingthesituation" target="_blank" rel="noopener">Tucson Daily Brief</a>, my AI-assisted local news site covering southern Arizona.</p>
+      <form action="https://buttondown.email/api/emails/embed-subscribe/tucsondailybrief" method="post" target="_blank">
+        <input type="email" name="email" placeholder="you@somewhere.com" aria-label="Email address" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="fine">Free. Sunday mornings. Unsubscribe anytime.</p>
+      <p class="fine"><a class="more" href="https://tucsondailybrief.com/newsletter.html?utm_source=crosswordingthesituation" target="_blank" rel="noopener">See what’s in TDB Weekly →</a></p>
+    </section>
 
-    <div id="clue-lists">
-      <div class="clue-section">
-        <h3>Across</h3>
-        <ol id="clues-across"></ol>
-      </div>
-      <div class="clue-section">
-        <h3>Down</h3>
-        <ol id="clues-down"></ol>
-      </div>
-    </div>
-
-    <div id="complete-overlay" class="hidden">
-      <div id="complete-modal">
-        <button id="close-modal" aria-label="Close">&times;</button>
-
-        <div id="complete-star">&#11088;</div>
-        <h2 id="complete-message">Brilliant Work!</h2>
-        <p class="complete-subtitle">You solved the puzzle.</p>
-
-        <div id="stats-card">
-          <div class="stats-header">
-            <div class="stats-date" id="stats-date"></div>
-          </div>
-          <div class="stats-row">
-            <span class="stats-label">Solved In</span>
-            <span class="stats-value" id="stats-time"></span>
-          </div>
-          <div class="stats-row" id="stats-trend-row">
-            <span class="stats-label">Trend</span>
-            <span class="stats-value" id="stats-trend"></span>
-          </div>
-          <div class="stats-row stats-row-last">
-            <span class="stats-label">Current Streak</span>
-            <span class="stats-value" id="stats-streak"></span>
-          </div>
-        </div>
-
-        <div id="share-grid"></div>
-
-        <div id="complete-buttons">
-          <button id="share-btn">Share</button>
-          <button id="done-btn">Done</button>
-        </div>
-        <p id="copied-msg" class="hidden">Copied to clipboard!</p>
-
-        <div id="modal-cta">
-          <p class="cta-line">Never miss a puzzle.</p>
-          <p class="cta-detail">Get a new one in your inbox every morning.</p>
-          <a href="https://buttondown.com/yesdeleon" target="_blank" rel="noopener" class="cta-btn">Sign up</a>
-        </div>
-      </div>
-    </div>
-
-    <footer id="site-footer">
-      <p class="footer-cta"><a href="https://buttondown.com/yesdeleon" target="_blank" rel="noopener">Subscribe</a> to get a new puzzle in your inbox every morning.</p>
+    <footer>
       <p>Made by Nicholas De Leon in Tucson, Arizona.</p>
       <p><a href="mailto:nicholas@daylayown.org">nicholas@daylayown.org</a> · <a href="https://www.linkedin.com/in/nicholas-de-leon-3b5b6a9/" target="_blank" rel="noopener">LinkedIn</a></p>
       <p>Word list powered by <a href="https://www.spreadthewordlist.com" target="_blank" rel="noopener">Spread The Wordlist</a> (CC BY-NC-SA 4.0).</p>
-      <p>Crosswording the Situation v0.5, built on April 11, 2026.</p>
     </footer>
-  </div>
-
-  <script src="crossword.js"></script>
+  </main>
 </body>
 </html>
